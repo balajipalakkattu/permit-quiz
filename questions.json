@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who must you always yield to in order to avoid collisions?",
+        "image": "",
+        "options": ["Only pedestrians", "Only bicyclists", "Pedestrians, bicyclists, and other vehicles", "Only vehicles larger than yours"],
+        "answer": 2
+    },
+    {
+        "question": "At a four-way stop, who has the right-of-way?",
+        "image": "",
+        "options": ["The driver on the left", "The driver who arrives first", "The fastest driver", "The largest vehicle"],
+        "answer": 1
+    },
+    {
+        "question": "If two or more drivers arrive at a four-way stop at the same time, who goes first?",
+        "image": "",
+        "options": ["The driver on the left", "The driver on the right", "The driver going straight", "The driver turning left"],
+        "answer": 1
+    },
+    {
+        "question": "At an uncontrolled intersection, who should you yield to?",
+        "image": "",
+        "options": ["Vehicles coming from the left", "Vehicles coming from the right", "Vehicles behind you", "Vehicles far away"],
+        "answer": 1
+    },
+    {
+        "question": "Who has the right-of-way in a roundabout?",
+        "image": "",
+        "options": ["Vehicles entering the roundabout", "Vehicles already in the roundabout", "Pedestrians only", "Vehicles on the left side"],
+        "answer": 1
+    },
+    {
+        "question": "At an uncontrolled T-intersection, who must you yield to?",
+        "image": "",
+        "options": ["Traffic on the terminating road", "Cross traffic on the through road", "Only pedestrians", "Only bicyclists"],
+        "answer": 1
+    },
+    {
+        "question": "How far must you stop from a pedestrian using a guide dog or white cane?",
+        "image": "",
+        "options": ["5 feet", "10 feet", "15 feet", "20 feet"],
+        "answer": 1
+    },
+    {
+        "question": "You must yield to a vehicle passing you on the left or right when:",
+        "image": "",
+        "options": ["You are driving faster", "You are driving slower", "You are driving the same direction", "You are stopped"],
+        "answer": 2
+    },
+    {
+        "question": "When making a left turn or U-turn, you must yield to:",
+        "image": "",
+        "options": ["Vehicles behind you", "Approaching vehicles", "Vehicles in the opposite lane only", "Pedestrians only"],
+        "answer": 1
+    },
+    {
+        "question": "When must you yield to emergency vehicles?",
+        "image": "",
+        "options": ["Only when lights are on", "Only when sirens are on", "Only when both lights and sirens are on", "When lights and/or sirens are on"],
+        "answer": 3
+    },
+    {
+        "question": "What following distance rule should you use to ensure safe stopping?",
+        "image": "",
+        "options": ["Two-second rule", "Three-second rule", "Four-second rule", "Five-second rule"],
+        "answer": 2
+    },
+    {
+        "question": "If you reach your chosen object before finishing 'one thousand four,' what does it mean?",
+        "image": "",
+        "options": ["You are driving too slow", "You are driving too fast", "Your brakes are worn", "Your vehicle is too heavy"],
+        "answer": 1
+    },
+    {
+        "question": "How many extra seconds should you add to your following distance in adverse conditions?",
+        "image": "",
+        "options": ["Add 1 second", "Add 2 seconds", "Add 3 seconds", "Add 4 seconds"],
+        "answer": 0
+    },
+    {
+        "question": "What is the speed limit in residential areas unless otherwise posted?",
+        "image": "",
+        "options": ["15 mph", "20 mph", "25 mph", "30 mph"],
+        "answer": 2
+    },
+    {
+        "question": "What is the normal speed limit in a school zone when children are present?",
+        "image": "",
+        "options": ["10 mph", "15 mph", "20 mph", "25 mph"],
+        "answer": 1
+    },
+    {
+        "question": "What is the maximum speed limit in outlying parts of cities and villages with no posted limit?",
+        "image": "",
+        "options": ["25 mph", "30 mph", "35 mph", "40 mph"],
+        "answer": 2
+    },
+    {
+        "question": "Is it legal to exceed the speed limit to pass another vehicle?",
+        "image": "",
+        "options": ["Yes, if safe", "Yes, if the other vehicle is slow", "No, it is illegal", "Only on highways"],
+        "answer": 2
+    },
+    {
+        "question": "Driving too slow can cause:",
+        "image": "",
+        "options": ["Better fuel efficiency", "Vehicles to back up and cause a crash", "Improved traffic flow", "Less road wear"],
+        "answer": 1
+    },
+    {
+        "question": "When merging with traffic, you should enter at:",
+        "image": "",
+        "options": ["A slower speed than traffic", "A faster speed than traffic", "The same speed as traffic", "Any speed you choose"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of an acceleration lane?",
+        "image": "",
+        "options": ["To slow down before merging", "To speed up and match traffic flow", "To stop and wait for a gap", "To allow trucks to pass"],
+        "answer": 1
+    },
+    {
+        "question": "In a deceleration lane, you should:",
+        "image": "",
+        "options": ["Speed up", "Maintain highway speed", "Gradually slow down", "Stop completely"],
+        "answer": 2
+    },
+    {
+        "question": "How far ahead should a driver be able to see to maintain control?",
+        "image": "",
+        "options": ["3–5 seconds", "5–8 seconds", "8–10 seconds", "10–15 seconds"],
+        "answer": 3
+    },
+    {
+        "question": "You should slow down when driving on:",
+        "image": "",
+        "options": ["Straight roads", "Curved roads or hills", "Dry highways", "Open rural roads"],
+        "answer": 1
+    },
+    {
+        "question": "When roads are icy, you should:",
+        "image": "",
+        "options": ["Drive faster", "Drive normally", "Try to avoid driving", "Use cruise control"],
+        "answer": 2
+    },
+    {
+        "question": "Intersections include:",
+        "image": "",
+        "options": ["Only cross streets", "Cross streets, driveways, parking lots, and railroad crossings", "Only major roads", "Only places with stop signs"],
+        "answer": 1
+    },
+    {
+        "question": "Before entering an intersection, you should look:",
+        "image": "",
+        "options": ["Left only", "Right only", "Left and right", "Straight ahead only"],
+        "answer": 2
+    },
+    {
+        "question": "If you cannot see clearly across an intersection, you should:",
+        "image": "",
+        "options": ["Speed up to clear it quickly", "Move forward with caution", "Stop and wait for someone else to move", "Honk your horn"],
+        "answer": 1
+    },
+    {
+        "question": "What can block your view at intersections?",
+        "image": "",
+        "options": ["Trees, buildings, and parked vehicles", "Streetlights", "Road paint", "Mailboxes"],
+        "answer": 0
+    },
+    {
+        "question": "How should you approach a blocked intersection?",
+        "image": "",
+        "options": ["At normal speed", "At a fast pace", "At a slow pace", "Without stopping"],
+        "answer": 2
+    },
+    {
+        "question": "Even if you have the right-of-way at an intersection, you should:",
+        "image": "",
+        "options": ["Proceed without checking", "Search left, right, and left again", "Assume others will stop", "Speed through quickly"],
+        "answer": 1
+    }
+]
