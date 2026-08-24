@@ -256,5 +256,353 @@
         "image": "",
         "options": ["Two-second rule", "Three-second rule", "Four-second following distance rule", "Six-second rule"],
         "answer": 2
+    },
+        {
+        "question": "When might you need to add extra seconds of space in front of your vehicle?",
+        "image": "",
+        "options": ["When roads are dry", "When roads are slippery or icy", "When traffic is light", "When driving downhill only"],
+        "answer": 1
+    },
+    {
+        "question": "You should add extra space in front when the driver behind you:",
+        "image": "",
+        "options": ["Is driving slowly", "Wants to pass you", "Is using hazard lights", "Is turning right"],
+        "answer": 1
+    },
+    {
+        "question": "Extra space in front is needed when following:",
+        "image": "",
+        "options": ["Compact cars", "Trucks, buses, vans, motorcycles, or bicycles", "Electric vehicles", "Vehicles with tinted windows"],
+        "answer": 1
+    },
+    {
+        "question": "You should increase space in front when:",
+        "image": "",
+        "options": ["You have a heavy load or trailer", "You are driving an empty vehicle", "You are driving at night only", "You are driving on a straight road"],
+        "answer": 0
+    },
+    {
+        "question": "Extra space in front is needed when:",
+        "image": "",
+        "options": ["Someone is following you too closely", "You are driving alone", "You are driving in a school zone", "You are driving on a highway"],
+        "answer": 0
+    },
+    {
+        "question": "You should increase space in front when:",
+        "image": "",
+        "options": ["Emergency vehicles are behind you", "Emergency vehicles are ahead of you", "You see a police car parked", "You are near a stop sign"],
+        "answer": 1
+    },
+    {
+        "question": "Extra space in front is needed when approaching:",
+        "image": "",
+        "options": ["A traffic light", "A railroad crossing", "A pedestrian crossing", "A yield sign"],
+        "answer": 1
+    },
+    {
+        "question": "You should increase space in front when stopping on:",
+        "image": "",
+        "options": ["Flat roads", "Hills or inclines", "Bridges", "Highways"],
+        "answer": 1
+    },
+    {
+        "question": "How often should you check your rearview mirror to maintain space behind you?",
+        "image": "",
+        "options": ["Every 2–3 seconds", "Every 4–5 seconds", "Every 6–8 seconds", "Every 10–12 seconds"],
+        "answer": 2
+    },
+    {
+        "question": "If someone is tailgating you, what should you do?",
+        "image": "",
+        "options": ["Speed up", "Brake suddenly", "Slowly reduce your speed", "Move to the left lane immediately"],
+        "answer": 2
+    },
+    {
+        "question": "How can you help a driver behind you who cannot see well behind their vehicle?",
+        "image": "",
+        "options": ["Drive faster", "Keep a steady speed and signal early", "Turn on hazard lights", "Change lanes frequently"],
+        "answer": 1
+    },
+    {
+        "question": "Where should you stop to pick up or let off passengers?",
+        "image": "",
+        "options": ["In the middle of traffic", "In the far-left lane", "In a safe place out of traffic", "At any intersection"],
+        "answer": 2
+    },
+    {
+        "question": "If you are driving slower than most traffic on a multi-lane road, where should you drive?",
+        "image": "",
+        "options": ["Left lane", "Middle lane", "Far-right lane", "Any lane you choose"],
+        "answer": 2
+    },
+    {
+        "question": "When crossing multi-lane roads, you must ensure:",
+        "image": "",
+        "options": ["You can cross halfway", "There is enough room to get all the way across", "You can cross quickly", "You have the right-of-way"],
+        "answer": 1
+    },
+    {
+        "question": "Before crossing traffic, you should:",
+        "image": "",
+        "options": ["Speed up", "Check surroundings and be ready to stop", "Honk your horn", "Turn on hazard lights"],
+        "answer": 1
+    },
+    {
+        "question": "Before turning, you must check:",
+        "image": "",
+        "options": ["Only your rearview mirror", "Mirrors, surroundings, and blind spot", "Only your side mirrors", "Only your blind spot"],
+        "answer": 1
+    },
+    {
+        "question": "What should you avoid while turning?",
+        "image": "",
+        "options": ["Staying in your lane", "Signaling", "Last-second changes", "Checking mirrors"],
+        "answer": 2
+    },
+    {
+        "question": "While turning, you must:",
+        "image": "",
+        "options": ["Change lanes during the turn", "Cross the center line", "Stay in your lane", "Speed up"],
+        "answer": 2
+    },
+    {
+        "question": "Why should you leave extra space for large vehicles during turns?",
+        "image": "",
+        "options": ["They turn faster", "They may cross the center line", "They always have right-of-way", "They stop suddenly"],
+        "answer": 1
+    },
+    {
+        "question": "When preparing for a left turn, you should:",
+        "image": "",
+        "options": ["Stay far from the center line", "Keep close to the center line", "Move into the right lane", "Speed up"],
+        "answer": 1
+    },
+    {
+        "question": "Where should you wait when preparing to turn left at an intersection?",
+        "image": "",
+        "options": ["Before the intersection", "Halfway into the intersection", "In the right lane", "On the crosswalk"],
+        "answer": 1
+    },
+    {
+        "question": "If waiting for oncoming traffic before a left turn, your steering wheel should be:",
+        "image": "",
+        "options": ["Turned left", "Turned right", "Straight", "Slightly angled"],
+        "answer": 2
+    },
+    {
+        "question": "Why must your steering wheel remain straight while waiting to turn left?",
+        "image": "",
+        "options": ["To save fuel", "To avoid being pushed into oncoming traffic if hit from behind", "To avoid tire wear", "To improve visibility"],
+        "answer": 1
+    },
+    {
+        "question": "A U-turn is allowed:",
+        "image": "",
+        "options": ["Anywhere", "Only at intersections with a green arrow", "On rural two-lane highways if safe", "Only in residential areas"],
+        "answer": 2
+    },
+    {
+        "question": "Before making a U-turn, you must:",
+        "image": "",
+        "options": ["Speed up", "Check for 'No U-turn' signs", "Turn on hazard lights", "Move to the right lane"],
+        "answer": 1
+    },
+    {
+        "question": "If you start turning from the left-most lane, you must end up:",
+        "image": "",
+        "options": ["In any lane you choose", "In the right-most lane", "In the middle lane", "In the left-most lane"],
+        "answer": 3
+    },
+    {
+        "question": "To turn right off a four-lane roadway, you must turn from:",
+        "image": "",
+        "options": ["Any lane", "The middle lane", "The lane nearest the right curb", "The left-most lane"],
+        "answer": 2
+    },
+    {
+        "question": "A Y-turn should be used:",
+        "image": "",
+        "options": ["On highways", "Only in residential areas on narrow streets", "At intersections", "On rural roads"],
+        "answer": 1
+    },
+    {
+        "question": "During a Y-turn, the first step is:",
+        "image": "",
+        "options": ["Signal left", "Signal right and pull far right", "Reverse immediately", "Turn sharply left"],
+        "answer": 1
+    },
+    {
+        "question": "During a Y-turn, the second step is:",
+        "image": "",
+        "options": ["Signal right", "Signal left and turn to the opposite curb", "Reverse immediately", "Move forward into traffic"],
+        "answer": 1
+    },
+    {
+        "question": "During a Y-turn, the third step is:",
+        "image": "",
+        "options": ["Reverse while looking over your right shoulder", "Turn sharply right", "Move forward immediately", "Stop and honk"],
+        "answer": 0
+    },
+    {
+        "question": "During a Y-turn, the final step is:",
+        "image": "",
+        "options": ["Reverse again", "Check traffic and pull forward into your lane", "Turn sharply left", "Stop and wait for traffic to clear"],
+        "answer": 1
+    },
+    {
+        "question": "You may use a paved shoulder to pass only when:",
+        "image": "",
+        "options": ["Traffic is slow", "The vehicle is stopped or making a left turn", "You are in a hurry", "You are on a highway"],
+        "answer": 1
+    },
+    {
+        "question": "If someone is trying to pass you, you should:",
+        "image": "",
+        "options": ["Speed up", "Move into another lane", "Stay in your lane and slow down", "Honk your horn"],
+        "answer": 2
+    },
+    {
+        "question": "Before changing lanes, you must:",
+        "image": "",
+        "options": ["Speed up", "Check mirrors and blind spots", "Turn on hazard lights", "Look only forward"],
+        "answer": 1
+    },
+    {
+        "question": "Blind spots are areas:",
+        "image": "",
+        "options": ["Visible in mirrors", "You cannot see by mirrors alone", "Behind the vehicle only", "Next to the rear bumper"],
+        "answer": 1
+    },
+    {
+        "question": "When passing another vehicle, you must pass:",
+        "image": "",
+        "options": ["On the right side", "On the left side only", "In any lane", "In the shoulder"],
+        "answer": 1
+    },
+    {
+        "question": "You should return to your lane after passing when:",
+        "image": "",
+        "options": ["You hear a horn", "You see both headlights of the passed vehicle in your rearview mirror", "You are halfway past the vehicle", "You feel safe"],
+        "answer": 1
+    },
+    {
+        "question": "You cannot exceed the speed limit when:",
+        "image": "",
+        "options": ["Driving downhill", "Passing another vehicle", "Driving on a highway", "Merging"],
+        "answer": 1
+    },
+    {
+        "question": "When backing up, you should move:",
+        "image": "",
+        "options": ["Quickly", "At normal driving speed", "No faster than a slow walk", "Only using mirrors"],
+        "answer": 2
+    },
+    {
+        "question": "When backing up, you should look:",
+        "image": "",
+        "options": ["Only at mirrors", "Only at the backup camera", "Over your right shoulder through the rear window", "Straight ahead"],
+        "answer": 2
+    },
+    {
+        "question": "If you miss your exit, you should:",
+        "image": "",
+        "options": ["Back up carefully", "Stop immediately", "Make a U-turn", "Continue to the next exit"],
+        "answer": 3
+    },
+    {
+        "question": "Parking is normally done on:",
+        "image": "",
+        "options": ["The left side of the road", "The far-right side of the road", "The center lane", "Any lane"],
+        "answer": 1
+    },
+    {
+        "question": "Parking is not allowed:",
+        "image": "",
+        "options": ["Near mailboxes", "Where curbs are yellow or in front of fire hydrants", "On rural roads", "In residential driveways"],
+        "answer": 1
+    },
+    {
+        "question": "When parking on a level surface, you should:",
+        "image": "",
+        "options": ["Leave the car in neutral", "Turn wheels left", "Put the vehicle in Park and set the parking brake", "Turn off headlights only"],
+        "answer": 2
+    },
+    {
+        "question": "When parked uphill with a curb, turn wheels:",
+        "image": "",
+        "options": ["All the way right", "All the way left", "Straight", "Slightly right"],
+        "answer": 1
+    },
+    {
+        "question": "When parked uphill without a curb, turn wheels:",
+        "image": "",
+        "options": ["Left", "Right", "Straight", "Toward traffic"],
+        "answer": 1
+    },
+    {
+        "question": "When parked downhill, turn wheels:",
+        "image": "",
+        "options": ["Left", "Right", "Straight", "Toward the center line"],
+        "answer": 1
+    },
+    {
+        "question": "A parallel parking space should be:",
+        "image": "",
+        "options": ["1 foot longer than your vehicle", "3–6 feet longer than your vehicle", "10 feet longer than your vehicle", "Exactly your vehicle length"],
+        "answer": 1
+    },
+    {
+        "question": "When beginning parallel parking, you should stop:",
+        "image": "",
+        "options": ["6 feet from the vehicle ahead", "2 feet from the vehicle ahead", "1 foot from the curb", "Directly behind the vehicle"],
+        "answer": 1
+    },
+    {
+        "question": "During parallel parking, you turn your wheel:",
+        "image": "",
+        "options": ["Toward the curb first", "All the way to the side you are parking toward", "Straight ahead", "Toward the opposite lane"],
+        "answer": 1
+    },
+    {
+        "question": "You should end parallel parking about:",
+        "image": "",
+        "options": ["1 foot from the curb", "3 feet from the curb", "6 inches from the curb", "2 feet from the curb"],
+        "answer": 0
+    },
+    {
+        "question": "When parallel parked, you should be at least:",
+        "image": "",
+        "options": ["1 foot from vehicles", "2 feet from vehicles in front and behind", "6 inches from vehicles", "3 feet from vehicles"],
+        "answer": 1
+    },
+    {
+        "question": "You communicate with other drivers using:",
+        "image": "",
+        "options": ["Only hand signals", "Headlights, brakes, turn signals, and hazards", "Only your horn", "Only your mirrors"],
+        "answer": 1
+    },
+    {
+        "question": "You should not drive if you are:",
+        "image": "",
+        "options": ["Calm", "Focused", "Very worried, excited, afraid, angry, or depressed", "Listening to music"],
+        "answer": 2
+    },
+    {
+        "question": "A horn is used to:",
+        "image": "",
+        "options": ["Express frustration", "Prevent a crash", "Signal pedestrians only", "Communicate with emergency vehicles"],
+        "answer": 1
+    },
+    {
+        "question": "A light tap on the horn is used to:",
+        "image": "",
+        "options": ["Warn of a collision", "Get another driver's attention", "Signal a turn", "Tell someone to speed up"],
+        "answer": 1
+    },
+    {
+        "question": "You should push hard on the horn when:",
+        "image": "",
+        "options": ["You are angry", "You want someone to move faster", "You are going to hit someone or they are going to hit you", "You are parking"],
+        "answer": 2
     }
 ]
