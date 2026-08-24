@@ -1106,9 +1106,6 @@
         "options": ["Cross immediately", "Wait until the bell or horn stops", "Turn around", "Drive slowly under the gate"],
         "answer": 1
     },
-
-    /* TRAFFIC SIGNALS */
-
     {
         "question": "If a traffic light is not working, you should:",
         "image": "",
