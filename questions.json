@@ -604,5 +604,162 @@
         "image": "",
         "options": ["You are angry", "You want someone to move faster", "You are going to hit someone or they are going to hit you", "You are parking"],
         "answer": 2
+    },
+        {
+        "question": "You must use your low beams when you cannot see a vehicle or person at what distance?",
+        "image": "",
+        "options": ["200 feet", "300 feet", "500 feet", "800 feet"],
+        "answer": 2
+    },
+    {
+        "question": "Low beams must be used during which time period?",
+        "image": "",
+        "options": ["Sunset to sunrise", "Half hour past sunset to half hour before sunrise", "Only at night", "Only during rain"],
+        "answer": 1
+    },
+    {
+        "question": "It is recommended to use low beams when:",
+        "image": "",
+        "options": ["Driving on dry roads", "Using windshield wipers", "Driving in bright sunlight", "Driving on highways"],
+        "answer": 1
+    },
+    {
+        "question": "Low beams are recommended during:",
+        "image": "",
+        "options": ["Rain, snow, or fog", "Clear weather", "Sunny days", "Windy conditions"],
+        "answer": 0
+    },
+    {
+        "question": "High beams allow you to see:",
+        "image": "",
+        "options": ["Half as far as low beams", "Twice as far as low beams", "The same distance as low beams", "Only directly in front of the vehicle"],
+        "answer": 1
+    },
+    {
+        "question": "You must switch from high beams to low beams when:",
+        "image": "",
+        "options": ["Driving uphill", "A vehicle comes toward you", "Driving on a rural road", "Driving in daylight"],
+        "answer": 1
+    },
+    {
+        "question": "If an oncoming driver forgets to turn off their brights, you should:",
+        "image": "",
+        "options": ["Look straight ahead", "Look toward the left side of the road", "Look toward the right side of the road", "Close your eyes briefly"],
+        "answer": 2
+    },
+    {
+        "question": "You may use high beams when:",
+        "image": "",
+        "options": ["Vehicles are approaching", "Driving in fog", "There are no vehicles coming toward you", "Driving behind another vehicle"],
+        "answer": 2
+    },
+    {
+        "question": "High beams may be used in:",
+        "image": "",
+        "options": ["School zones", "Unfamiliar places or construction areas", "Parking lots", "Residential neighborhoods"],
+        "answer": 1
+    },
+    {
+        "question": "Parking lights should be used only when:",
+        "image": "",
+        "options": ["Driving slowly", "Parked and idling", "Driving in fog", "Backing up"],
+        "answer": 1
+    },
+    {
+        "question": "A turn signal is used to:",
+        "image": "",
+        "options": ["Warn pedestrians only", "Let others know your intended direction", "Increase vehicle speed", "Activate headlights"],
+        "answer": 1
+    },
+    {
+        "question": "You should begin signaling for a turn at an intersection about:",
+        "image": "",
+        "options": ["1 second before turning", "3 seconds or about 100 feet before turning", "10 seconds before turning", "After beginning the turn"],
+        "answer": 1
+    },
+    {
+        "question": "If turning after an intersection, you should start signaling:",
+        "image": "",
+        "options": ["Before reaching the intersection", "Once you cross the intersection", "Halfway through the intersection", "Only when traffic is clear"],
+        "answer": 1
+    },
+    {
+        "question": "If your car does not have turn signals, you may use:",
+        "image": "",
+        "options": ["Headlights", "Hand signals", "Hazard lights", "Brake lights"],
+        "answer": 1
+    },
+    {
+        "question": "The hand signal for a left turn is:",
+        "image": "",
+        "options": ["Hand pointed up", "Hand pointed down", "Hand straight out the driver window", "Hand waving"],
+        "answer": 2
+    },
+    {
+        "question": "The hand signal for a right turn is:",
+        "image": "",
+        "options": ["Hand straight out", "Hand pointed down", "Hand bent upward at the elbow", "Hand waving forward"],
+        "answer": 2
+    },
+    {
+        "question": "The hand signal for slowing or stopping is:",
+        "image": "",
+        "options": ["Hand pointed up", "Hand straight out", "Hand pointed to the ground", "Hand waving backward"],
+        "answer": 2
+    },
+    {
+        "question": "Warning signs are usually:",
+        "image": "images/TODO-warning-sign.png",
+        "options": ["Red and octagon-shaped", "Yellow with black symbols, diamond-shaped", "Blue and rectangular", "Green and circular"],
+        "answer": 1
+    },
+    {
+        "question": "You must follow directions from police or crossing guards:",
+        "image": "",
+        "options": ["Only if traffic lights are off", "Only in school zones", "Even if they differ from traffic signs or signals", "Only during emergencies"],
+        "answer": 2
+    },
+    {
+        "question": "What does an Intersection / Cross Road warning sign indicate?",
+        "image": "images/TODO-crossroad.png",
+        "options": ["A dead-end road ahead", "Two or more roads cross ahead", "A divided highway begins", "A pedestrian-only zone"],
+        "answer": 1
+    },
+    {
+        "question": "A Divided Highway sign warns that:",
+        "image": "images/TODO-divided-highway.png",
+        "options": ["Traffic merges ahead", "Traffic moves in the same direction", "Traffic moves in opposite directions separated by a barrier", "The road narrows ahead"],
+        "answer": 2
+    },
+    {
+        "question": "A Slippery When Wet sign warns you to:",
+        "image": "images/TODO-slippery-when-wet.png",
+        "options": ["Speed up", "Slow down", "Turn on hazard lights", "Stop immediately"],
+        "answer": 1
+    },
+    {
+        "question": "A Signal Ahead sign warns that:",
+        "image": "images/TODO-signal-ahead.png",
+        "options": ["A stoplight is ahead", "A railroad crossing is ahead", "A pedestrian zone is ahead", "A speed bump is ahead"],
+        "answer": 0
+    },
+    {
+        "question": "A Deer Crossing sign indicates:",
+        "image": "images/TODO-deer-crossing.png",
+        "options": ["Farm animals ahead", "Deer are likely to cross the road", "A hunting zone", "A wildlife preserve"],
+        "answer": 1
+    },
+    {
+        "question": "A Sharp Turn sign warns you to:",
+        "image": "images/TODO-sharp-turn.png",
+        "options": ["Speed up", "Prepare for a sharp left or right turn", "Expect a lane merge", "Expect a roundabout"],
+        "answer": 1
+    },
+    {
+        "question": "A Lane Ends sign warns that:",
+        "image": "images/TODO-lane-ends.png",
+        "options": ["The road ends ahead", "A lane is ending and you must merge", "A passing zone begins", "A divided highway begins"],
+        "answer": 1
     }
+
 ]
