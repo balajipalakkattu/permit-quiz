@@ -93,8 +93,8 @@
         <button class="next-btn" style="display:block;" onclick="startQuiz()">Try Again</button>
     </div>
 
-    <!-- Footer showing last modified time -->
-    <div id="page-footer" class="footer">Last modified: <span id="last-modified">Loading…</span></div>
+    <!-- Footer showing last modified time for questions.json -->
+    <div id="page-footer" class="footer">Questions last modified: <span id="last-modified">Loading…</span></div>
 </div>
 
 <script>
@@ -226,38 +226,52 @@ function showResults() {
     }
 }
 
-// Try to determine last-modified for the page (uses server header when available, falls back to document.lastModified)
+// Determine last-modified for questions.json (server header when available, fallback to GitHub API and document.lastModified)
 async function setLastModified() {
     const el = document.getElementById('last-modified');
     try {
-        // Attempt a HEAD request for the current path to read Last-Modified header
-        const path = window.location.pathname.replace(/\/[^/]*$/, '/index.html');
-        let resp = await fetch(path, { method: 'HEAD', cache: 'no-cache' });
+        // Try HEAD request for questions.json
+        let resp = await fetch('questions.json', { method: 'HEAD', cache: 'no-cache' });
         let lm = resp.headers.get('last-modified');
 
-        // Some servers don't allow HEAD or don't return header; try GET as fallback
+        // Fallback to GET if HEAD doesn't return header
         if (!lm) {
             try {
-                resp = await fetch(path, { cache: 'no-cache' });
+                resp = await fetch('questions.json', { cache: 'no-cache' });
                 lm = resp.headers.get('last-modified');
             } catch (e) {
                 // ignore
             }
         }
 
-        if (!lm) lm = document.lastModified;
+        // If still no header, try GitHub commits API to get latest commit for the file
+        if (!lm) {
+            try {
+                const apiUrl = 'https://api.github.com/repos/balajipalakkattu/permit-quiz/commits?path=questions.json&per_page=1';
+                const apiResp = await fetch(apiUrl);
+                if (apiResp.ok) {
+                    const commits = await apiResp.json();
+                    if (Array.isArray(commits) && commits.length) {
+                        lm = commits[0]?.commit?.committer?.date || commits[0]?.commit?.author?.date || null;
+                    }
+                }
+            } catch (e) {
+                // ignore
+            }
+        }
+
+        // Final fallback
+        if (!lm) lm = document.lastModified || null;
 
         if (lm) {
             const d = new Date(lm);
-            // If date is invalid, fall back to raw string
             el.innerText = isNaN(d.getTime()) ? lm : d.toLocaleString();
         } else {
             el.innerText = 'Unknown';
         }
     } catch (err) {
-        console.error('Could not determine last modified time', err);
-        const lm = document.lastModified || 'Unknown';
-        el.innerText = lm || 'Unknown';
+        console.error('Could not determine questions.json last modified time', err);
+        el.innerText = document.lastModified || 'Unknown';
     }
 }
 
