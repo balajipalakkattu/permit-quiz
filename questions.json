@@ -1014,6 +1014,340 @@
         "image": "images/TODO-interstate.png",
         "options": ["A yellow diamond", "A red-and-blue shield with white lettering", "A green rectangle", "A blue circle"],
         "answer": 1
+    },
+
+    {
+        "question": "You should never try to do what at a railroad crossing?",
+        "image": "",
+        "options": ["Stop before the tracks", "Beat a train across the tracks", "Look both ways", "Check for room on the other side"],
+        "answer": 1
+    },
+    {
+        "question": "You should not cross railroad tracks if:",
+        "image": "",
+        "options": ["The train is far away", "There is not enough room on the other side", "You are in a hurry", "The lights are off"],
+        "answer": 1
+    },
+    {
+        "question": "You should not shift gears while:",
+        "image": "",
+        "options": ["Driving uphill", "Crossing railroad tracks", "Driving in rain", "Turning left"],
+        "answer": 1
+    },
+    {
+        "question": "Before crossing railroad tracks, you must:",
+        "image": "",
+        "options": ["Speed up", "Look both ways even if signs are not flashing", "Turn on hazard lights", "Stop only if lights flash"],
+        "answer": 1
+    },
+    {
+        "question": "A 'Tracks Out-of-Service' sign means:",
+        "image": "images/TODO-tracks-out-of-service.png",
+        "options": ["Trains are delayed", "Tracks are no longer in use", "Only trucks may cross", "Crossing is prohibited"],
+        "answer": 1
+    },
+    {
+        "question": "An 'Exempt' railroad sign means:",
+        "image": "images/TODO-exempt.png",
+        "options": ["All vehicles must stop", "Certain vehicles are not required to stop", "No vehicles may cross", "Only trains may pass"],
+        "answer": 1
+    },
+    {
+        "question": "A Railroad Crossing Warning sign is:",
+        "image": "images/TODO-railroad-warning.png",
+        "options": ["Square and red", "Round and yellow with an X", "Triangle-shaped", "Blue with white letters"],
+        "answer": 1
+    },
+    {
+        "question": "A crossbuck sign with 'Railroad Crossing' indicates:",
+        "image": "images/TODO-crossbuck.png",
+        "options": ["A pedestrian crossing", "A railroad crossing with listed number of tracks", "A no passing zone", "A construction zone"],
+        "answer": 1
+    },
+    {
+        "question": "Flashing railroad lights mean:",
+        "image": "",
+        "options": ["You may cross slowly", "A train is coming; wait until lights stop flashing", "Trains are stopped", "You must turn around"],
+        "answer": 1
+    },
+    {
+        "question": "A Yield sign posted below a crossbuck means:",
+        "image": "images/TODO-yield-crossbuck.png",
+        "options": ["You may cross without stopping", "You must yield to trains", "Trains must yield to cars", "Only trucks must stop"],
+        "answer": 1
+    },
+    {
+        "question": "A blue 'Report Problem or Emergency' sign at railroad crossings is used to:",
+        "image": "images/TODO-report-problem.png",
+        "options": ["Report speeding vehicles", "Report unsafe railroad conditions", "Report lost items", "Report traffic congestion"],
+        "answer": 1
+    },
+    {
+        "question": "A 'Number of Tracks' sign indicates:",
+        "image": "images/TODO-number-of-tracks.png",
+        "options": ["How many lanes are ahead", "How many train tracks must be crossed", "How many trains pass daily", "How many signals are present"],
+        "answer": 1
+    },
+    {
+        "question": "Before crossing double railroad tracks, you should:",
+        "image": "",
+        "options": ["Cross immediately after the first train passes", "Wait until the train is far away and tracks are clear", "Speed across quickly", "Stop on the tracks"],
+        "answer": 1
+    },
+    {
+        "question": "Train gates that lower indicate:",
+        "image": "images/TODO-train-gate.png",
+        "options": ["You may drive around them if careful", "You may drive under them if rising", "A train is coming; do not drive around or under the gate", "Pedestrians may cross"],
+        "answer": 2
+    },
+    {
+        "question": "If a train gate has horns or lights sounding, you must:",
+        "image": "",
+        "options": ["Cross immediately", "Wait until the bell or horn stops", "Turn around", "Drive slowly under the gate"],
+        "answer": 1
+    },
+
+    /* TRAFFIC SIGNALS */
+
+    {
+        "question": "If a traffic light is not working, you should:",
+        "image": "",
+        "options": ["Proceed normally", "Treat it as a stop sign", "Ignore it", "Speed through quickly"],
+        "answer": 1
+    },
+    {
+        "question": "A steady red light means:",
+        "image": "images/TODO-steady-red.png",
+        "options": ["Slow down", "Stop completely and wait for green", "Proceed with caution", "Turn left only"],
+        "answer": 1
+    },
+    {
+        "question": "You may turn right on red only if:",
+        "image": "",
+        "options": ["There is a green arrow", "It is safe and no sign prohibits it", "You honk first", "You are in the left lane"],
+        "answer": 1
+    },
+    {
+        "question": "You may turn left on red only when:",
+        "image": "",
+        "options": ["Turning from a one-way onto a one-way street", "Turning at any intersection", "Traffic is light", "You are in a roundabout"],
+        "answer": 0
+    },
+    {
+        "question": "A flashing red light means:",
+        "image": "images/TODO-flashing-red.png",
+        "options": ["Proceed without stopping", "Stop and go when safe", "Stop only if other cars are present", "Turn right only"],
+        "answer": 1
+    },
+    {
+        "question": "A steady red arrow means:",
+        "image": "images/TODO-steady-red-arrow.png",
+        "options": ["You may turn left", "You must stop and wait for green", "You may proceed straight", "You may turn right"],
+        "answer": 1
+    },
+    {
+        "question": "A flashing red arrow means:",
+        "image": "images/TODO-flashing-red-arrow.png",
+        "options": ["Stop and turn immediately", "Stop and go when safe", "Proceed without stopping", "Turn only on green"],
+        "answer": 1
+    },
+
+    /* YELLOW LIGHTS */
+
+    {
+        "question": "A steady yellow light means:",
+        "image": "images/TODO-steady-yellow.png",
+        "options": ["Speed up", "Light is about to turn red; slow down and stop if safe", "Turn immediately", "Stop even if in the intersection"],
+        "answer": 1
+    },
+    {
+        "question": "If you are already in the intersection when the light turns yellow, you should:",
+        "image": "",
+        "options": ["Stop immediately", "Back up", "Continue through the intersection", "Turn on hazard lights"],
+        "answer": 2
+    },
+    {
+        "question": "A flashing yellow light means:",
+        "image": "images/TODO-flashing-yellow.png",
+        "options": ["Stop completely", "Slow down and proceed with caution", "Speed up", "Turn only"],
+        "answer": 1
+    },
+    {
+        "question": "A steady yellow arrow means:",
+        "image": "images/TODO-steady-yellow-arrow.png",
+        "options": ["Turn immediately", "Stop if safe; light is about to turn red", "Proceed without caution", "Turn only right"],
+        "answer": 1
+    },
+    {
+        "question": "A flashing yellow arrow means:",
+        "image": "images/TODO-flashing-yellow-arrow.png",
+        "options": ["Turn without yielding", "Yield before turning and proceed with caution", "Stop completely", "Turn only on green"],
+        "answer": 1
+    },
+
+    /* GREEN LIGHTS */
+
+    {
+        "question": "A steady green light means:",
+        "image": "images/TODO-steady-green.png",
+        "options": ["You may go through the intersection", "You must stop", "You must turn left", "You must yield to no one"],
+        "answer": 0
+    },
+    {
+        "question": "When a light turns green, you must:",
+        "image": "",
+        "options": ["Go immediately", "Allow cross traffic to clear first", "Turn right only", "Stop again"],
+        "answer": 1
+    },
+    {
+        "question": "When turning left on a steady green light:",
+        "image": "",
+        "options": ["You have the right-of-way", "Oncoming traffic has the right-of-way", "You must stop first", "You must turn right instead"],
+        "answer": 1
+    },
+    {
+        "question": "A steady green arrow means:",
+        "image": "images/TODO-steady-green-arrow.png",
+        "options": ["Turn in the direction of the arrow; no oncoming traffic should conflict", "Stop and wait", "Turn only when flashing", "Proceed straight only"],
+        "answer": 0
+    },
+
+    /* LINE MARKINGS */
+
+    {
+        "question": "A solid white line indicates:",
+        "image": "images/TODO-solid-white-line.png",
+        "options": ["Left edge of roadway", "Right edge of traffic lane", "Passing zone", "Center of road"],
+        "answer": 1
+    },
+    {
+        "question": "A solid or dashed yellow line indicates:",
+        "image": "images/TODO-yellow-edge.png",
+        "options": ["Right edge of roadway", "Left edge of traffic lanes going your direction", "Parking zone", "Bike lane"],
+        "answer": 1
+    },
+    {
+        "question": "White dashed lines indicate:",
+        "image": "images/TODO-white-dashed.png",
+        "options": ["No passing allowed", "Lanes of traffic going same direction; you may cross when safe", "Opposing traffic", "Reserved lanes"],
+        "answer": 1
+    },
+    {
+        "question": "A solid white line between lanes means:",
+        "image": "images/TODO-solid-white-between.png",
+        "options": ["You may cross freely", "You cannot cross except for hazards or turning within the next block", "Passing is encouraged", "Traffic merges ahead"],
+        "answer": 1
+    },
+    {
+        "question": "Crosswalks are for:",
+        "image": "images/TODO-crosswalk.png",
+        "options": ["Vehicles to stop on", "Pedestrians to cross safely", "Parking", "Bicycles only"],
+        "answer": 1
+    },
+    {
+        "question": "Your front wheels should stop:",
+        "image": "",
+        "options": ["On the crosswalk", "Just before the solid white crosswalk line", "Past the crosswalk", "In the middle of the crosswalk"],
+        "answer": 1
+    },
+    {
+        "question": "Solid yellow lines separate:",
+        "image": "images/TODO-solid-yellow.png",
+        "options": ["Traffic going same direction", "Traffic going opposite directions", "Parking lanes", "Bike lanes"],
+        "answer": 1
+    },
+    {
+        "question": "Two solid yellow lines mean:",
+        "image": "",
+        "options": ["Passing allowed", "No passing allowed", "Passing allowed only for trucks", "Passing allowed only at night"],
+        "answer": 1
+    },
+    {
+        "question": "You may cross solid yellow lines only when:",
+        "image": "",
+        "options": ["Passing any vehicle", "Turning into a driveway safely", "Speeding up", "Avoiding traffic cones"],
+        "answer": 1
+    },
+    {
+        "question": "You may pass a vehicle going less than half the speed limit except:",
+        "image": "",
+        "options": ["If it is farm equipment", "If it is a motorcycle", "If it is a bus", "If it is a bicycle"],
+        "answer": 0
+    },
+    {
+        "question": "A dashed yellow line means:",
+        "image": "images/TODO-dashed-yellow.png",
+        "options": ["No passing allowed", "You may pass when safe", "Reserved lane", "Bike lane"],
+        "answer": 1
+    },
+    {
+        "question": "Dashed and solid yellow lines mean:",
+        "image": "images/TODO-dashed-solid-yellow.png",
+        "options": ["Both sides may pass", "You may pass only on the dashed side", "You may pass only on the solid side", "Passing is prohibited on both sides"],
+        "answer": 1
+    },
+
+    /* SPECIAL LANES */
+
+    {
+        "question": "A shared center lane is used for:",
+        "image": "images/TODO-shared-center-lane.png",
+        "options": ["Passing vehicles", "Left turns or U-turns only", "Parking", "Emergency vehicles only"],
+        "answer": 1
+    },
+    {
+        "question": "Reversible lanes use special lights. A red X means:",
+        "image": "images/TODO-reversible-lane.png",
+        "options": ["Lane is open", "Lane is closed", "Lane is changing", "Lane is for buses only"],
+        "answer": 1
+    },
+    {
+        "question": "In reversible lanes, a green arrow means:",
+        "image": "",
+        "options": ["Lane is closed", "Lane is open", "Lane is changing", "Lane is for turning only"],
+        "answer": 1
+    },
+    {
+        "question": "A yellow X in a reversible lane means:",
+        "image": "",
+        "options": ["Lane is open", "Lane is closed", "Lane is changing; move to a green arrow lane", "Lane is for buses only"],
+        "answer": 2
+    },
+    {
+        "question": "Reserved lanes are for:",
+        "image": "images/TODO-reserved-lane.png",
+        "options": ["Any vehicle", "Special vehicles only", "Emergency vehicles only", "Pedestrians only"],
+        "answer": 1
+    },
+    {
+        "question": "You may travel in a reserved lane only when:",
+        "image": "",
+        "options": ["You are passing another vehicle", "You need to turn across it within the next half block", "Traffic is heavy", "You are driving slowly"],
+        "answer": 1
+    },
+    {
+        "question": "A 'Buses Only' lane means:",
+        "image": "images/TODO-buses-only.png",
+        "options": ["Cars may use it anytime", "Only buses may use it", "Only trucks may use it", "Only emergency vehicles may use it"],
+        "answer": 1
+    },
+    {
+        "question": "A 'Bikes Only' lane means:",
+        "image": "images/TODO-bikes-only.png",
+        "options": ["Cars may use it", "Only bicycles may use it", "Only buses may use it", "Only motorcycles may use it"],
+        "answer": 1
+    },
+    {
+        "question": "A 'Buses and 4 Rider Car Pools Only' lane means:",
+        "image": "images/TODO-carpool.png",
+        "options": ["Any vehicle may use it", "Only buses and car pools with at least four people may use it during posted hours", "Only trucks may use it", "Only emergency vehicles may use it"],
+        "answer": 1
+    },
+    {
+        "question": "Bus or bike lanes may be painted in different colors such as:",
+        "image": "",
+        "options": ["Red, green, or gray", "Yellow only", "Blue only", "Black only"],
+        "answer": 0
     }
 
 
