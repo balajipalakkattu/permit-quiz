@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learner's Permit Practice Test</title>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --success: #16a34a;
+            --error: #dc2626;
+            --bg: #f8fafc;
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: var(--bg);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .quiz-container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 { color: var(--primary); text-align: center; margin-top: 0; }
+        .progress { color: #64748b; font-weight: bold; margin-bottom: 20px; }
+        .quiz-image {
+            max-width: 100%;
+            height: auto;
+            max-height: 200px;
+            display: block;
+            margin: 0 auto 20px auto;
+            border-radius: 6px;
+        }
+        .question { font-size: 1.2rem; font-weight: 600; margin-bottom: 20px; }
+        .options { display: grid; gap: 12px; }
+        .btn {
+            background: #f1f5f9;
+            border: 2px solid #e2e8f0;
+            padding: 14px;
+            border-radius: 8px;
+            text-align: left;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn:hover { background: #e2e8f0; border-color: #cbd5e1; }
+        .correct { background: #dcfce7 !important; border-color: var(--success) !important; color: #14532d; }
+        .wrong { background: #fee2e2 !important; border-color: var(--error) !important; color: #7f1d1d; }
+        .next-btn {
+            margin-top: 20px;
+            width: 100%;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 14px;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            display: none;
+        }
+        .score-screen { text-align: center; display: none; }
+    </style>
+</head>
+<body>
+
+<div class="quiz-container">
+    <div id="quiz-box">
+        <div class="progress">Question <span id="current-idx">1</span> of <span id="total-qty">10</span></div>
+        <img id="q-image" class="quiz-image" src="" alt="Road Sign/Diagram" style="display:none;">
+        <div id="q-text" class="question">Loading question...</div>
+        <div id="options-box" class="options"></div>
+        <button id="next-button" class="next-btn" onclick="nextQuestion()">Next Question</button>
+    </div>
+
+    <div id="result-box" class="score-screen">
+        <h2>Test Complete!</h2>
+        <p style="font-size: 1.5rem;">Your Score: <span id="final-score">0</span>%</p>
+        <p id="pass-fail-msg"></p>
+        <button class="next-btn" style="display:block;" onclick="startQuiz()">Try Again</button>
+    </div>
+</div>
+
+<script>
+// 1. DATABASE OF ALL YOUR HANDBOOK QUESTIONS
+const questionBank = [
+    {
+        question: "What does this road sign mean?",
+        image: "images/stop-sign.png", // Path to your saved screenshot
+        options: ["Yield to oncoming traffic", "Come to a complete stop", "Merge ahead", "Speed limit reduction"],
+        answer: 1 // Index of the correct option (0-based, so 1 = second option)
+    },
+    {
+        question: "When two vehicles arrive at an uncontrolled intersection at the same time, who must yield?",
+        image: "", // Leave blank if there is no diagram for this question
+        options: ["The vehicle on the left", "The vehicle on the right", "The larger vehicle", "The faster vehicle"],
+        answer: 0
+    },
+    // Paste dozens more questions generated from your handbook here!
+];
+
+// 2. QUIZ ENGINE LOGIC
+let sharedQuestions = [];
+let currentQuestionIndex = 0;
+let score = 0;
+const QUESTIONS_PER_TEST = 10; // Number of random questions to show per attempt
+
+function startQuiz() {
+    score = 0;
+    currentQuestionIndex = 0;
+    
+    // Completely randomize the question bank pool
+    const shuffledPool = [...questionBank].sort(() => 0.5 - Math.random());
+    
+    // Slice out the first X questions for this session
+    sharedQuestions = shuffledPool.slice(0, QUESTIONS_PER_TEST);
+    
+    document.getElementById("quiz-box").style.display = "block";
+    document.getElementById("result-box").style.display = "none";
+    document.getElementById("total-qty").innerText = QUESTIONS_PER_TEST;
+    
+    showQuestion();
+}
+
+function showQuestion() {
+    document.getElementById("next-button").style.display = "none";
+    const currentQ = sharedQuestions[currentQuestionIndex];
+    
+    document.getElementById("current-idx").innerText = currentQuestionIndex + 1;
+    document.getElementById("q-text").innerText = currentQ.question;
+    
+    // Handle Image Display
+    const imgElement = document.getElementById("q-image");
+    if (currentQ.image) {
+        imgElement.src = currentQ.image;
+        imgElement.style.display = "block";
+    } else {
+        imgElement.style.display = "none";
+    }
+    
+    // Render Options Buttons
+    const optionsBox = document.getElementById("options-box");
+    optionsBox.innerHTML = "";
+    
+    currentQ.options.forEach((option, idx) => {
+        const button = document.createElement("button");
+        button.innerText = option;
+        button.classList.add("btn");
+        button.onclick = () => selectOption(button, idx, currentQ.answer);
+        optionsBox.appendChild(button);
+    });
+}
+
+function selectOption(selectedButton, selectedIdx, correctIdx) {
+    const allButtons = document.getElementById("options-box").children;
+    
+    // Disable all options so they can't change their mind
+    for (let btn of allButtons) {
+        btn.disabled = true;
+    }
+    
+    if (selectedIdx === correctIdx) {
+        selectedButton.classList.add("correct");
+        score++;
+    } else {
+        selectedButton.classList.add("wrong");
+        allButtons[correctIdx].classList.add("correct"); // Highlight the right answer
+    }
+    
+    document.getElementById("next-button").style.display = "block";
+}
+
+function nextQuestion() {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < sharedQuestions.length) {
+        showQuestion();
+    } else {
+        showResults();
+    }
+}
+
+function showResults() {
+    document.getElementById("quiz-box").style.display = "none";
+    document.getElementById("result-box").style.display = "block";
+    
+    const percentage = Math.round((score / QUESTIONS_PER_TEST) * 100);
+    document.getElementById("final-score").innerText = percentage;
+    
+    const msgElement = document.getElementById("pass-fail-msg");
+    if (percentage >= 80) { // Standard 80% passing mark
+        msgElement.innerText = "Congratulations! You passed the practice exam.";
+        msgElement.style.color = "var(--success)";
+    } else {
+        msgElement.innerText = "You did not pass. Keep studying the handbook!";
+        msgElement.style.color = "var(--error)";
+    }
+}
+
+// Fire up the quiz on initial page load
+startQuiz();
+</script>
+
+</body>
+</html>
