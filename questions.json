@@ -178,5 +178,83 @@
         "image": "",
         "options": ["Proceed without checking", "Search left, right, and left again", "Assume others will stop", "Speed through quickly"],
         "answer": 1
+    },
+        {
+        "question": "Why is it important to slow down gradually instead of stopping suddenly?",
+        "image": "",
+        "options": ["It saves fuel", "It prevents loss of control and rear-end collisions", "It improves tire wear", "It increases traffic flow"],
+        "answer": 1
+    },
+    {
+        "question": "What does coasting mean while driving?",
+        "image": "",
+        "options": ["Driving downhill", "Putting the car in neutral", "Driving with cruise control", "Driving with the clutch engaged"],
+        "answer": 1
+    },
+    {
+        "question": "Why should you avoid coasting while driving?",
+        "image": "",
+        "options": ["It increases fuel use", "It reduces control of the vehicle", "It damages the transmission", "It makes the car go faster"],
+        "answer": 1
+    },
+    {
+        "question": "If you cannot see 10 to 15 seconds ahead of your vehicle, what should you do?",
+        "image": "",
+        "options": ["Speed up to clear the area faster", "Turn on hazard lights", "Slow down to maintain control", "Stop immediately"],
+        "answer": 2
+    },
+    {
+        "question": "What should you do to stay aware of your surroundings while driving?",
+        "image": "",
+        "options": ["Only look straight ahead", "Check all mirrors regularly", "Focus only on the rearview mirror", "Look only to the left"],
+        "answer": 1
+    },
+    {
+        "question": "Which mirrors should you use to look ahead and behind you?",
+        "image": "",
+        "options": ["Side mirrors only", "Rearview mirror only", "Rearview mirror and side mirrors", "Dashboard camera"],
+        "answer": 2
+    },
+    {
+        "question": "What should you do before crossing railroad tracks?",
+        "image": "",
+        "options": ["Speed up to cross quickly", "Assume no train is coming", "Stop, look both ways, and listen", "Follow the car ahead closely"],
+        "answer": 2
+    },
+    {
+        "question": "Before crossing railroad tracks, what must you check?",
+        "image": "",
+        "options": ["If the crossing lights are off", "If there is room for your vehicle on the other side", "If other cars are waiting", "If the train is far away"],
+        "answer": 1
+    },
+    {
+        "question": "Why should you avoid looking at drivers who have been pulled over?",
+        "image": "",
+        "options": ["It is disrespectful", "It could cause a crash", "It is illegal", "It blocks traffic"],
+        "answer": 1
+    },
+    {
+        "question": "Why is it important to give plenty of space to other vehicles?",
+        "image": "",
+        "options": ["It improves fuel efficiency", "It helps maintain visibility and safety", "It reduces road noise", "It prevents speeding"],
+        "answer": 1
+    },
+    {
+        "question": "Why should you give extra space to large vehicles?",
+        "image": "",
+        "options": ["They drive slower", "They need more room to stop", "They block your view and need more space to see you", "They always have the right-of-way"],
+        "answer": 2
+    },
+    {
+        "question": "If a vehicle is driving right next to you on the roadway, what should you do?",
+        "image": "",
+        "options": ["Maintain your speed", "Move ahead or behind when safe", "Honk your horn", "Speed up to pass them"],
+        "answer": 1
+    },
+    {
+        "question": "What rule should you use to maintain space in front of your vehicle?",
+        "image": "",
+        "options": ["Two-second rule", "Three-second rule", "Four-second following distance rule", "Six-second rule"],
+        "answer": 2
     }
 ]
