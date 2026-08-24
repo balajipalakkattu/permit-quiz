@@ -1106,6 +1106,7 @@
         "options": ["Cross immediately", "Wait until the bell or horn stops", "Turn around", "Drive slowly under the gate"],
         "answer": 1
     },
+
     {
         "question": "If a traffic light is not working, you should:",
         "image": "",
@@ -1149,8 +1150,6 @@
         "answer": 1
     },
 
-    /* YELLOW LIGHTS */
-
     {
         "question": "A steady yellow light means:",
         "image": "images/TODO-steady-yellow.png",
@@ -1182,8 +1181,6 @@
         "answer": 1
     },
 
-    /* GREEN LIGHTS */
-
     {
         "question": "A steady green light means:",
         "image": "images/TODO-steady-green.png",
@@ -1208,8 +1205,6 @@
         "options": ["Turn in the direction of the arrow; no oncoming traffic should conflict", "Stop and wait", "Turn only when flashing", "Proceed straight only"],
         "answer": 0
     },
-
-    /* LINE MARKINGS */
 
     {
         "question": "A solid white line indicates:",
@@ -1283,8 +1278,6 @@
         "options": ["Both sides may pass", "You may pass only on the dashed side", "You may pass only on the solid side", "Passing is prohibited on both sides"],
         "answer": 1
     },
-
-    /* SPECIAL LANES */
 
     {
         "question": "A shared center lane is used for:",
@@ -1376,9 +1369,6 @@
         "options": ["A warning only", "A ticket", "A repair fee", "No consequence"],
         "answer": 1
     },
-
-    /* DIVERGING DIAMOND INTERCHANGE */
-
     {
         "question": "A Diverging Diamond Interchange (DDI) is designed to:",
         "image": "",
@@ -1397,8 +1387,6 @@
         "options": ["Ignore signs", "Follow signs, signals, and road markings", "Drive on the left side only", "Stop at every crossover"],
         "answer": 1
     },
-
-    /* TRAFFIC STOPS */
 
     {
         "question": "If pulled over by law enforcement, you should first:",
@@ -1425,8 +1413,6 @@
         "answer": 2
     },
 
-    /* WATCH FOR DEER */
-
     {
         "question": "Deer are most active during:",
         "image": "",
@@ -1452,8 +1438,6 @@
         "answer": 2
     },
 
-    /* FUNERAL PROCESSIONS */
-
     {
         "question": "Vehicles in a funeral procession must:",
         "image": "",
@@ -1467,16 +1451,12 @@
         "answer": 1
     },
 
-    /* DRIVING CONDITIONS */
-
     {
         "question": "Bald tires are dangerous because they:",
         "image": "",
         "options": ["Increase fuel efficiency", "Reduce traction and increase stopping distance", "Improve steering", "Reduce braking power only in summer"],
         "answer": 1
     },
-
-    /* REDUCED VISIBILITY */
 
     {
         "question": "In reduced visibility, vehicles may appear:",
@@ -1491,8 +1471,6 @@
         "answer": 2
     },
 
-    /* SEVERE WEATHER */
-
     {
         "question": "In severe weather, bridges and overpasses:",
         "image": "",
@@ -1506,8 +1484,6 @@
         "answer": 1
     },
 
-    /* SPOTTING SLIPPERY ROADS */
-
     {
         "question": "Slippery or icy roads are common at:",
         "image": "",
@@ -1515,9 +1491,7 @@
         "answer": 1
     },
 
-    /* HYDROPLANING */
-
-    {
+   {
         "question": "Hydroplaning occurs when:",
         "image": "",
         "options": ["Tires grip the road tightly", "Tires slide on top of water", "Brakes lock up", "Engine overheats"],
@@ -1530,8 +1504,6 @@
         "answer": 2
     },
 
-    /* SKIDDING */
-
     {
         "question": "If your vehicle begins skidding, you should:",
         "image": "",
@@ -1539,9 +1511,7 @@
         "answer": 2
     },
 
-    /* WINTER DRIVING */
-
-    {
+   {
         "question": "Before winter driving, you must clear snow and ice from:",
         "image": "",
         "options": ["Only the windshield", "Only the roof", "All windows, lamps, mirrors, and plates", "Only the rear window"],
@@ -1559,8 +1529,6 @@
         "options": ["50 feet", "100 feet", "200 feet", "500 feet"],
         "answer": 2
     },
-
-    /* FARM SAFETY */
 
     {
         "question": "Farm equipment may lack:",
@@ -1586,9 +1554,6 @@
         "options": ["12", "14", "16", "18"],
         "answer": 2
     },
-
-    /* AVOIDING CRASHES */
-
     {
         "question": "The chance of a crash doubles when:",
         "image": "",
@@ -1619,8 +1584,6 @@
         "options": ["Traffic is slow", "Another vehicle is about to hit you from the side or behind", "You are late", "You are entering a roundabout"],
         "answer": 1
     },
-
-    /* CRASHES */
 
     {
         "question": "If someone is injured or killed in a crash, you must:",
@@ -1664,7 +1627,4 @@
         "options": ["You are late for work", "A driver appears under the influence of alcohol or drugs", "Traffic is heavy", "Weather is bad"],
         "answer": 1
     }
-
-
-
 ]
