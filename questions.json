@@ -760,6 +760,261 @@
         "image": "images/TODO-lane-ends.png",
         "options": ["The road ends ahead", "A lane is ending and you must merge", "A passing zone begins", "A divided highway begins"],
         "answer": 1
+    },
+    
+    {
+        "question": "A Merge warning sign indicates that:",
+        "image": "images/TODO-merge.png",
+        "options": ["The road ends ahead", "A lane is merging and you must move over when safe", "A stop sign is ahead", "A pedestrian zone is ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A Hill warning sign means:",
+        "image": "images/TODO-hill.png",
+        "options": ["A steep drop-off is ahead", "A hill is ahead and you may need to slow down", "A flat road is ahead", "A sharp turn is ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A 2-Way Traffic warning sign indicates:",
+        "image": "images/TODO-2-way-traffic.png",
+        "options": ["You are entering a one-way street", "You are leaving a one-way roadway and entering opposing traffic", "Traffic merges ahead", "A divided highway begins"],
+        "answer": 1
+    },
+    {
+        "question": "A Curved Road warning sign means:",
+        "image": "images/TODO-curved-road.png",
+        "options": ["A sharp turn is ahead", "The road curves slowly left or right; slow down if needed", "The road becomes straight", "A roundabout is ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A Stop Ahead warning sign indicates:",
+        "image": "images/TODO-stop-ahead.png",
+        "options": ["A yield sign is ahead", "A stop sign is ahead; slow down to stop safely", "A pedestrian crossing is ahead", "A railroad crossing is ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A Roundabout Ahead warning sign contains:",
+        "image": "images/TODO-roundabout-ahead.png",
+        "options": ["A straight arrow symbol", "A clockwise arrow symbol", "A counterclockwise circular symbol and a 'Roundabout Ahead' plaque", "A pedestrian symbol"],
+        "answer": 2
+    },
+    {
+        "question": "A Pedestrian Crossing warning sign indicates:",
+        "image": "images/TODO-pedestrian-crossing.png",
+        "options": ["Pedestrians may be present but do not cross", "A pedestrian crossing is ahead; yield to pedestrians", "Only school children may cross", "No pedestrians allowed"],
+        "answer": 1
+    },
+    {
+        "question": "A School Crossing or School Zone sign indicates:",
+        "image": "images/TODO-school-crossing.png",
+        "options": ["A playground is ahead", "A school building is nearby but no crossing", "A school zone or crossing; yield to pedestrians", "Only buses may stop here"],
+        "answer": 2
+    },
+
+    {
+        "question": "Regulatory signs generally have what shapes and colors?",
+        "image": "images/TODO-regulatory.png",
+        "options": ["Yellow diamonds", "Square or rectangular, white or red with black/red/white/green lettering", "Orange rectangles", "Blue circles"],
+        "answer": 1
+    },
+    {
+        "question": "A No Turn sign indicates:",
+        "image": "images/TODO-no-turn.png",
+        "options": ["You must turn", "You cannot turn in the direction shown", "You may turn only on green", "You must yield before turning"],
+        "answer": 1
+    },
+    {
+        "question": "A No U-turn sign means:",
+        "image": "images/TODO-no-u-turn.png",
+        "options": ["U-turns are allowed only at intersections", "U-turns are allowed only on rural roads", "You cannot make a U-turn", "You must stop before making a U-turn"],
+        "answer": 2
+    },
+    {
+        "question": "A Do Not Enter sign is used when:",
+        "image": "images/TODO-do-not-enter.png",
+        "options": ["Traffic is merging", "You are entering a two-way street", "You cannot enter, often due to wrong-way or one-way restrictions", "Pedestrians are crossing"],
+        "answer": 2
+    },
+    {
+        "question": "A Speed Limit sign indicates:",
+        "image": "images/TODO-speed-limit.png",
+        "options": ["The minimum speed allowed", "The recommended speed", "The maximum speed allowed in good conditions", "The speed for emergency vehicles only"],
+        "answer": 2
+    },
+    {
+        "question": "A Reduced Speed Ahead sign means:",
+        "image": "images/TODO-reduced-speed-ahead.png",
+        "options": ["Speed increases ahead", "You should slow down due to possible hazards", "You must stop ahead", "The road ends ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A School Speed Limit sign means:",
+        "image": "images/TODO-school-speed-limit.png",
+        "options": ["You may drive any speed", "You cannot exceed the posted speed when children are present", "You must stop when children are present", "Only buses must follow the posted speed"],
+        "answer": 1
+    },
+    {
+        "question": "A Keep Right sign indicates:",
+        "image": "images/TODO-keep-right.png",
+        "options": ["You must turn right", "A traffic island or obstacle divides the road; stay to the right", "Right lane ends ahead", "Left lane merges ahead"],
+        "answer": 1
+    },
+    {
+        "question": "A Left Lane | Right Lane sign indicates:",
+        "image": "images/TODO-left-right-lane.png",
+        "options": ["Both lanes go straight", "Left lane turns left or U-turn; right lane goes straight or turns right", "Right lane turns left only", "Left lane turns right only"],
+        "answer": 1
+    },
+    {
+        "question": "A Left Lane | Middle Lane | Right Lane sign indicates:",
+        "image": "images/TODO-three-lane.png",
+        "options": ["All lanes turn left", "Far-left lane turns left or goes straight; middle goes straight; right turns right", "Middle lane turns left only", "Right lane goes straight only"],
+        "answer": 1
+    },
+    {
+        "question": "A Stop sign requires you to:",
+        "image": "images/TODO-stop.png",
+        "options": ["Slow down only", "Stop partially", "Come to a complete stop and proceed when clear", "Stop only if other vehicles are present"],
+        "answer": 2
+    },
+    {
+        "question": "A Slow Moving Vehicle sign indicates the vehicle may travel at:",
+        "image": "images/TODO-slow-moving.png",
+        "options": ["10 mph or less", "15 mph or less", "25 mph or less", "45 mph or less"],
+        "answer": 2
+    },
+    {
+        "question": "A Yield sign means:",
+        "image": "images/TODO-yield.png",
+        "options": ["Stop immediately", "Speed up to merge", "You must yield right-of-way to other vehicles", "Pedestrians must yield to you"],
+        "answer": 2
+    },
+    {
+        "question": "A No Passing Zone sign is shaped like:",
+        "image": "images/TODO-no-passing-zone.png",
+        "options": ["A red octagon", "A yellow pennant", "A blue rectangle", "A green circle"],
+        "answer": 1
+    },
+    {
+        "question": "A Reserved Parking Only sign indicates:",
+        "image": "images/TODO-reserved-parking.png",
+        "options": ["Parking for anyone", "Parking only for emergency vehicles", "Parking only for vehicles with disabled permits or plates", "Parking only for buses"],
+        "answer": 2
+    },
+    {
+        "question": "Construction signs are typically:",
+        "image": "images/TODO-construction.png",
+        "options": ["Yellow with black letters", "Blue with white letters", "Orange with black letters", "Green with white letters"],
+        "answer": 2
+    },
+    {
+        "question": "Traffic fines in construction zones:",
+        "image": "",
+        "options": ["Are reduced", "Stay the same", "Double", "Are waived"],
+        "answer": 2
+    },
+    {
+        "question": "You may use your cellphone in a construction zone only when:",
+        "image": "",
+        "options": ["Traffic is slow", "Reporting an emergency", "Stopped at a red light", "Using GPS"],
+        "answer": 1
+    },
+    {
+        "question": "A Road Workers Ahead sign means:",
+        "image": "images/TODO-road-workers.png",
+        "options": ["Speed up", "Move over or slow down", "Stop immediately", "Turn around"],
+        "answer": 1
+    },
+    {
+        "question": "A Road Construction Flagger Ahead sign means:",
+        "image": "images/TODO-flagger.png",
+        "options": ["Ignore the worker", "Follow the worker’s directions", "Stop and wait for police", "Turn on hazard lights"],
+        "answer": 1
+    },
+    {
+        "question": "Destination signs are usually:",
+        "image": "images/TODO-destination.png",
+        "options": ["Red", "Blue", "Green or brown with white lettering", "Yellow"],
+        "answer": 2
+    },
+    {
+        "question": "A Destination sign showing 'Madison WEST I‑94' indicates:",
+        "image": "images/TODO-madison.png",
+        "options": ["You must exit immediately", "You are traveling east", "You can take I‑94 west to reach Madison", "Madison is behind you"],
+        "answer": 2
+    },
+    {
+        "question": "An Exit sign shows:",
+        "image": "images/TODO-exit.png",
+        "options": ["Speed limits", "Lane endings", "Which direction the exit is located", "Pedestrian crossings"],
+        "answer": 2
+    },
+    {
+        "question": "A Roundabout Exits sign shows:",
+        "image": "images/TODO-roundabout-exits.png",
+        "options": ["Speed limits", "Which road you will be on when you exit the roundabout", "Where pedestrians cross", "Where to yield"],
+        "answer": 1
+    },
+    {
+        "question": "Street Name signs are usually located:",
+        "image": "images/TODO-street-name.png",
+        "options": ["On the ground", "On top of a silver pole at corners", "On traffic lights", "On stop signs"],
+        "answer": 1
+    },
+    {
+        "question": "Brown destination signs indicate:",
+        "image": "images/TODO-brown-destination.png",
+        "options": ["Hospitals", "Construction zones", "Parks, historical areas, or museums", "Speed limits"],
+        "answer": 2
+    },
+    {
+        "question": "Service signs are usually:",
+        "image": "images/TODO-service.png",
+        "options": ["Red", "Blue with white lettering or symbols", "Yellow", "Orange"],
+        "answer": 1
+    },
+    {
+        "question": "A Hospital Access sign indicates:",
+        "image": "images/TODO-hospital.png",
+        "options": ["Where emergency vehicles park", "Where the hospital is located", "Where to find police", "Where to find restrooms"],
+        "answer": 1
+    },
+    {
+        "question": "Mile markers help:",
+        "image": "images/TODO-mile-marker.png",
+        "options": ["Show speed limits", "Show parking zones", "Locate where you are on the road", "Show construction areas"],
+        "answer": 2
+    },
+    {
+        "question": "Mile markers appear:",
+        "image": "",
+        "options": ["Every 5 miles", "Every 1 to 2 tenths of a mile", "Only at exits", "Only at state borders"],
+        "answer": 1
+    },
+    {
+        "question": "A County Road sign is:",
+        "image": "images/TODO-county-road.png",
+        "options": ["Blue with white letters", "Rectangular with rounded edges, white with black lettering", "Yellow diamond-shaped", "Red octagon-shaped"],
+        "answer": 1
+    },
+    {
+        "question": "A U.S. Route sign looks like:",
+        "image": "images/TODO-us-route.png",
+        "options": ["A circle", "A triangle", "A police badge shape", "A square"],
+        "answer": 2
+    },
+    {
+        "question": "A State Road sign resembles:",
+        "image": "images/TODO-state-road.png",
+        "options": ["A shield", "A milk jug with a spout", "A diamond", "A circle"],
+        "answer": 1
+    },
+    {
+        "question": "An Interstate Highway sign looks like:",
+        "image": "images/TODO-interstate.png",
+        "options": ["A yellow diamond", "A red-and-blue shield with white lettering", "A green rectangle", "A blue circle"],
+        "answer": 1
     }
+
 
 ]
