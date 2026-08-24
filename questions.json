@@ -1348,7 +1348,326 @@
         "image": "",
         "options": ["Red, green, or gray", "Yellow only", "Blue only", "Black only"],
         "answer": 0
+    },
+        {
+        "question": "A ramp is metered when:",
+        "image": "",
+        "options": ["Traffic is heavy", "The 'Ramp Metered When Flashing' sign is on", "Police are present", "The freeway is closed"],
+        "answer": 1
+    },
+    {
+        "question": "When stopping at a metered ramp, you should:",
+        "image": "",
+        "options": ["Stop anywhere on the ramp", "Stop before the ramp begins", "Pull completely up to the white stop line", "Stop behind other vehicles only"],
+        "answer": 2
+    },
+    {
+        "question": "Each lane at a metered ramp has:",
+        "image": "",
+        "options": ["One shared signal", "Its own traffic signal", "No signal", "A stop sign"],
+        "answer": 1
+    },
+    {
+        "question": "You may merge onto the freeway at a metered ramp when:",
+        "image": "",
+        "options": ["The red light is on", "Your signal turns green", "Other cars move", "You feel it is safe"],
+        "answer": 1
+    },
+    {
+        "question": "Disobeying a ramp meter signal can result in:",
+        "image": "",
+        "options": ["A warning only", "A ticket", "A repair fee", "No consequence"],
+        "answer": 1
+    },
+
+    /* DIVERGING DIAMOND INTERCHANGE */
+
+    {
+        "question": "A Diverging Diamond Interchange (DDI) is designed to:",
+        "image": "",
+        "options": ["Increase congestion", "Guide drivers smoothly through exits and entrances", "Remove all traffic signals", "Replace roundabouts"],
+        "answer": 1
+    },
+    {
+        "question": "DDIs improve safety by:",
+        "image": "",
+        "options": ["Increasing speed limits", "Removing all signs", "Reducing crowding and simplifying movements", "Allowing U-turns everywhere"],
+        "answer": 2
+    },
+    {
+        "question": "When driving through a DDI, you must:",
+        "image": "",
+        "options": ["Ignore signs", "Follow signs, signals, and road markings", "Drive on the left side only", "Stop at every crossover"],
+        "answer": 1
+    },
+
+    /* TRAFFIC STOPS */
+
+    {
+        "question": "If pulled over by law enforcement, you should first:",
+        "image": "",
+        "options": ["Speed up to find a better spot", "Pull off to the right-hand side of the road", "Exit your vehicle", "Call 911"],
+        "answer": 1
+    },
+    {
+        "question": "During a traffic stop, you should keep:",
+        "image": "",
+        "options": ["Your seatbelt off", "Your hands on the top of the steering wheel", "Your hands in your pockets", "Your door open"],
+        "answer": 1
+    },
+    {
+        "question": "During a traffic stop, you should NOT:",
+        "image": "",
+        "options": ["Roll down your window", "Turn off your car", "Make sudden movements", "Keep your seatbelt on"],
+        "answer": 2
+    },
+    {
+        "question": "If given a ticket during a traffic stop, you should:",
+        "image": "",
+        "options": ["Argue with the officer", "Refuse to take it", "Stay calm and contest it later in court", "Drive away immediately"],
+        "answer": 2
+    },
+
+    /* WATCH FOR DEER */
+
+    {
+        "question": "Deer are most active during:",
+        "image": "",
+        "options": ["Midday", "Sunrise only", "Sunset to sunrise hours", "Afternoon"],
+        "answer": 2
+    },
+    {
+        "question": "If you see deer eyes reflecting your headlights, you should:",
+        "image": "",
+        "options": ["Speed up", "Turn off headlights", "Slow down and be ready to stop", "Honk continuously"],
+        "answer": 2
+    },
+    {
+        "question": "If you hit a deer, you must:",
+        "image": "",
+        "options": ["Leave immediately", "Call police so they can issue a tag", "Drag the deer off the road yourself", "Ignore the incident"],
+        "answer": 1
+    },
+    {
+        "question": "If you hit a deer and do not want it, who may keep it?",
+        "image": "",
+        "options": ["Only police", "Only farmers", "The next motorist", "No one"],
+        "answer": 2
+    },
+
+    /* FUNERAL PROCESSIONS */
+
+    {
+        "question": "Vehicles in a funeral procession must:",
+        "image": "",
+        "options": ["Have hazard lights on", "Have headlights on", "Drive with windows down", "Stop at every intersection"],
+        "answer": 1
+    },
+    {
+        "question": "You must NOT:",
+        "image": "",
+        "options": ["Yield to the procession", "Cut into a funeral procession", "Allow them to pass", "Let them proceed together"],
+        "answer": 1
+    },
+
+    /* DRIVING CONDITIONS */
+
+    {
+        "question": "Bald tires are dangerous because they:",
+        "image": "",
+        "options": ["Increase fuel efficiency", "Reduce traction and increase stopping distance", "Improve steering", "Reduce braking power only in summer"],
+        "answer": 1
+    },
+
+    /* REDUCED VISIBILITY */
+
+    {
+        "question": "In reduced visibility, vehicles may appear:",
+        "image": "",
+        "options": ["Faster than they are", "Slower than they are", "Larger than they are", "Closer than they are"],
+        "answer": 1
+    },
+    {
+        "question": "In fog or rain, you should:",
+        "image": "",
+        "options": ["Drive faster", "Turn off headlights", "Drive at a lower speed and be ready to stop", "Use high beams"],
+        "answer": 2
+    },
+
+    /* SEVERE WEATHER */
+
+    {
+        "question": "In severe weather, bridges and overpasses:",
+        "image": "",
+        "options": ["Freeze last", "Freeze before the rest of the roadway", "Never freeze", "Are safer than roads"],
+        "answer": 1
+    },
+    {
+        "question": "If your car does NOT have ABS, you should:",
+        "image": "",
+        "options": ["Brake hard and hold", "Pump the brakes gently", "Turn off the engine", "Use cruise control"],
+        "answer": 1
+    },
+
+    /* SPOTTING SLIPPERY ROADS */
+
+    {
+        "question": "Slippery or icy roads are common at:",
+        "image": "",
+        "options": ["Sunny areas", "Shady spots, bridges, and overpasses", "Highways only", "School zones"],
+        "answer": 1
+    },
+
+    /* HYDROPLANING */
+
+    {
+        "question": "Hydroplaning occurs when:",
+        "image": "",
+        "options": ["Tires grip the road tightly", "Tires slide on top of water", "Brakes lock up", "Engine overheats"],
+        "answer": 1
+    },
+    {
+        "question": "If hydroplaning, you should:",
+        "image": "",
+        "options": ["Brake hard", "Turn sharply", "Ease off the gas and keep the wheel straight", "Accelerate"],
+        "answer": 2
+    },
+
+    /* SKIDDING */
+
+    {
+        "question": "If your vehicle begins skidding, you should:",
+        "image": "",
+        "options": ["Brake hard", "Turn the wheel opposite of where you want to go", "Stay off the brake and turn in the direction you want to go", "Accelerate"],
+        "answer": 2
+    },
+
+    /* WINTER DRIVING */
+
+    {
+        "question": "Before winter driving, you must clear snow and ice from:",
+        "image": "",
+        "options": ["Only the windshield", "Only the roof", "All windows, lamps, mirrors, and plates", "Only the rear window"],
+        "answer": 2
+    },
+    {
+        "question": "You should NOT use cruise control on:",
+        "image": "",
+        "options": ["Dry roads", "Slippery roads", "Highways", "Gravel roads"],
+        "answer": 1
+    },
+    {
+        "question": "Give snowplows at least:",
+        "image": "",
+        "options": ["50 feet", "100 feet", "200 feet", "500 feet"],
+        "answer": 2
+    },
+
+    /* FARM SAFETY */
+
+    {
+        "question": "Farm equipment may lack:",
+        "image": "",
+        "options": ["Wheels", "Brake lights or turn signals", "Headlights", "Mirrors"],
+        "answer": 1
+    },
+    {
+        "question": "You must yield right-of-way to:",
+        "image": "",
+        "options": ["Farmers only", "Livestock on or along the highway", "Only large trucks", "Only emergency vehicles"],
+        "answer": 1
+    },
+    {
+        "question": "You should NOT honk at livestock because:",
+        "image": "",
+        "options": ["It wastes fuel", "It may scare the animals", "It is illegal", "It damages your horn"],
+        "answer": 1
+    },
+    {
+        "question": "No one under what age may operate farm machinery on highways?",
+        "image": "",
+        "options": ["12", "14", "16", "18"],
+        "answer": 2
+    },
+
+    /* AVOIDING CRASHES */
+
+    {
+        "question": "The chance of a crash doubles when:",
+        "image": "",
+        "options": ["Driving at night", "A teen driver has another teen in the vehicle", "Driving in rain", "Driving on highways"],
+        "answer": 1
+    },
+    {
+        "question": "To warn drivers behind you of a hazard, you should:",
+        "image": "",
+        "options": ["Honk loudly", "Flash headlights", "Tap your brake pedal three or four times", "Turn off headlights"],
+        "answer": 2
+    },
+    {
+        "question": "When using ABS in an emergency, you should:",
+        "image": "",
+        "options": ["Pump the brakes", "Apply firm, continuous pressure", "Release the brake repeatedly", "Turn off ABS"],
+        "answer": 1
+    },
+    {
+        "question": "To avoid a crash by turning, you must:",
+        "image": "",
+        "options": ["Steer into oncoming traffic", "Turn sharply without checking", "Steer in the direction you want the vehicle to go", "Use only one hand"],
+        "answer": 2
+    },
+    {
+        "question": "Speeding up to avoid a crash may be necessary when:",
+        "image": "",
+        "options": ["Traffic is slow", "Another vehicle is about to hit you from the side or behind", "You are late", "You are entering a roundabout"],
+        "answer": 1
+    },
+
+    /* CRASHES */
+
+    {
+        "question": "If someone is injured or killed in a crash, you must:",
+        "image": "",
+        "options": ["Move vehicles immediately", "Leave the scene", "Call 911 and stay at the scene", "Drive home first"],
+        "answer": 2
+    },
+    {
+        "question": "Leaving the scene of a crash with injury or death is:",
+        "image": "",
+        "options": ["A minor violation", "Legal if traffic is heavy", "A crime", "Allowed if you call later"],
+        "answer": 2
+    },
+    {
+        "question": "If there are no injuries but your vehicle cannot move, you should:",
+        "image": "",
+        "options": ["Stay in traffic", "Call 911 and follow directions", "Push the vehicle yourself", "Leave the scene"],
+        "answer": 1
+    },
+    {
+        "question": "If there are no injuries and you can move your vehicle, you should:",
+        "image": "",
+        "options": ["Stop in the middle of the road", "Move off the road when safe", "Leave immediately", "Wait for police before moving"],
+        "answer": 1
+    },
+    {
+        "question": "You must report a crash to police if property damage is:",
+        "image": "",
+        "options": ["$100 or more", "$500 or more", "$1,000 or more", "$5,000 or more"],
+        "answer": 2
+    },
+    {
+        "question": "You must report a crash if government property damage is:",
+        "image": "",
+        "options": ["$50 or more", "$100 or more", "$200 or more", "$500 or more"],
+        "answer": 2
+    },
+    {
+        "question": "You must report a crash if:",
+        "image": "",
+        "options": ["You are late for work", "A driver appears under the influence of alcohol or drugs", "Traffic is heavy", "Weather is bad"],
+        "answer": 1
     }
+
 
 
 ]
