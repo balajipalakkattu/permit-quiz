@@ -1626,5 +1626,566 @@
         "image": "",
         "options": ["You are late for work", "A driver appears under the influence of alcohol or drugs", "Traffic is heavy", "Weather is bad"],
         "answer": 1
-    }
+    },
+    {
+"question": "What should you do first if you or someone else is injured during a roadside emergency?",
+"image": "",
+"options": ["Call a tow truck", "Call 911", "Move the injured person", "Turn off your engine"],
+"answer": 1
+},
+{
+"question": "What should you turn on during any roadside emergency?",
+"image": "",
+"options": ["High beams", "Parking lights", "Emergency flashers", "Fog lights"],
+"answer": 2
+},
+{
+"question": "What is the first action to take if your brakes stop working?",
+"image": "",
+"options": ["Shift to neutral", "Pump the brake pedal several times", "Turn off the engine", "Honk your horn repeatedly"],
+"answer": 1
+},
+{
+"question": "If your brakes stop working and pumping the pedal does not help, what should you do next?",
+"image": "",
+"options": ["Pull the parking brake", "Speed up to find a safe area", "Turn off headlights", "Shift into reverse"],
+"answer": 0
+},
+{
+"question": "What should you do if pulling the parking brake causes your vehicle to skid?",
+"image": "",
+"options": ["Turn off the engine", "Take off the parking brake", "Pump the gas pedal", "Shift to neutral"],
+"answer": 1
+},
+{
+"question": "When your brakes fail, what should you look for?",
+"image": "",
+"options": ["A place to make a U-turn", "A safe place to slow to a stop", "A nearby gas station", "A downhill road"],
+"answer": 1
+},
+{
+"question": "What should you do first if you experience a tire blowout?",
+"image": "",
+"options": ["Brake hard immediately", "Turn sharply to the right", "Hold the steering wheel to keep the vehicle straight", "Shift into neutral"],
+"answer": 2
+},
+{
+"question": "During a tire blowout, what should you do with the gas pedal?",
+"image": "",
+"options": ["Press it lightly", "Lift your foot off and slow down gradually", "Press it firmly to maintain speed", "Hold it steady"],
+"answer": 1
+},
+{
+"question": "After a tire blowout, when should you pull off the road?",
+"image": "",
+"options": ["Immediately, regardless of traffic", "Only after stopping completely", "When it is safe to do so", "After turning on high beams"],
+"answer": 2
+},
+{
+"question": "If your engine stops working, what should you do with the steering wheel?",
+"image": "",
+"options": ["Let it turn freely", "Hold the steering wheel firmly", "Turn it all the way left", "Lock it in place"],
+"answer": 1
+},
+{
+"question": "When your engine stops working, what should you do with the key?",
+"image": "",
+"options": ["Turn it to the 'off' position", "Remove it from the ignition", "Keep it in the 'on' position", "Turn it to accessory mode"],
+"answer": 2
+},
+{
+"question": "What will happen to the steering wheel if your engine stops working?",
+"image": "",
+"options": ["It will turn more easily", "It will lock completely", "It will be hard to turn", "It will turn automatically"],
+"answer": 2
+},
+{
+"question": "If your engine stops working, when should you pull the car to the side of the road?",
+"image": "",
+"options": ["Only after restarting the engine", "When it is safe to do so", "Immediately, without checking traffic", "After turning on high beams"],
+"answer": 1
+},
+{
+"question": "If your headlights stop working, what should you try first?",
+"image": "",
+"options": ["Turn on high beams", "Flip headlights on/off to check if parking lights are on", "Turn off the engine", "Activate cruise control"],
+"answer": 1
+},
+{
+"question": "When headlights stop working, what lights should you turn on?",
+"image": "",
+"options": ["High beams only", "Fog lights only", "Emergency flashers and low lights", "Interior dome lights"],
+"answer": 2
+},
+{
+"question": "If your headlights stop working, when should you pull off the road?",
+"image": "",
+"options": ["Immediately, without signaling", "Only after stopping completely", "When it is safe to do so", "After turning off all lights"],
+"answer": 2
+},
+{
+"question": "What is the first thing you should do if your gas pedal sticks?",
+"image": "",
+"options": ["Turn off the engine", "Honk your horn", "Keep your eyes on the road", "Shift into reverse"],
+"answer": 2
+},
+{
+"question": "If your gas pedal sticks, what should you do with the transmission?",
+"image": "",
+"options": ["Shift to drive", "Shift to neutral", "Shift to park", "Shift to low gear"],
+"answer": 1
+},
+{
+"question": "When your gas pedal sticks, when should you pull off the road?",
+"image": "",
+"options": ["Immediately, regardless of traffic", "When it is safe to do so", "Only after stopping completely", "After turning on high beams"],
+"answer": 1
+},
+{
+"question": "What should you do after pulling off the road when your gas pedal sticks?",
+"image": "",
+"options": ["Turn off the engine", "Press the gas pedal repeatedly", "Turn on cruise control", "Shift into reverse"],
+"answer": 0
+},
+    {
+"question": "What is the legal alcohol concentration allowed for drivers under 21?",
+"image": "",
+"options": ["0.02%", "0.01%", "0.00%", "0.05%"],
+"answer": 2
+},
+{
+"question": "Driving under the influence of which substances is illegal?",
+"image": "",
+"options": ["Only alcohol", "Only illegal drugs", "Only prescription drugs", "Any drugs, including prescription and non-prescription"],
+"answer": 3
+},
+{
+"question": "What is the only thing that can sober you up after drinking?",
+"image": "",
+"options": ["Coffee", "Cold shower", "Time", "Eating food"],
+"answer": 2
+},
+{
+"question": "If a police officer asks you to take a PAC test, what must you do?",
+"image": "",
+"options": ["You may refuse without consequences", "You must agree to take it", "You can request a delay", "You can choose a different test"],
+"answer": 1
+},
+{
+"question": "What happens if you refuse a PAC test?",
+"image": "",
+"options": ["You receive a warning", "You must pay a small fine", "You will lose driving privileges for at least one year", "You must attend a class"],
+"answer": 2
+},
+{
+"question": "What is a PAC test used to detect?",
+"image": "",
+"options": ["Vehicle defects", "Driver fatigue", "Measurable alcohol concentration", "Drug residue on hands"],
+"answer": 2
+},
+{
+"question": "What is one effect of alcohol or drugs on driving?",
+"image": "",
+"options": ["Improved reaction time", "Better distance judgment", "Trouble figuring out speed and movement", "Increased alertness"],
+"answer": 2
+},
+{
+"question": "What should you check on prescription or non-prescription drugs before driving?",
+"image": "",
+"options": ["Expiration date", "Warning label for side effects", "Brand name", "Dosage instructions only"],
+"answer": 1
+},
+{
+"question": "If a drug label says 'do not operate heavy machinery,' what does this include?",
+"image": "",
+"options": ["Only factory equipment", "Only commercial trucks", "Motor vehicles", "Only farm tractors"],
+"answer": 2
+},
+{
+"question": "What should you do if you need a ride home after drinking?",
+"image": "",
+"options": ["Drive slowly", "Wait 10 minutes", "Ask a sober friend or bartender for help", "Drink water first"],
+"answer": 2
+},
+{
+"question": "What is one known effect of marijuana on driving?",
+"image": "",
+"options": ["Improved focus", "Fewer mistakes", "More mistakes", "Better lane control"],
+"answer": 2
+},
+{
+"question": "What should you avoid using while driving because it covers both ears?",
+"image": "",
+"options": ["Earplugs", "Headsets or headphones", "Bluetooth speakers", "Single-ear earbuds"],
+"answer": 1
+},
+{
+"question": "Why should your radio be kept at a low volume while driving?",
+"image": "",
+"options": ["To save battery", "To avoid distraction", "To hear emergency vehicles", "To improve fuel efficiency"],
+"answer": 2
+},
+{
+"question": "What should you do if you need to use your phone while driving?",
+"image": "",
+"options": ["Hold it in your hand", "Use it only at stop signs", "Pull over when safe", "Use speaker mode while driving"],
+"answer": 2
+},
+{
+"question": "Instruction permit and probationary license holders may use a cell phone only to:",
+"image": "",
+"options": ["Check directions", "Send texts", "Report an emergency", "Call friends"],
+"answer": 2
+},
+{
+"question": "What should regular license holders do regarding cell phone use?",
+"image": "",
+"options": ["Use it freely", "Avoid using it while driving", "Text only at red lights", "Use it only for navigation"],
+"answer": 1
+},
+{
+"question": "If you need to read directions while driving, what should you do?",
+"image": "",
+"options": ["Slow down and read", "Read while keeping one eye on the road", "Pull over to a safe location", "Ask another driver to help"],
+"answer": 2
+},
+{
+"question": "Where should pets be placed while driving?",
+"image": "",
+"options": ["On the driver's lap", "In the front seat", "In a carrier or held by a passenger", "Loose in the back seat"],
+"answer": 2
+},
+{
+"question": "What should you NOT hang from your rearview mirror?",
+"image": "",
+"options": ["Air fresheners", "Nothing at all", "Objects that block your view", "Small decorations"],
+"answer": 2
+},
+{
+"question": "What is drowsy driving?",
+"image": "",
+"options": ["Driving while sick", "Driving while angry", "Driving while very tired", "Driving after eating"],
+"answer": 2
+},
+{
+"question": "Which group is at greater risk for drowsy-related crashes?",
+"image": "",
+"options": ["Older adults", "Teen and young adult drivers", "Professional drivers", "Bicyclists"],
+"answer": 1
+},
+{
+"question": "Which is a sign that you should pull over and rest?",
+"image": "",
+"options": ["Singing loudly", "Yawning or blinking a lot", "Driving slowly", "Feeling hungry"],
+"answer": 1
+},
+{
+"question": "What should you do if you drift from your lane due to tiredness?",
+"image": "",
+"options": ["Speed up", "Turn on hazard lights", "Pull over and rest", "Open the windows"],
+"answer": 2
+},
+{
+"question": "What does hitting the rumble strip indicate?",
+"image": "",
+"options": ["You are driving too fast", "You are too close to the shoulder", "You may be drowsy", "Your tires are worn"],
+"answer": 2
+},
+{
+"question": "Why should you avoid driving next to other vehicles on multi-lane roads?",
+"image": "",
+"options": ["It wastes fuel", "It blocks emergency vehicles", "It reduces reaction time", "It increases blind spot risk"],
+"answer": 3
+},
+{
+"question": "How much distance should you give parked vehicles on the side of the road?",
+"image": "",
+"options": ["No extra distance", "A small amount", "Extra room", "Only if traffic is heavy"],
+"answer": 2
+},
+{
+"question": "Where should you avoid driving to prevent being unseen by other drivers?",
+"image": "",
+"options": ["In front of trucks", "In blind spots", "In the right lane", "Near intersections"],
+"answer": 1
+},
+{
+"question": "What is illegal regarding pedestrians?",
+"image": "",
+"options": ["Stopping for them", "Honking at them", "Driving on a sidewalk except when crossing it", "Letting them cross"],
+"answer": 2
+},
+{
+"question": "What should you do when you see emergency lights and hear sirens?",
+"image": "",
+"options": ["Speed up", "Stop immediately in your lane", "Pull over and stop until the vehicle passes", "Continue driving normally"],
+"answer": 2
+},
+{
+"question": "Where should you NOT stop when an emergency vehicle approaches?",
+"image": "",
+"options": ["On the shoulder", "In the middle of an intersection", "In the right lane", "In a parking lot"],
+"answer": 1
+},
+{
+"question": "If approaching a stopped emergency vehicle with flashing lights, what must you do?",
+"image": "",
+"options": ["Speed up to pass quickly", "Move into the lane farthest from the vehicle", "Stop immediately", "Turn on high beams"],
+"answer": 1
+},
+{
+"question": "How far must you stop from a school bus with flashing red lights?",
+"image": "",
+"options": ["10 feet", "15 feet", "20 feet", "30 feet"],
+"answer": 2
+},
+{
+"question": "When must you stop for a school bus with flashing red lights?",
+"image": "",
+"options": ["Only if you are behind it", "Only if children are visible", "Whether on your side or opposite side of the road", "Only in school zones"],
+"answer": 2
+},
+{
+"question": "When do you NOT need to stop for a school bus with flashing red lights?",
+"image": "",
+"options": ["On a rural road", "On a city street", "On a divided highway when you are not on the bus’s side", "When children are seated"],
+"answer": 2
+},
+{
+"question": "Why should you give motorcycles extra room?",
+"image": "",
+"options": ["They are slower", "They stop faster than most vehicles", "They are louder", "They use more space"],
+"answer": 1
+},
+{
+"question": "What should you do before moving when sharing the road with motorcycles?",
+"image": "",
+"options": ["Check blind spots", "Turn on hazard lights", "Speed up", "Honk twice"],
+"answer": 0
+},
+{
+"question": "How much room must you give bicyclists when passing?",
+"image": "",
+"options": ["1 foot", "2 feet", "3 feet", "5 feet"],
+"answer": 2
+},
+{
+"question": "Should you share a lane with a bicyclist?",
+"image": "",
+"options": ["Yes, if the lane is wide", "Yes, if traffic is slow", "No, never", "Only at night"],
+"answer": 2
+},
+{
+"question": "What should bicyclists ideally have on their bikes?",
+"image": "",
+"options": ["GPS", "Reflectors or lights", "Two mirrors", "A horn"],
+"answer": 1
+},
+{
+"question": "What does the bicycle hand signal with the left arm straight out indicate?",
+"image": "images/TODO-left-turn.png",
+"options": ["Right turn", "Stop", "Left turn", "Slow down"],
+"answer": 2
+},
+{
+"question": "What does the bicycle hand signal with the left arm bent upward indicate?",
+"image": "images/TODO-right-turn.png",
+"options": ["Stop", "Right turn", "Left turn", "Yield"],
+"answer": 1
+},
+{
+"question": "What does the bicycle hand signal with the left arm bent downward indicate?",
+"image": "images/TODO-stop.png",
+"options": ["Left turn", "Right turn", "Stop", "Speed up"],
+"answer": 2
+},
+{
+"question": "How far behind a large truck is considered a No-Zone?",
+"image": "",
+"options": ["50 feet", "100 feet", "200 feet", "300 feet"],
+"answer": 2
+},
+{
+"question": "How far in front of a large truck is considered a No-Zone?",
+"image": "",
+"options": ["5 feet", "10 feet", "20 feet", "40 feet"],
+"answer": 2
+},
+{
+"question": "What should you do if you are in a truck’s blind spot?",
+"image": "",
+"options": ["Stay there", "Slow down only", "Either speed up or drop back", "Honk repeatedly"],
+"answer": 2
+},
+{
+"question": "How many demerit points will suspend your driving privilege within 12 months?",
+"image": "",
+"options": ["6 points", "8 points", "10 points", "12 points"],
+"answer": 3
+},
+{
+"question": "What happens to points for probationary license holders after their second conviction?",
+"image": "",
+"options": ["They stay the same", "They are reduced", "They are doubled", "They are erased"],
+"answer": 2
+},
+{
+"question": "What qualifies someone as a habitual traffic offender?",
+"image": "",
+"options": ["Two major violations", "Four major or 12 minor violations in five years", "Three minor violations", "One DUI"],
+"answer": 1
+},
+{
+"question": "How long will a habitual traffic offender lose driving privileges?",
+"image": "",
+"options": ["One year", "Two years", "Three years", "Five years"],
+"answer": 3
+},
+{
+"question": "When can a habitual traffic offender apply for an occupational license?",
+"image": "",
+"options": ["Immediately", "After one year", "After two years", "After five years"],
+"answer": 2
+},
+{
+"question": "How many hours per day can you drive with an occupational license?",
+"image": "",
+"options": ["6 hours", "8 hours", "12 hours", "24 hours"],
+"answer": 2
+},
+{
+"question": "How many hours per week can you drive with an occupational license?",
+"image": "",
+"options": ["40 hours", "50 hours", "60 hours", "70 hours"],
+"answer": 2
+},
+{
+"question": "What must you show to apply for an occupational license?",
+"image": "",
+"options": ["Proof of employment", "Proof of insurance only", "Proof of financial responsibility", "A letter from your employer"],
+"answer": 2
+},
+{
+"question": "Where can you drive with an occupational license?",
+"image": "",
+"options": ["Anywhere", "Only to work and school", "To work, school, household needs, and IDP/DSP appointments", "Only within your city"],
+"answer": 2
+},
+{
+"question": "What must you present to reinstate a revoked license?",
+"image": "",
+"options": ["A written essay", "Proof of identity and reinstatement fee", "A driving test", "A medical certificate"],
+"answer": 1
+},
+    [
+{
+"question": "How should the lap belt fit when worn correctly?",
+"image": "",
+"options": ["Loosely across the stomach", "Snugly across the hip bones under the stomach", "Across the lower chest", "High across the ribs"],
+"answer": 1
+},
+{
+"question": "Where should the shoulder belt be worn?",
+"image": "",
+"options": ["Under the arm", "Behind the back", "Across the chest", "Across the stomach"],
+"answer": 2
+},
+{
+"question": "How much space should be between your chest and the shoulder belt?",
+"image": "",
+"options": ["No space at all", "Enough for two fists", "Enough for one fist", "Six inches"],
+"answer": 2
+},
+{
+"question": "What should you NEVER do with a shoulder belt?",
+"image": "",
+"options": ["Wear it across your chest", "Adjust it snugly", "Put it under your arm", "Check its tightness"],
+"answer": 2
+},
+{
+"question": "Children generally must use a child safety seat until what age?",
+"image": "",
+"options": ["Age 2", "Age 3", "Age 4", "Age 6"],
+"answer": 2
+},
+{
+"question": "Children generally must use a booster seat until what age?",
+"image": "",
+"options": ["Age 5", "Age 6", "Age 7", "Age 8"],
+"answer": 3
+},
+{
+"question": "What should you check in the child safety seat manual?",
+"image": "",
+"options": ["Color options", "Installation instructions and weight/height requirements", "Warranty details", "Cleaning instructions only"],
+"answer": 1
+},
+{
+"question": "Where can you get help if you cannot buy a child safety seat?",
+"image": "",
+"options": ["Your local grocery store", "Any police station", "The SafeKids Wisconsin website or phone number", "Your insurance company"],
+"answer": 2
+},
+{
+"question": "What is the phone number provided for child safety seat assistance?",
+"image": "",
+"options": ["(414) 555-1212", "(414) 316-8058", "(608) 316-8058", "(800) 316-4141"],
+"answer": 1
+},
+{
+"question": "What type of insurance must you have to drive in Wisconsin?",
+"image": "",
+"options": ["Collision insurance", "Comprehensive insurance", "Valid liability car insurance", "Rental insurance"],
+"answer": 2
+},
+{
+"question": "When must you present proof of insurance?",
+"image": "",
+"options": ["When renewing your license", "Only after a crash", "Whenever a police officer requests it", "Only during vehicle registration"],
+"answer": 2
+},
+{
+"question": "If you are from another state, what insurance proof can you provide?",
+"image": "",
+"options": ["Only Wisconsin-issued insurance", "Only rental car insurance", "Proof from your own state's insurance company", "No proof is needed"],
+"answer": 2
+},
+{
+"question": "If you are driving someone else’s car, what must you ensure?",
+"image": "",
+"options": ["That it has a full tank of gas", "That it has insurance", "That it has new tires", "That it has a clean interior"],
+"answer": 1
+},
+{
+"question": "Which action helps save fuel?",
+"image": "",
+"options": ["Driving faster", "Carpooling or ride sharing", "Idling frequently", "Driving with windows open"],
+"answer": 1
+},
+{
+"question": "Why should you avoid driving during heavy traffic periods?",
+"image": "",
+"options": ["It increases fuel efficiency", "It reduces wear and tear", "Stop-and-go driving causes extra wear and tear", "It improves brake performance"],
+"answer": 2
+},
+{
+"question": "How does slowing down little by little help your vehicle?",
+"image": "",
+"options": ["It increases engine temperature", "It saves fuel and brakes", "It reduces tire pressure", "It improves acceleration"],
+"answer": 1
+},
+{
+"question": "What happens when a vehicle is not in good working condition?",
+"image": "",
+"options": ["It becomes more fuel efficient", "It costs less to run", "It may break down and crash", "It improves braking ability"],
+"answer": 2
+},
+{
+"question": "What effect does low tire air pressure have?",
+"image": "",
+"options": ["Increases fuel mileage", "Decreases fuel mileage", "Improves braking", "Improves steering"],
+"answer": 1
+}
+]
+
 ]
