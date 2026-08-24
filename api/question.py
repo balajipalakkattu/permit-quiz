@@ -3,13 +3,40 @@ import json, os
 
 app = Flask(__name__)
 
-@app.route("/api/questions")
-def questions():
-    with open(../"questions.json") as f:
+QUESTIONS_FILE = "questions.json"
+
+def load_questions():
+    with open(QUESTIONS_FILE, "r") as f:
         data = json.load(f)
+    return data
+
+def validate_question(q):
+    return (
+        isinstance(q.get("question"), str)
+        and isinstance(q.get("options"), list)
+        and len(q["options"]) == 4
+        and isinstance(q.get("answer"), int)
+        and 0 <= q["answer"] <= 3
+    )
+
+@app.route("/api/questions")
+def get_questions():
+    data = load_questions()
+
+    if not isinstance(data, list) or not all(validate_question(q) for q in data):
+        return jsonify({"error": "Invalid question format"}), 500
+
+    last_modified = os.path.getmtime(QUESTIONS_FILE)
+
     return jsonify({
-        "meta": { "lastModified": os.path.getmtime("questions.json") },
+        "meta": { "lastModified": last_modified },
         "questions": data
     })
 
-app.run(port=3000)
+@app.route("/api/last-modified")
+def last_modified():
+    ts = os.path.getmtime(QUESTIONS_FILE)
+    return jsonify({ "lastModified": ts })
+
+if __name__ == "__main__":
+    app.run(port=3000)
