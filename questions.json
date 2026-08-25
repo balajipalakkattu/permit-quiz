@@ -1,2189 +1,3973 @@
 [
-    {
-        "question": "Who must you always yield to in order to avoid collisions?",
-        "image": "",
-        "options": ["Only pedestrians", "Only bicyclists", "Pedestrians, bicyclists, and other vehicles", "Only vehicles larger than yours"],
-        "answer": 2
-    },
-    {
-        "question": "At a four-way stop, who has the right-of-way?",
-        "image": "",
-        "options": ["The driver on the left", "The driver who arrives first", "The fastest driver", "The largest vehicle"],
-        "answer": 1
-    },
-    {
-        "question": "If two or more drivers arrive at a four-way stop at the same time, who goes first?",
-        "image": "",
-        "options": ["The driver on the left", "The driver on the right", "The driver going straight", "The driver turning left"],
-        "answer": 1
-    },
-    {
-        "question": "At an uncontrolled intersection, who should you yield to?",
-        "image": "",
-        "options": ["Vehicles coming from the left", "Vehicles coming from the right", "Vehicles behind you", "Vehicles far away"],
-        "answer": 1
-    },
-    {
-        "question": "Who has the right-of-way in a roundabout?",
-        "image": "",
-        "options": ["Vehicles entering the roundabout", "Vehicles already in the roundabout", "Pedestrians only", "Vehicles on the left side"],
-        "answer": 1
-    },
-    {
-        "question": "At an uncontrolled T-intersection, who must you yield to?",
-        "image": "",
-        "options": ["Traffic on the terminating road", "Cross traffic on the through road", "Only pedestrians", "Only bicyclists"],
-        "answer": 1
-    },
-    {
-        "question": "How far must you stop from a pedestrian using a guide dog or white cane?",
-        "image": "",
-        "options": ["5 feet", "10 feet", "15 feet", "20 feet"],
-        "answer": 1
-    },
-    {
-        "question": "You must yield to a vehicle passing you on the left or right when:",
-        "image": "",
-        "options": ["You are driving faster", "You are driving slower", "You are driving the same direction", "You are stopped"],
-        "answer": 2
-    },
-    {
-        "question": "When making a left turn or U-turn, you must yield to:",
-        "image": "",
-        "options": ["Vehicles behind you", "Approaching vehicles", "Vehicles in the opposite lane only", "Pedestrians only"],
-        "answer": 1
-    },
-    {
-        "question": "When must you yield to emergency vehicles?",
-        "image": "",
-        "options": ["Only when lights are on", "Only when sirens are on", "Only when both lights and sirens are on", "When lights and/or sirens are on"],
-        "answer": 3
-    },
-    {
-        "question": "What following distance rule should you use to ensure safe stopping?",
-        "image": "",
-        "options": ["Two-second rule", "Three-second rule", "Four-second rule", "Five-second rule"],
-        "answer": 2
-    },
-    {
-        "question": "If you reach your chosen object before finishing 'one thousand four,' what does it mean?",
-        "image": "",
-        "options": ["You are driving too slow", "You are driving too fast", "Your brakes are worn", "Your vehicle is too heavy"],
-        "answer": 1
-    },
-    {
-        "question": "How many extra seconds should you add to your following distance in adverse conditions?",
-        "image": "",
-        "options": ["Add 1 second", "Add 2 seconds", "Add 3 seconds", "Add 4 seconds"],
-        "answer": 0
-    },
-    {
-        "question": "What is the speed limit in residential areas unless otherwise posted?",
-        "image": "",
-        "options": ["15 mph", "20 mph", "25 mph", "30 mph"],
-        "answer": 2
-    },
-    {
-        "question": "What is the normal speed limit in a school zone when children are present?",
-        "image": "",
-        "options": ["10 mph", "15 mph", "20 mph", "25 mph"],
-        "answer": 1
-    },
-    {
-        "question": "What is the maximum speed limit in outlying parts of cities and villages with no posted limit?",
-        "image": "",
-        "options": ["25 mph", "30 mph", "35 mph", "40 mph"],
-        "answer": 2
-    },
-    {
-        "question": "Is it legal to exceed the speed limit to pass another vehicle?",
-        "image": "",
-        "options": ["Yes, if safe", "Yes, if the other vehicle is slow", "No, it is illegal", "Only on highways"],
-        "answer": 2
-    },
-    {
-        "question": "Driving too slow can cause:",
-        "image": "",
-        "options": ["Better fuel efficiency", "Vehicles to back up and cause a crash", "Improved traffic flow", "Less road wear"],
-        "answer": 1
-    },
-    {
-        "question": "When merging with traffic, you should enter at:",
-        "image": "",
-        "options": ["A slower speed than traffic", "A faster speed than traffic", "The same speed as traffic", "Any speed you choose"],
-        "answer": 2
-    },
-    {
-        "question": "What is the purpose of an acceleration lane?",
-        "image": "",
-        "options": ["To slow down before merging", "To speed up and match traffic flow", "To stop and wait for a gap", "To allow trucks to pass"],
-        "answer": 1
-    },
-    {
-        "question": "In a deceleration lane, you should:",
-        "image": "",
-        "options": ["Speed up", "Maintain highway speed", "Gradually slow down", "Stop completely"],
-        "answer": 2
-    },
-    {
-        "question": "How far ahead should a driver be able to see to maintain control?",
-        "image": "",
-        "options": ["3–5 seconds", "5–8 seconds", "8–10 seconds", "10–15 seconds"],
-        "answer": 3
-    },
-    {
-        "question": "You should slow down when driving on:",
-        "image": "",
-        "options": ["Straight roads", "Curved roads or hills", "Dry highways", "Open rural roads"],
-        "answer": 1
-    },
-    {
-        "question": "When roads are icy, you should:",
-        "image": "",
-        "options": ["Drive faster", "Drive normally", "Try to avoid driving", "Use cruise control"],
-        "answer": 2
-    },
-    {
-        "question": "Intersections include:",
-        "image": "",
-        "options": ["Only cross streets", "Cross streets, driveways, parking lots, and railroad crossings", "Only major roads", "Only places with stop signs"],
-        "answer": 1
-    },
-    {
-        "question": "Before entering an intersection, you should look:",
-        "image": "",
-        "options": ["Left only", "Right only", "Left and right", "Straight ahead only"],
-        "answer": 2
-    },
-    {
-        "question": "If you cannot see clearly across an intersection, you should:",
-        "image": "",
-        "options": ["Speed up to clear it quickly", "Move forward with caution", "Stop and wait for someone else to move", "Honk your horn"],
-        "answer": 1
-    },
-    {
-        "question": "What can block your view at intersections?",
-        "image": "",
-        "options": ["Trees, buildings, and parked vehicles", "Streetlights", "Road paint", "Mailboxes"],
-        "answer": 0
-    },
-    {
-        "question": "How should you approach a blocked intersection?",
-        "image": "",
-        "options": ["At normal speed", "At a fast pace", "At a slow pace", "Without stopping"],
-        "answer": 2
-    },
-    {
-        "question": "Even if you have the right-of-way at an intersection, you should:",
-        "image": "",
-        "options": ["Proceed without checking", "Search left, right, and left again", "Assume others will stop", "Speed through quickly"],
-        "answer": 1
-    },
-        {
-        "question": "Why is it important to slow down gradually instead of stopping suddenly?",
-        "image": "",
-        "options": ["It saves fuel", "It prevents loss of control and rear-end collisions", "It improves tire wear", "It increases traffic flow"],
-        "answer": 1
-    },
-    {
-        "question": "What does coasting mean while driving?",
-        "image": "",
-        "options": ["Driving downhill", "Putting the car in neutral", "Driving with cruise control", "Driving with the clutch engaged"],
-        "answer": 1
-    },
-    {
-        "question": "Why should you avoid coasting while driving?",
-        "image": "",
-        "options": ["It increases fuel use", "It reduces control of the vehicle", "It damages the transmission", "It makes the car go faster"],
-        "answer": 1
-    },
-    {
-        "question": "If you cannot see 10 to 15 seconds ahead of your vehicle, what should you do?",
-        "image": "",
-        "options": ["Speed up to clear the area faster", "Turn on hazard lights", "Slow down to maintain control", "Stop immediately"],
-        "answer": 2
-    },
-    {
-        "question": "What should you do to stay aware of your surroundings while driving?",
-        "image": "",
-        "options": ["Only look straight ahead", "Check all mirrors regularly", "Focus only on the rearview mirror", "Look only to the left"],
-        "answer": 1
-    },
-    {
-        "question": "Which mirrors should you use to look ahead and behind you?",
-        "image": "",
-        "options": ["Side mirrors only", "Rearview mirror only", "Rearview mirror and side mirrors", "Dashboard camera"],
-        "answer": 2
-    },
-    {
-        "question": "What should you do before crossing railroad tracks?",
-        "image": "",
-        "options": ["Speed up to cross quickly", "Assume no train is coming", "Stop, look both ways, and listen", "Follow the car ahead closely"],
-        "answer": 2
-    },
-    {
-        "question": "Before crossing railroad tracks, what must you check?",
-        "image": "",
-        "options": ["If the crossing lights are off", "If there is room for your vehicle on the other side", "If other cars are waiting", "If the train is far away"],
-        "answer": 1
-    },
-    {
-        "question": "Why should you avoid looking at drivers who have been pulled over?",
-        "image": "",
-        "options": ["It is disrespectful", "It could cause a crash", "It is illegal", "It blocks traffic"],
-        "answer": 1
-    },
-    {
-        "question": "Why is it important to give plenty of space to other vehicles?",
-        "image": "",
-        "options": ["It improves fuel efficiency", "It helps maintain visibility and safety", "It reduces road noise", "It prevents speeding"],
-        "answer": 1
-    },
-    {
-        "question": "Why should you give extra space to large vehicles?",
-        "image": "",
-        "options": ["They drive slower", "They need more room to stop", "They block your view and need more space to see you", "They always have the right-of-way"],
-        "answer": 2
-    },
-    {
-        "question": "If a vehicle is driving right next to you on the roadway, what should you do?",
-        "image": "",
-        "options": ["Maintain your speed", "Move ahead or behind when safe", "Honk your horn", "Speed up to pass them"],
-        "answer": 1
-    },
-    {
-        "question": "What rule should you use to maintain space in front of your vehicle?",
-        "image": "",
-        "options": ["Two-second rule", "Three-second rule", "Four-second following distance rule", "Six-second rule"],
-        "answer": 2
-    },
-        {
-        "question": "When might you need to add extra seconds of space in front of your vehicle?",
-        "image": "",
-        "options": ["When roads are dry", "When roads are slippery or icy", "When traffic is light", "When driving downhill only"],
-        "answer": 1
-    },
-    {
-        "question": "You should add extra space in front when the driver behind you:",
-        "image": "",
-        "options": ["Is driving slowly", "Wants to pass you", "Is using hazard lights", "Is turning right"],
-        "answer": 1
-    },
-    {
-        "question": "Extra space in front is needed when following:",
-        "image": "",
-        "options": ["Compact cars", "Trucks, buses, vans, motorcycles, or bicycles", "Electric vehicles", "Vehicles with tinted windows"],
-        "answer": 1
-    },
-    {
-        "question": "You should increase space in front when:",
-        "image": "",
-        "options": ["You have a heavy load or trailer", "You are driving an empty vehicle", "You are driving at night only", "You are driving on a straight road"],
-        "answer": 0
-    },
-    {
-        "question": "Extra space in front is needed when:",
-        "image": "",
-        "options": ["Someone is following you too closely", "You are driving alone", "You are driving in a school zone", "You are driving on a highway"],
-        "answer": 0
-    },
-    {
-        "question": "You should increase space in front when:",
-        "image": "",
-        "options": ["Emergency vehicles are behind you", "Emergency vehicles are ahead of you", "You see a police car parked", "You are near a stop sign"],
-        "answer": 1
-    },
-    {
-        "question": "Extra space in front is needed when approaching:",
-        "image": "",
-        "options": ["A traffic light", "A railroad crossing", "A pedestrian crossing", "A yield sign"],
-        "answer": 1
-    },
-    {
-        "question": "You should increase space in front when stopping on:",
-        "image": "",
-        "options": ["Flat roads", "Hills or inclines", "Bridges", "Highways"],
-        "answer": 1
-    },
-    {
-        "question": "How often should you check your rearview mirror to maintain space behind you?",
-        "image": "",
-        "options": ["Every 2–3 seconds", "Every 4–5 seconds", "Every 6–8 seconds", "Every 10–12 seconds"],
-        "answer": 2
-    },
-    {
-        "question": "If someone is tailgating you, what should you do?",
-        "image": "",
-        "options": ["Speed up", "Brake suddenly", "Slowly reduce your speed", "Move to the left lane immediately"],
-        "answer": 2
-    },
-    {
-        "question": "How can you help a driver behind you who cannot see well behind their vehicle?",
-        "image": "",
-        "options": ["Drive faster", "Keep a steady speed and signal early", "Turn on hazard lights", "Change lanes frequently"],
-        "answer": 1
-    },
-    {
-        "question": "Where should you stop to pick up or let off passengers?",
-        "image": "",
-        "options": ["In the middle of traffic", "In the far-left lane", "In a safe place out of traffic", "At any intersection"],
-        "answer": 2
-    },
-    {
-        "question": "If you are driving slower than most traffic on a multi-lane road, where should you drive?",
-        "image": "",
-        "options": ["Left lane", "Middle lane", "Far-right lane", "Any lane you choose"],
-        "answer": 2
-    },
-    {
-        "question": "When crossing multi-lane roads, you must ensure:",
-        "image": "",
-        "options": ["You can cross halfway", "There is enough room to get all the way across", "You can cross quickly", "You have the right-of-way"],
-        "answer": 1
-    },
-    {
-        "question": "Before crossing traffic, you should:",
-        "image": "",
-        "options": ["Speed up", "Check surroundings and be ready to stop", "Honk your horn", "Turn on hazard lights"],
-        "answer": 1
-    },
-    {
-        "question": "Before turning, you must check:",
-        "image": "",
-        "options": ["Only your rearview mirror", "Mirrors, surroundings, and blind spot", "Only your side mirrors", "Only your blind spot"],
-        "answer": 1
-    },
-    {
-        "question": "What should you avoid while turning?",
-        "image": "",
-        "options": ["Staying in your lane", "Signaling", "Last-second changes", "Checking mirrors"],
-        "answer": 2
-    },
-    {
-        "question": "While turning, you must:",
-        "image": "",
-        "options": ["Change lanes during the turn", "Cross the center line", "Stay in your lane", "Speed up"],
-        "answer": 2
-    },
-    {
-        "question": "Why should you leave extra space for large vehicles during turns?",
-        "image": "",
-        "options": ["They turn faster", "They may cross the center line", "They always have right-of-way", "They stop suddenly"],
-        "answer": 1
-    },
-    {
-        "question": "When preparing for a left turn, you should:",
-        "image": "",
-        "options": ["Stay far from the center line", "Keep close to the center line", "Move into the right lane", "Speed up"],
-        "answer": 1
-    },
-    {
-        "question": "Where should you wait when preparing to turn left at an intersection?",
-        "image": "",
-        "options": ["Before the intersection", "Halfway into the intersection", "In the right lane", "On the crosswalk"],
-        "answer": 1
-    },
-    {
-        "question": "If waiting for oncoming traffic before a left turn, your steering wheel should be:",
-        "image": "",
-        "options": ["Turned left", "Turned right", "Straight", "Slightly angled"],
-        "answer": 2
-    },
-    {
-        "question": "Why must your steering wheel remain straight while waiting to turn left?",
-        "image": "",
-        "options": ["To save fuel", "To avoid being pushed into oncoming traffic if hit from behind", "To avoid tire wear", "To improve visibility"],
-        "answer": 1
-    },
-    {
-        "question": "A U-turn is allowed:",
-        "image": "",
-        "options": ["Anywhere", "Only at intersections with a green arrow", "On rural two-lane highways if safe", "Only in residential areas"],
-        "answer": 2
-    },
-    {
-        "question": "Before making a U-turn, you must:",
-        "image": "",
-        "options": ["Speed up", "Check for 'No U-turn' signs", "Turn on hazard lights", "Move to the right lane"],
-        "answer": 1
-    },
-    {
-        "question": "If you start turning from the left-most lane, you must end up:",
-        "image": "",
-        "options": ["In any lane you choose", "In the right-most lane", "In the middle lane", "In the left-most lane"],
-        "answer": 3
-    },
-    {
-        "question": "To turn right off a four-lane roadway, you must turn from:",
-        "image": "",
-        "options": ["Any lane", "The middle lane", "The lane nearest the right curb", "The left-most lane"],
-        "answer": 2
-    },
-    {
-        "question": "A Y-turn should be used:",
-        "image": "",
-        "options": ["On highways", "Only in residential areas on narrow streets", "At intersections", "On rural roads"],
-        "answer": 1
-    },
-    {
-        "question": "During a Y-turn, the first step is:",
-        "image": "",
-        "options": ["Signal left", "Signal right and pull far right", "Reverse immediately", "Turn sharply left"],
-        "answer": 1
-    },
-    {
-        "question": "During a Y-turn, the second step is:",
-        "image": "",
-        "options": ["Signal right", "Signal left and turn to the opposite curb", "Reverse immediately", "Move forward into traffic"],
-        "answer": 1
-    },
-    {
-        "question": "During a Y-turn, the third step is:",
-        "image": "",
-        "options": ["Reverse while looking over your right shoulder", "Turn sharply right", "Move forward immediately", "Stop and honk"],
-        "answer": 0
-    },
-    {
-        "question": "During a Y-turn, the final step is:",
-        "image": "",
-        "options": ["Reverse again", "Check traffic and pull forward into your lane", "Turn sharply left", "Stop and wait for traffic to clear"],
-        "answer": 1
-    },
-    {
-        "question": "You may use a paved shoulder to pass only when:",
-        "image": "",
-        "options": ["Traffic is slow", "The vehicle is stopped or making a left turn", "You are in a hurry", "You are on a highway"],
-        "answer": 1
-    },
-    {
-        "question": "If someone is trying to pass you, you should:",
-        "image": "",
-        "options": ["Speed up", "Move into another lane", "Stay in your lane and slow down", "Honk your horn"],
-        "answer": 2
-    },
-    {
-        "question": "Before changing lanes, you must:",
-        "image": "",
-        "options": ["Speed up", "Check mirrors and blind spots", "Turn on hazard lights", "Look only forward"],
-        "answer": 1
-    },
-    {
-        "question": "Blind spots are areas:",
-        "image": "",
-        "options": ["Visible in mirrors", "You cannot see by mirrors alone", "Behind the vehicle only", "Next to the rear bumper"],
-        "answer": 1
-    },
-    {
-        "question": "When passing another vehicle, you must pass:",
-        "image": "",
-        "options": ["On the right side", "On the left side only", "In any lane", "In the shoulder"],
-        "answer": 1
-    },
-    {
-        "question": "You should return to your lane after passing when:",
-        "image": "",
-        "options": ["You hear a horn", "You see both headlights of the passed vehicle in your rearview mirror", "You are halfway past the vehicle", "You feel safe"],
-        "answer": 1
-    },
-    {
-        "question": "You cannot exceed the speed limit when:",
-        "image": "",
-        "options": ["Driving downhill", "Passing another vehicle", "Driving on a highway", "Merging"],
-        "answer": 1
-    },
-    {
-        "question": "When backing up, you should move:",
-        "image": "",
-        "options": ["Quickly", "At normal driving speed", "No faster than a slow walk", "Only using mirrors"],
-        "answer": 2
-    },
-    {
-        "question": "When backing up, you should look:",
-        "image": "",
-        "options": ["Only at mirrors", "Only at the backup camera", "Over your right shoulder through the rear window", "Straight ahead"],
-        "answer": 2
-    },
-    {
-        "question": "If you miss your exit, you should:",
-        "image": "",
-        "options": ["Back up carefully", "Stop immediately", "Make a U-turn", "Continue to the next exit"],
-        "answer": 3
-    },
-    {
-        "question": "Parking is normally done on:",
-        "image": "",
-        "options": ["The left side of the road", "The far-right side of the road", "The center lane", "Any lane"],
-        "answer": 1
-    },
-    {
-        "question": "Parking is not allowed:",
-        "image": "",
-        "options": ["Near mailboxes", "Where curbs are yellow or in front of fire hydrants", "On rural roads", "In residential driveways"],
-        "answer": 1
-    },
-    {
-        "question": "When parking on a level surface, you should:",
-        "image": "",
-        "options": ["Leave the car in neutral", "Turn wheels left", "Put the vehicle in Park and set the parking brake", "Turn off headlights only"],
-        "answer": 2
-    },
-    {
-        "question": "When parked uphill with a curb, turn wheels:",
-        "image": "",
-        "options": ["All the way right", "All the way left", "Straight", "Slightly right"],
-        "answer": 1
-    },
-    {
-        "question": "When parked uphill without a curb, turn wheels:",
-        "image": "",
-        "options": ["Left", "Right", "Straight", "Toward traffic"],
-        "answer": 1
-    },
-    {
-        "question": "When parked downhill, turn wheels:",
-        "image": "",
-        "options": ["Left", "Right", "Straight", "Toward the center line"],
-        "answer": 1
-    },
-    {
-        "question": "A parallel parking space should be:",
-        "image": "",
-        "options": ["1 foot longer than your vehicle", "3–6 feet longer than your vehicle", "10 feet longer than your vehicle", "Exactly your vehicle length"],
-        "answer": 1
-    },
-    {
-        "question": "When beginning parallel parking, you should stop:",
-        "image": "",
-        "options": ["6 feet from the vehicle ahead", "2 feet from the vehicle ahead", "1 foot from the curb", "Directly behind the vehicle"],
-        "answer": 1
-    },
-    {
-        "question": "During parallel parking, you turn your wheel:",
-        "image": "",
-        "options": ["Toward the curb first", "All the way to the side you are parking toward", "Straight ahead", "Toward the opposite lane"],
-        "answer": 1
-    },
-    {
-        "question": "You should end parallel parking about:",
-        "image": "",
-        "options": ["1 foot from the curb", "3 feet from the curb", "6 inches from the curb", "2 feet from the curb"],
-        "answer": 0
-    },
-    {
-        "question": "When parallel parked, you should be at least:",
-        "image": "",
-        "options": ["1 foot from vehicles", "2 feet from vehicles in front and behind", "6 inches from vehicles", "3 feet from vehicles"],
-        "answer": 1
-    },
-    {
-        "question": "You communicate with other drivers using:",
-        "image": "",
-        "options": ["Only hand signals", "Headlights, brakes, turn signals, and hazards", "Only your horn", "Only your mirrors"],
-        "answer": 1
-    },
-    {
-        "question": "You should not drive if you are:",
-        "image": "",
-        "options": ["Calm", "Focused", "Very worried, excited, afraid, angry, or depressed", "Listening to music"],
-        "answer": 2
-    },
-    {
-        "question": "A horn is used to:",
-        "image": "",
-        "options": ["Express frustration", "Prevent a crash", "Signal pedestrians only", "Communicate with emergency vehicles"],
-        "answer": 1
-    },
-    {
-        "question": "A light tap on the horn is used to:",
-        "image": "",
-        "options": ["Warn of a collision", "Get another driver's attention", "Signal a turn", "Tell someone to speed up"],
-        "answer": 1
-    },
-    {
-        "question": "You should push hard on the horn when:",
-        "image": "",
-        "options": ["You are angry", "You want someone to move faster", "You are going to hit someone or they are going to hit you", "You are parking"],
-        "answer": 2
-    },
-        {
-        "question": "You must use your low beams when you cannot see a vehicle or person at what distance?",
-        "image": "",
-        "options": ["200 feet", "300 feet", "500 feet", "800 feet"],
-        "answer": 2
-    },
-    {
-        "question": "Low beams must be used during which time period?",
-        "image": "",
-        "options": ["Sunset to sunrise", "Half hour past sunset to half hour before sunrise", "Only at night", "Only during rain"],
-        "answer": 1
-    },
-    {
-        "question": "It is recommended to use low beams when:",
-        "image": "",
-        "options": ["Driving on dry roads", "Using windshield wipers", "Driving in bright sunlight", "Driving on highways"],
-        "answer": 1
-    },
-    {
-        "question": "Low beams are recommended during:",
-        "image": "",
-        "options": ["Rain, snow, or fog", "Clear weather", "Sunny days", "Windy conditions"],
-        "answer": 0
-    },
-    {
-        "question": "High beams allow you to see:",
-        "image": "",
-        "options": ["Half as far as low beams", "Twice as far as low beams", "The same distance as low beams", "Only directly in front of the vehicle"],
-        "answer": 1
-    },
-    {
-        "question": "You must switch from high beams to low beams when:",
-        "image": "",
-        "options": ["Driving uphill", "A vehicle comes toward you", "Driving on a rural road", "Driving in daylight"],
-        "answer": 1
-    },
-    {
-        "question": "If an oncoming driver forgets to turn off their brights, you should:",
-        "image": "",
-        "options": ["Look straight ahead", "Look toward the left side of the road", "Look toward the right side of the road", "Close your eyes briefly"],
-        "answer": 2
-    },
-    {
-        "question": "You may use high beams when:",
-        "image": "",
-        "options": ["Vehicles are approaching", "Driving in fog", "There are no vehicles coming toward you", "Driving behind another vehicle"],
-        "answer": 2
-    },
-    {
-        "question": "High beams may be used in:",
-        "image": "",
-        "options": ["School zones", "Unfamiliar places or construction areas", "Parking lots", "Residential neighborhoods"],
-        "answer": 1
-    },
-    {
-        "question": "Parking lights should be used only when:",
-        "image": "",
-        "options": ["Driving slowly", "Parked and idling", "Driving in fog", "Backing up"],
-        "answer": 1
-    },
-    {
-        "question": "A turn signal is used to:",
-        "image": "",
-        "options": ["Warn pedestrians only", "Let others know your intended direction", "Increase vehicle speed", "Activate headlights"],
-        "answer": 1
-    },
-    {
-        "question": "You should begin signaling for a turn at an intersection about:",
-        "image": "",
-        "options": ["1 second before turning", "3 seconds or about 100 feet before turning", "10 seconds before turning", "After beginning the turn"],
-        "answer": 1
-    },
-    {
-        "question": "If turning after an intersection, you should start signaling:",
-        "image": "",
-        "options": ["Before reaching the intersection", "Once you cross the intersection", "Halfway through the intersection", "Only when traffic is clear"],
-        "answer": 1
-    },
-    {
-        "question": "If your car does not have turn signals, you may use:",
-        "image": "",
-        "options": ["Headlights", "Hand signals", "Hazard lights", "Brake lights"],
-        "answer": 1
-    },
-    {
-        "question": "The hand signal for a left turn is:",
-        "image": "",
-        "options": ["Hand pointed up", "Hand pointed down", "Hand straight out the driver window", "Hand waving"],
-        "answer": 2
-    },
-    {
-        "question": "The hand signal for a right turn is:",
-        "image": "",
-        "options": ["Hand straight out", "Hand pointed down", "Hand bent upward at the elbow", "Hand waving forward"],
-        "answer": 2
-    },
-    {
-        "question": "The hand signal for slowing or stopping is:",
-        "image": "",
-        "options": ["Hand pointed up", "Hand straight out", "Hand pointed to the ground", "Hand waving backward"],
-        "answer": 2
-    },
-    {
-        "question": "Warning signs are usually:",
-        "image": "images/TODO-warning-sign.png",
-        "options": ["Red and octagon-shaped", "Yellow with black symbols, diamond-shaped", "Blue and rectangular", "Green and circular"],
-        "answer": 1
-    },
-    {
-        "question": "You must follow directions from police or crossing guards:",
-        "image": "",
-        "options": ["Only if traffic lights are off", "Only in school zones", "Even if they differ from traffic signs or signals", "Only during emergencies"],
-        "answer": 2
-    },
-    {
-        "question": "What does an Intersection / Cross Road warning sign indicate?",
-        "image": "images/TODO-crossroad.png",
-        "options": ["A dead-end road ahead", "Two or more roads cross ahead", "A divided highway begins", "A pedestrian-only zone"],
-        "answer": 1
-    },
-    {
-        "question": "A Divided Highway sign warns that:",
-        "image": "images/TODO-divided-highway.png",
-        "options": ["Traffic merges ahead", "Traffic moves in the same direction", "Traffic moves in opposite directions separated by a barrier", "The road narrows ahead"],
-        "answer": 2
-    },
-    {
-        "question": "A Slippery When Wet sign warns you to:",
-        "image": "images/TODO-slippery-when-wet.png",
-        "options": ["Speed up", "Slow down", "Turn on hazard lights", "Stop immediately"],
-        "answer": 1
-    },
-    {
-        "question": "A Signal Ahead sign warns that:",
-        "image": "images/TODO-signal-ahead.png",
-        "options": ["A stoplight is ahead", "A railroad crossing is ahead", "A pedestrian zone is ahead", "A speed bump is ahead"],
-        "answer": 0
-    },
-    {
-        "question": "A Deer Crossing sign indicates:",
-        "image": "images/TODO-deer-crossing.png",
-        "options": ["Farm animals ahead", "Deer are likely to cross the road", "A hunting zone", "A wildlife preserve"],
-        "answer": 1
-    },
-    {
-        "question": "A Sharp Turn sign warns you to:",
-        "image": "images/TODO-sharp-turn.png",
-        "options": ["Speed up", "Prepare for a sharp left or right turn", "Expect a lane merge", "Expect a roundabout"],
-        "answer": 1
-    },
-    {
-        "question": "A Lane Ends sign warns that:",
-        "image": "images/TODO-lane-ends.png",
-        "options": ["The road ends ahead", "A lane is ending and you must merge", "A passing zone begins", "A divided highway begins"],
-        "answer": 1
-    },
-    
-    {
-        "question": "A Merge warning sign indicates that:",
-        "image": "images/TODO-merge.png",
-        "options": ["The road ends ahead", "A lane is merging and you must move over when safe", "A stop sign is ahead", "A pedestrian zone is ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A Hill warning sign means:",
-        "image": "images/TODO-hill.png",
-        "options": ["A steep drop-off is ahead", "A hill is ahead and you may need to slow down", "A flat road is ahead", "A sharp turn is ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A 2-Way Traffic warning sign indicates:",
-        "image": "images/TODO-2-way-traffic.png",
-        "options": ["You are entering a one-way street", "You are leaving a one-way roadway and entering opposing traffic", "Traffic merges ahead", "A divided highway begins"],
-        "answer": 1
-    },
-    {
-        "question": "A Curved Road warning sign means:",
-        "image": "images/TODO-curved-road.png",
-        "options": ["A sharp turn is ahead", "The road curves slowly left or right; slow down if needed", "The road becomes straight", "A roundabout is ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A Stop Ahead warning sign indicates:",
-        "image": "images/TODO-stop-ahead.png",
-        "options": ["A yield sign is ahead", "A stop sign is ahead; slow down to stop safely", "A pedestrian crossing is ahead", "A railroad crossing is ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A Roundabout Ahead warning sign contains:",
-        "image": "images/TODO-roundabout-ahead.png",
-        "options": ["A straight arrow symbol", "A clockwise arrow symbol", "A counterclockwise circular symbol and a 'Roundabout Ahead' plaque", "A pedestrian symbol"],
-        "answer": 2
-    },
-    {
-        "question": "A Pedestrian Crossing warning sign indicates:",
-        "image": "images/TODO-pedestrian-crossing.png",
-        "options": ["Pedestrians may be present but do not cross", "A pedestrian crossing is ahead; yield to pedestrians", "Only school children may cross", "No pedestrians allowed"],
-        "answer": 1
-    },
-    {
-        "question": "A School Crossing or School Zone sign indicates:",
-        "image": "images/TODO-school-crossing.png",
-        "options": ["A playground is ahead", "A school building is nearby but no crossing", "A school zone or crossing; yield to pedestrians", "Only buses may stop here"],
-        "answer": 2
-    },
-
-    {
-        "question": "Regulatory signs generally have what shapes and colors?",
-        "image": "images/TODO-regulatory.png",
-        "options": ["Yellow diamonds", "Square or rectangular, white or red with black/red/white/green lettering", "Orange rectangles", "Blue circles"],
-        "answer": 1
-    },
-    {
-        "question": "A No Turn sign indicates:",
-        "image": "images/TODO-no-turn.png",
-        "options": ["You must turn", "You cannot turn in the direction shown", "You may turn only on green", "You must yield before turning"],
-        "answer": 1
-    },
-    {
-        "question": "A No U-turn sign means:",
-        "image": "images/TODO-no-u-turn.png",
-        "options": ["U-turns are allowed only at intersections", "U-turns are allowed only on rural roads", "You cannot make a U-turn", "You must stop before making a U-turn"],
-        "answer": 2
-    },
-    {
-        "question": "A Do Not Enter sign is used when:",
-        "image": "images/TODO-do-not-enter.png",
-        "options": ["Traffic is merging", "You are entering a two-way street", "You cannot enter, often due to wrong-way or one-way restrictions", "Pedestrians are crossing"],
-        "answer": 2
-    },
-    {
-        "question": "A Speed Limit sign indicates:",
-        "image": "images/TODO-speed-limit.png",
-        "options": ["The minimum speed allowed", "The recommended speed", "The maximum speed allowed in good conditions", "The speed for emergency vehicles only"],
-        "answer": 2
-    },
-    {
-        "question": "A Reduced Speed Ahead sign means:",
-        "image": "images/TODO-reduced-speed-ahead.png",
-        "options": ["Speed increases ahead", "You should slow down due to possible hazards", "You must stop ahead", "The road ends ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A School Speed Limit sign means:",
-        "image": "images/TODO-school-speed-limit.png",
-        "options": ["You may drive any speed", "You cannot exceed the posted speed when children are present", "You must stop when children are present", "Only buses must follow the posted speed"],
-        "answer": 1
-    },
-    {
-        "question": "A Keep Right sign indicates:",
-        "image": "images/TODO-keep-right.png",
-        "options": ["You must turn right", "A traffic island or obstacle divides the road; stay to the right", "Right lane ends ahead", "Left lane merges ahead"],
-        "answer": 1
-    },
-    {
-        "question": "A Left Lane | Right Lane sign indicates:",
-        "image": "images/TODO-left-right-lane.png",
-        "options": ["Both lanes go straight", "Left lane turns left or U-turn; right lane goes straight or turns right", "Right lane turns left only", "Left lane turns right only"],
-        "answer": 1
-    },
-    {
-        "question": "A Left Lane | Middle Lane | Right Lane sign indicates:",
-        "image": "images/TODO-three-lane.png",
-        "options": ["All lanes turn left", "Far-left lane turns left or goes straight; middle goes straight; right turns right", "Middle lane turns left only", "Right lane goes straight only"],
-        "answer": 1
-    },
-    {
-        "question": "A Stop sign requires you to:",
-        "image": "images/TODO-stop.png",
-        "options": ["Slow down only", "Stop partially", "Come to a complete stop and proceed when clear", "Stop only if other vehicles are present"],
-        "answer": 2
-    },
-    {
-        "question": "A Slow Moving Vehicle sign indicates the vehicle may travel at:",
-        "image": "images/TODO-slow-moving.png",
-        "options": ["10 mph or less", "15 mph or less", "25 mph or less", "45 mph or less"],
-        "answer": 2
-    },
-    {
-        "question": "A Yield sign means:",
-        "image": "images/TODO-yield.png",
-        "options": ["Stop immediately", "Speed up to merge", "You must yield right-of-way to other vehicles", "Pedestrians must yield to you"],
-        "answer": 2
-    },
-    {
-        "question": "A No Passing Zone sign is shaped like:",
-        "image": "images/TODO-no-passing-zone.png",
-        "options": ["A red octagon", "A yellow pennant", "A blue rectangle", "A green circle"],
-        "answer": 1
-    },
-    {
-        "question": "A Reserved Parking Only sign indicates:",
-        "image": "images/TODO-reserved-parking.png",
-        "options": ["Parking for anyone", "Parking only for emergency vehicles", "Parking only for vehicles with disabled permits or plates", "Parking only for buses"],
-        "answer": 2
-    },
-    {
-        "question": "Construction signs are typically:",
-        "image": "images/TODO-construction.png",
-        "options": ["Yellow with black letters", "Blue with white letters", "Orange with black letters", "Green with white letters"],
-        "answer": 2
-    },
-    {
-        "question": "Traffic fines in construction zones:",
-        "image": "",
-        "options": ["Are reduced", "Stay the same", "Double", "Are waived"],
-        "answer": 2
-    },
-    {
-        "question": "You may use your cellphone in a construction zone only when:",
-        "image": "",
-        "options": ["Traffic is slow", "Reporting an emergency", "Stopped at a red light", "Using GPS"],
-        "answer": 1
-    },
-    {
-        "question": "A Road Workers Ahead sign means:",
-        "image": "images/TODO-road-workers.png",
-        "options": ["Speed up", "Move over or slow down", "Stop immediately", "Turn around"],
-        "answer": 1
-    },
-    {
-        "question": "A Road Construction Flagger Ahead sign means:",
-        "image": "images/TODO-flagger.png",
-        "options": ["Ignore the worker", "Follow the worker’s directions", "Stop and wait for police", "Turn on hazard lights"],
-        "answer": 1
-    },
-    {
-        "question": "Destination signs are usually:",
-        "image": "images/TODO-destination.png",
-        "options": ["Red", "Blue", "Green or brown with white lettering", "Yellow"],
-        "answer": 2
-    },
-    {
-        "question": "A Destination sign showing 'Madison WEST I‑94' indicates:",
-        "image": "images/TODO-madison.png",
-        "options": ["You must exit immediately", "You are traveling east", "You can take I‑94 west to reach Madison", "Madison is behind you"],
-        "answer": 2
-    },
-    {
-        "question": "An Exit sign shows:",
-        "image": "images/TODO-exit.png",
-        "options": ["Speed limits", "Lane endings", "Which direction the exit is located", "Pedestrian crossings"],
-        "answer": 2
-    },
-    {
-        "question": "A Roundabout Exits sign shows:",
-        "image": "images/TODO-roundabout-exits.png",
-        "options": ["Speed limits", "Which road you will be on when you exit the roundabout", "Where pedestrians cross", "Where to yield"],
-        "answer": 1
-    },
-    {
-        "question": "Street Name signs are usually located:",
-        "image": "images/TODO-street-name.png",
-        "options": ["On the ground", "On top of a silver pole at corners", "On traffic lights", "On stop signs"],
-        "answer": 1
-    },
-    {
-        "question": "Brown destination signs indicate:",
-        "image": "images/TODO-brown-destination.png",
-        "options": ["Hospitals", "Construction zones", "Parks, historical areas, or museums", "Speed limits"],
-        "answer": 2
-    },
-    {
-        "question": "Service signs are usually:",
-        "image": "images/TODO-service.png",
-        "options": ["Red", "Blue with white lettering or symbols", "Yellow", "Orange"],
-        "answer": 1
-    },
-    {
-        "question": "A Hospital Access sign indicates:",
-        "image": "images/TODO-hospital.png",
-        "options": ["Where emergency vehicles park", "Where the hospital is located", "Where to find police", "Where to find restrooms"],
-        "answer": 1
-    },
-    {
-        "question": "Mile markers help:",
-        "image": "images/TODO-mile-marker.png",
-        "options": ["Show speed limits", "Show parking zones", "Locate where you are on the road", "Show construction areas"],
-        "answer": 2
-    },
-    {
-        "question": "Mile markers appear:",
-        "image": "",
-        "options": ["Every 5 miles", "Every 1 to 2 tenths of a mile", "Only at exits", "Only at state borders"],
-        "answer": 1
-    },
-    {
-        "question": "A County Road sign is:",
-        "image": "images/TODO-county-road.png",
-        "options": ["Blue with white letters", "Rectangular with rounded edges, white with black lettering", "Yellow diamond-shaped", "Red octagon-shaped"],
-        "answer": 1
-    },
-    {
-        "question": "A U.S. Route sign looks like:",
-        "image": "images/TODO-us-route.png",
-        "options": ["A circle", "A triangle", "A police badge shape", "A square"],
-        "answer": 2
-    },
-    {
-        "question": "A State Road sign resembles:",
-        "image": "images/TODO-state-road.png",
-        "options": ["A shield", "A milk jug with a spout", "A diamond", "A circle"],
-        "answer": 1
-    },
-    {
-        "question": "An Interstate Highway sign looks like:",
-        "image": "images/TODO-interstate.png",
-        "options": ["A yellow diamond", "A red-and-blue shield with white lettering", "A green rectangle", "A blue circle"],
-        "answer": 1
-    },
-
-    {
-        "question": "You should never try to do what at a railroad crossing?",
-        "image": "",
-        "options": ["Stop before the tracks", "Beat a train across the tracks", "Look both ways", "Check for room on the other side"],
-        "answer": 1
-    },
-    {
-        "question": "You should not cross railroad tracks if:",
-        "image": "",
-        "options": ["The train is far away", "There is not enough room on the other side", "You are in a hurry", "The lights are off"],
-        "answer": 1
-    },
-    {
-        "question": "You should not shift gears while:",
-        "image": "",
-        "options": ["Driving uphill", "Crossing railroad tracks", "Driving in rain", "Turning left"],
-        "answer": 1
-    },
-    {
-        "question": "Before crossing railroad tracks, you must:",
-        "image": "",
-        "options": ["Speed up", "Look both ways even if signs are not flashing", "Turn on hazard lights", "Stop only if lights flash"],
-        "answer": 1
-    },
-    {
-        "question": "A 'Tracks Out-of-Service' sign means:",
-        "image": "images/TODO-tracks-out-of-service.png",
-        "options": ["Trains are delayed", "Tracks are no longer in use", "Only trucks may cross", "Crossing is prohibited"],
-        "answer": 1
-    },
-    {
-        "question": "An 'Exempt' railroad sign means:",
-        "image": "images/TODO-exempt.png",
-        "options": ["All vehicles must stop", "Certain vehicles are not required to stop", "No vehicles may cross", "Only trains may pass"],
-        "answer": 1
-    },
-    {
-        "question": "A Railroad Crossing Warning sign is:",
-        "image": "images/TODO-railroad-warning.png",
-        "options": ["Square and red", "Round and yellow with an X", "Triangle-shaped", "Blue with white letters"],
-        "answer": 1
-    },
-    {
-        "question": "A crossbuck sign with 'Railroad Crossing' indicates:",
-        "image": "images/TODO-crossbuck.png",
-        "options": ["A pedestrian crossing", "A railroad crossing with listed number of tracks", "A no passing zone", "A construction zone"],
-        "answer": 1
-    },
-    {
-        "question": "Flashing railroad lights mean:",
-        "image": "",
-        "options": ["You may cross slowly", "A train is coming; wait until lights stop flashing", "Trains are stopped", "You must turn around"],
-        "answer": 1
-    },
-    {
-        "question": "A Yield sign posted below a crossbuck means:",
-        "image": "images/TODO-yield-crossbuck.png",
-        "options": ["You may cross without stopping", "You must yield to trains", "Trains must yield to cars", "Only trucks must stop"],
-        "answer": 1
-    },
-    {
-        "question": "A blue 'Report Problem or Emergency' sign at railroad crossings is used to:",
-        "image": "images/TODO-report-problem.png",
-        "options": ["Report speeding vehicles", "Report unsafe railroad conditions", "Report lost items", "Report traffic congestion"],
-        "answer": 1
-    },
-    {
-        "question": "A 'Number of Tracks' sign indicates:",
-        "image": "images/TODO-number-of-tracks.png",
-        "options": ["How many lanes are ahead", "How many train tracks must be crossed", "How many trains pass daily", "How many signals are present"],
-        "answer": 1
-    },
-    {
-        "question": "Before crossing double railroad tracks, you should:",
-        "image": "",
-        "options": ["Cross immediately after the first train passes", "Wait until the train is far away and tracks are clear", "Speed across quickly", "Stop on the tracks"],
-        "answer": 1
-    },
-    {
-        "question": "Train gates that lower indicate:",
-        "image": "images/TODO-train-gate.png",
-        "options": ["You may drive around them if careful", "You may drive under them if rising", "A train is coming; do not drive around or under the gate", "Pedestrians may cross"],
-        "answer": 2
-    },
-    {
-        "question": "If a train gate has horns or lights sounding, you must:",
-        "image": "",
-        "options": ["Cross immediately", "Wait until the bell or horn stops", "Turn around", "Drive slowly under the gate"],
-        "answer": 1
-    },
-
-    {
-        "question": "If a traffic light is not working, you should:",
-        "image": "",
-        "options": ["Proceed normally", "Treat it as a stop sign", "Ignore it", "Speed through quickly"],
-        "answer": 1
-    },
-    {
-        "question": "A steady red light means:",
-        "image": "images/TODO-steady-red.png",
-        "options": ["Slow down", "Stop completely and wait for green", "Proceed with caution", "Turn left only"],
-        "answer": 1
-    },
-    {
-        "question": "You may turn right on red only if:",
-        "image": "",
-        "options": ["There is a green arrow", "It is safe and no sign prohibits it", "You honk first", "You are in the left lane"],
-        "answer": 1
-    },
-    {
-        "question": "You may turn left on red only when:",
-        "image": "",
-        "options": ["Turning from a one-way onto a one-way street", "Turning at any intersection", "Traffic is light", "You are in a roundabout"],
-        "answer": 0
-    },
-    {
-        "question": "A flashing red light means:",
-        "image": "images/TODO-flashing-red.png",
-        "options": ["Proceed without stopping", "Stop and go when safe", "Stop only if other cars are present", "Turn right only"],
-        "answer": 1
-    },
-    {
-        "question": "A steady red arrow means:",
-        "image": "images/TODO-steady-red-arrow.png",
-        "options": ["You may turn left", "You must stop and wait for green", "You may proceed straight", "You may turn right"],
-        "answer": 1
-    },
-    {
-        "question": "A flashing red arrow means:",
-        "image": "images/TODO-flashing-red-arrow.png",
-        "options": ["Stop and turn immediately", "Stop and go when safe", "Proceed without stopping", "Turn only on green"],
-        "answer": 1
-    },
-
-    {
-        "question": "A steady yellow light means:",
-        "image": "images/TODO-steady-yellow.png",
-        "options": ["Speed up", "Light is about to turn red; slow down and stop if safe", "Turn immediately", "Stop even if in the intersection"],
-        "answer": 1
-    },
-    {
-        "question": "If you are already in the intersection when the light turns yellow, you should:",
-        "image": "",
-        "options": ["Stop immediately", "Back up", "Continue through the intersection", "Turn on hazard lights"],
-        "answer": 2
-    },
-    {
-        "question": "A flashing yellow light means:",
-        "image": "images/TODO-flashing-yellow.png",
-        "options": ["Stop completely", "Slow down and proceed with caution", "Speed up", "Turn only"],
-        "answer": 1
-    },
-    {
-        "question": "A steady yellow arrow means:",
-        "image": "images/TODO-steady-yellow-arrow.png",
-        "options": ["Turn immediately", "Stop if safe; light is about to turn red", "Proceed without caution", "Turn only right"],
-        "answer": 1
-    },
-    {
-        "question": "A flashing yellow arrow means:",
-        "image": "images/TODO-flashing-yellow-arrow.png",
-        "options": ["Turn without yielding", "Yield before turning and proceed with caution", "Stop completely", "Turn only on green"],
-        "answer": 1
-    },
-
-    {
-        "question": "A steady green light means:",
-        "image": "images/TODO-steady-green.png",
-        "options": ["You may go through the intersection", "You must stop", "You must turn left", "You must yield to no one"],
-        "answer": 0
-    },
-    {
-        "question": "When a light turns green, you must:",
-        "image": "",
-        "options": ["Go immediately", "Allow cross traffic to clear first", "Turn right only", "Stop again"],
-        "answer": 1
-    },
-    {
-        "question": "When turning left on a steady green light:",
-        "image": "",
-        "options": ["You have the right-of-way", "Oncoming traffic has the right-of-way", "You must stop first", "You must turn right instead"],
-        "answer": 1
-    },
-    {
-        "question": "A steady green arrow means:",
-        "image": "images/TODO-steady-green-arrow.png",
-        "options": ["Turn in the direction of the arrow; no oncoming traffic should conflict", "Stop and wait", "Turn only when flashing", "Proceed straight only"],
-        "answer": 0
-    },
-
-    {
-        "question": "A solid white line indicates:",
-        "image": "images/TODO-solid-white-line.png",
-        "options": ["Left edge of roadway", "Right edge of traffic lane", "Passing zone", "Center of road"],
-        "answer": 1
-    },
-    {
-        "question": "A solid or dashed yellow line indicates:",
-        "image": "images/TODO-yellow-edge.png",
-        "options": ["Right edge of roadway", "Left edge of traffic lanes going your direction", "Parking zone", "Bike lane"],
-        "answer": 1
-    },
-    {
-        "question": "White dashed lines indicate:",
-        "image": "images/TODO-white-dashed.png",
-        "options": ["No passing allowed", "Lanes of traffic going same direction; you may cross when safe", "Opposing traffic", "Reserved lanes"],
-        "answer": 1
-    },
-    {
-        "question": "A solid white line between lanes means:",
-        "image": "images/TODO-solid-white-between.png",
-        "options": ["You may cross freely", "You cannot cross except for hazards or turning within the next block", "Passing is encouraged", "Traffic merges ahead"],
-        "answer": 1
-    },
-    {
-        "question": "Crosswalks are for:",
-        "image": "images/TODO-crosswalk.png",
-        "options": ["Vehicles to stop on", "Pedestrians to cross safely", "Parking", "Bicycles only"],
-        "answer": 1
-    },
-    {
-        "question": "Your front wheels should stop:",
-        "image": "",
-        "options": ["On the crosswalk", "Just before the solid white crosswalk line", "Past the crosswalk", "In the middle of the crosswalk"],
-        "answer": 1
-    },
-    {
-        "question": "Solid yellow lines separate:",
-        "image": "images/TODO-solid-yellow.png",
-        "options": ["Traffic going same direction", "Traffic going opposite directions", "Parking lanes", "Bike lanes"],
-        "answer": 1
-    },
-    {
-        "question": "Two solid yellow lines mean:",
-        "image": "",
-        "options": ["Passing allowed", "No passing allowed", "Passing allowed only for trucks", "Passing allowed only at night"],
-        "answer": 1
-    },
-    {
-        "question": "You may cross solid yellow lines only when:",
-        "image": "",
-        "options": ["Passing any vehicle", "Turning into a driveway safely", "Speeding up", "Avoiding traffic cones"],
-        "answer": 1
-    },
-    {
-        "question": "You may pass a vehicle going less than half the speed limit except:",
-        "image": "",
-        "options": ["If it is farm equipment", "If it is a motorcycle", "If it is a bus", "If it is a bicycle"],
-        "answer": 0
-    },
-    {
-        "question": "A dashed yellow line means:",
-        "image": "images/TODO-dashed-yellow.png",
-        "options": ["No passing allowed", "You may pass when safe", "Reserved lane", "Bike lane"],
-        "answer": 1
-    },
-    {
-        "question": "Dashed and solid yellow lines mean:",
-        "image": "images/TODO-dashed-solid-yellow.png",
-        "options": ["Both sides may pass", "You may pass only on the dashed side", "You may pass only on the solid side", "Passing is prohibited on both sides"],
-        "answer": 1
-    },
-
-    {
-        "question": "A shared center lane is used for:",
-        "image": "images/TODO-shared-center-lane.png",
-        "options": ["Passing vehicles", "Left turns or U-turns only", "Parking", "Emergency vehicles only"],
-        "answer": 1
-    },
-    {
-        "question": "Reversible lanes use special lights. A red X means:",
-        "image": "images/TODO-reversible-lane.png",
-        "options": ["Lane is open", "Lane is closed", "Lane is changing", "Lane is for buses only"],
-        "answer": 1
-    },
-    {
-        "question": "In reversible lanes, a green arrow means:",
-        "image": "",
-        "options": ["Lane is closed", "Lane is open", "Lane is changing", "Lane is for turning only"],
-        "answer": 1
-    },
-    {
-        "question": "A yellow X in a reversible lane means:",
-        "image": "",
-        "options": ["Lane is open", "Lane is closed", "Lane is changing; move to a green arrow lane", "Lane is for buses only"],
-        "answer": 2
-    },
-    {
-        "question": "Reserved lanes are for:",
-        "image": "images/TODO-reserved-lane.png",
-        "options": ["Any vehicle", "Special vehicles only", "Emergency vehicles only", "Pedestrians only"],
-        "answer": 1
-    },
-    {
-        "question": "You may travel in a reserved lane only when:",
-        "image": "",
-        "options": ["You are passing another vehicle", "You need to turn across it within the next half block", "Traffic is heavy", "You are driving slowly"],
-        "answer": 1
-    },
-    {
-        "question": "A 'Buses Only' lane means:",
-        "image": "images/TODO-buses-only.png",
-        "options": ["Cars may use it anytime", "Only buses may use it", "Only trucks may use it", "Only emergency vehicles may use it"],
-        "answer": 1
-    },
-    {
-        "question": "A 'Bikes Only' lane means:",
-        "image": "images/TODO-bikes-only.png",
-        "options": ["Cars may use it", "Only bicycles may use it", "Only buses may use it", "Only motorcycles may use it"],
-        "answer": 1
-    },
-    {
-        "question": "A 'Buses and 4 Rider Car Pools Only' lane means:",
-        "image": "images/TODO-carpool.png",
-        "options": ["Any vehicle may use it", "Only buses and car pools with at least four people may use it during posted hours", "Only trucks may use it", "Only emergency vehicles may use it"],
-        "answer": 1
-    },
-    {
-        "question": "Bus or bike lanes may be painted in different colors such as:",
-        "image": "",
-        "options": ["Red, green, or gray", "Yellow only", "Blue only", "Black only"],
-        "answer": 0
-    },
-        {
-        "question": "A ramp is metered when:",
-        "image": "",
-        "options": ["Traffic is heavy", "The 'Ramp Metered When Flashing' sign is on", "Police are present", "The freeway is closed"],
-        "answer": 1
-    },
-    {
-        "question": "When stopping at a metered ramp, you should:",
-        "image": "",
-        "options": ["Stop anywhere on the ramp", "Stop before the ramp begins", "Pull completely up to the white stop line", "Stop behind other vehicles only"],
-        "answer": 2
-    },
-    {
-        "question": "Each lane at a metered ramp has:",
-        "image": "",
-        "options": ["One shared signal", "Its own traffic signal", "No signal", "A stop sign"],
-        "answer": 1
-    },
-    {
-        "question": "You may merge onto the freeway at a metered ramp when:",
-        "image": "",
-        "options": ["The red light is on", "Your signal turns green", "Other cars move", "You feel it is safe"],
-        "answer": 1
-    },
-    {
-        "question": "Disobeying a ramp meter signal can result in:",
-        "image": "",
-        "options": ["A warning only", "A ticket", "A repair fee", "No consequence"],
-        "answer": 1
-    },
-    {
-        "question": "A Diverging Diamond Interchange (DDI) is designed to:",
-        "image": "",
-        "options": ["Increase congestion", "Guide drivers smoothly through exits and entrances", "Remove all traffic signals", "Replace roundabouts"],
-        "answer": 1
-    },
-    {
-        "question": "DDIs improve safety by:",
-        "image": "",
-        "options": ["Increasing speed limits", "Removing all signs", "Reducing crowding and simplifying movements", "Allowing U-turns everywhere"],
-        "answer": 2
-    },
-    {
-        "question": "When driving through a DDI, you must:",
-        "image": "",
-        "options": ["Ignore signs", "Follow signs, signals, and road markings", "Drive on the left side only", "Stop at every crossover"],
-        "answer": 1
-    },
-
-    {
-        "question": "If pulled over by law enforcement, you should first:",
-        "image": "",
-        "options": ["Speed up to find a better spot", "Pull off to the right-hand side of the road", "Exit your vehicle", "Call 911"],
-        "answer": 1
-    },
-    {
-        "question": "During a traffic stop, you should keep:",
-        "image": "",
-        "options": ["Your seatbelt off", "Your hands on the top of the steering wheel", "Your hands in your pockets", "Your door open"],
-        "answer": 1
-    },
-    {
-        "question": "During a traffic stop, you should NOT:",
-        "image": "",
-        "options": ["Roll down your window", "Turn off your car", "Make sudden movements", "Keep your seatbelt on"],
-        "answer": 2
-    },
-    {
-        "question": "If given a ticket during a traffic stop, you should:",
-        "image": "",
-        "options": ["Argue with the officer", "Refuse to take it", "Stay calm and contest it later in court", "Drive away immediately"],
-        "answer": 2
-    },
-
-    {
-        "question": "Deer are most active during:",
-        "image": "",
-        "options": ["Midday", "Sunrise only", "Sunset to sunrise hours", "Afternoon"],
-        "answer": 2
-    },
-    {
-        "question": "If you see deer eyes reflecting your headlights, you should:",
-        "image": "",
-        "options": ["Speed up", "Turn off headlights", "Slow down and be ready to stop", "Honk continuously"],
-        "answer": 2
-    },
-    {
-        "question": "If you hit a deer, you must:",
-        "image": "",
-        "options": ["Leave immediately", "Call police so they can issue a tag", "Drag the deer off the road yourself", "Ignore the incident"],
-        "answer": 1
-    },
-    {
-        "question": "If you hit a deer and do not want it, who may keep it?",
-        "image": "",
-        "options": ["Only police", "Only farmers", "The next motorist", "No one"],
-        "answer": 2
-    },
-
-    {
-        "question": "Vehicles in a funeral procession must:",
-        "image": "",
-        "options": ["Have hazard lights on", "Have headlights on", "Drive with windows down", "Stop at every intersection"],
-        "answer": 1
-    },
-    {
-        "question": "You must NOT:",
-        "image": "",
-        "options": ["Yield to the procession", "Cut into a funeral procession", "Allow them to pass", "Let them proceed together"],
-        "answer": 1
-    },
-
-    {
-        "question": "Bald tires are dangerous because they:",
-        "image": "",
-        "options": ["Increase fuel efficiency", "Reduce traction and increase stopping distance", "Improve steering", "Reduce braking power only in summer"],
-        "answer": 1
-    },
-
-    {
-        "question": "In reduced visibility, vehicles may appear:",
-        "image": "",
-        "options": ["Faster than they are", "Slower than they are", "Larger than they are", "Closer than they are"],
-        "answer": 1
-    },
-    {
-        "question": "In fog or rain, you should:",
-        "image": "",
-        "options": ["Drive faster", "Turn off headlights", "Drive at a lower speed and be ready to stop", "Use high beams"],
-        "answer": 2
-    },
-
-    {
-        "question": "In severe weather, bridges and overpasses:",
-        "image": "",
-        "options": ["Freeze last", "Freeze before the rest of the roadway", "Never freeze", "Are safer than roads"],
-        "answer": 1
-    },
-    {
-        "question": "If your car does NOT have ABS, you should:",
-        "image": "",
-        "options": ["Brake hard and hold", "Pump the brakes gently", "Turn off the engine", "Use cruise control"],
-        "answer": 1
-    },
-
-    {
-        "question": "Slippery or icy roads are common at:",
-        "image": "",
-        "options": ["Sunny areas", "Shady spots, bridges, and overpasses", "Highways only", "School zones"],
-        "answer": 1
-    },
-
-   {
-        "question": "Hydroplaning occurs when:",
-        "image": "",
-        "options": ["Tires grip the road tightly", "Tires slide on top of water", "Brakes lock up", "Engine overheats"],
-        "answer": 1
-    },
-    {
-        "question": "If hydroplaning, you should:",
-        "image": "",
-        "options": ["Brake hard", "Turn sharply", "Ease off the gas and keep the wheel straight", "Accelerate"],
-        "answer": 2
-    },
-
-    {
-        "question": "If your vehicle begins skidding, you should:",
-        "image": "",
-        "options": ["Brake hard", "Turn the wheel opposite of where you want to go", "Stay off the brake and turn in the direction you want to go", "Accelerate"],
-        "answer": 2
-    },
-
-   {
-        "question": "Before winter driving, you must clear snow and ice from:",
-        "image": "",
-        "options": ["Only the windshield", "Only the roof", "All windows, lamps, mirrors, and plates", "Only the rear window"],
-        "answer": 2
-    },
-    {
-        "question": "You should NOT use cruise control on:",
-        "image": "",
-        "options": ["Dry roads", "Slippery roads", "Highways", "Gravel roads"],
-        "answer": 1
-    },
-    {
-        "question": "Give snowplows at least:",
-        "image": "",
-        "options": ["50 feet", "100 feet", "200 feet", "500 feet"],
-        "answer": 2
-    },
-
-    {
-        "question": "Farm equipment may lack:",
-        "image": "",
-        "options": ["Wheels", "Brake lights or turn signals", "Headlights", "Mirrors"],
-        "answer": 1
-    },
-    {
-        "question": "You must yield right-of-way to:",
-        "image": "",
-        "options": ["Farmers only", "Livestock on or along the highway", "Only large trucks", "Only emergency vehicles"],
-        "answer": 1
-    },
-    {
-        "question": "You should NOT honk at livestock because:",
-        "image": "",
-        "options": ["It wastes fuel", "It may scare the animals", "It is illegal", "It damages your horn"],
-        "answer": 1
-    },
-    {
-        "question": "No one under what age may operate farm machinery on highways?",
-        "image": "",
-        "options": ["12", "14", "16", "18"],
-        "answer": 2
-    },
-    {
-        "question": "The chance of a crash doubles when:",
-        "image": "",
-        "options": ["Driving at night", "A teen driver has another teen in the vehicle", "Driving in rain", "Driving on highways"],
-        "answer": 1
-    },
-    {
-        "question": "To warn drivers behind you of a hazard, you should:",
-        "image": "",
-        "options": ["Honk loudly", "Flash headlights", "Tap your brake pedal three or four times", "Turn off headlights"],
-        "answer": 2
-    },
-    {
-        "question": "When using ABS in an emergency, you should:",
-        "image": "",
-        "options": ["Pump the brakes", "Apply firm, continuous pressure", "Release the brake repeatedly", "Turn off ABS"],
-        "answer": 1
-    },
-    {
-        "question": "To avoid a crash by turning, you must:",
-        "image": "",
-        "options": ["Steer into oncoming traffic", "Turn sharply without checking", "Steer in the direction you want the vehicle to go", "Use only one hand"],
-        "answer": 2
-    },
-    {
-        "question": "Speeding up to avoid a crash may be necessary when:",
-        "image": "",
-        "options": ["Traffic is slow", "Another vehicle is about to hit you from the side or behind", "You are late", "You are entering a roundabout"],
-        "answer": 1
-    },
-
-    {
-        "question": "If someone is injured or killed in a crash, you must:",
-        "image": "",
-        "options": ["Move vehicles immediately", "Leave the scene", "Call 911 and stay at the scene", "Drive home first"],
-        "answer": 2
-    },
-    {
-        "question": "Leaving the scene of a crash with injury or death is:",
-        "image": "",
-        "options": ["A minor violation", "Legal if traffic is heavy", "A crime", "Allowed if you call later"],
-        "answer": 2
-    },
-    {
-        "question": "If there are no injuries but your vehicle cannot move, you should:",
-        "image": "",
-        "options": ["Stay in traffic", "Call 911 and follow directions", "Push the vehicle yourself", "Leave the scene"],
-        "answer": 1
-    },
-    {
-        "question": "If there are no injuries and you can move your vehicle, you should:",
-        "image": "",
-        "options": ["Stop in the middle of the road", "Move off the road when safe", "Leave immediately", "Wait for police before moving"],
-        "answer": 1
-    },
-    {
-        "question": "You must report a crash to police if property damage is:",
-        "image": "",
-        "options": ["$100 or more", "$500 or more", "$1,000 or more", "$5,000 or more"],
-        "answer": 2
-    },
-    {
-        "question": "You must report a crash if government property damage is:",
-        "image": "",
-        "options": ["$50 or more", "$100 or more", "$200 or more", "$500 or more"],
-        "answer": 2
-    },
-    {
-        "question": "You must report a crash if:",
-        "image": "",
-        "options": ["You are late for work", "A driver appears under the influence of alcohol or drugs", "Traffic is heavy", "Weather is bad"],
-        "answer": 1
-    },
-    {
-"question": "What should you do first if you or someone else is injured during a roadside emergency?",
-"image": "",
-"options": ["Call a tow truck", "Call 911", "Move the injured person", "Turn off your engine"],
-"answer": 1
-},
-{
-"question": "What should you turn on during any roadside emergency?",
-"image": "",
-"options": ["High beams", "Parking lights", "Emergency flashers", "Fog lights"],
-"answer": 2
-},
-{
-"question": "What is the first action to take if your brakes stop working?",
-"image": "",
-"options": ["Shift to neutral", "Pump the brake pedal several times", "Turn off the engine", "Honk your horn repeatedly"],
-"answer": 1
-},
-{
-"question": "If your brakes stop working and pumping the pedal does not help, what should you do next?",
-"image": "",
-"options": ["Pull the parking brake", "Speed up to find a safe area", "Turn off headlights", "Shift into reverse"],
-"answer": 0
-},
-{
-"question": "What should you do if pulling the parking brake causes your vehicle to skid?",
-"image": "",
-"options": ["Turn off the engine", "Take off the parking brake", "Pump the gas pedal", "Shift to neutral"],
-"answer": 1
-},
-{
-"question": "When your brakes fail, what should you look for?",
-"image": "",
-"options": ["A place to make a U-turn", "A safe place to slow to a stop", "A nearby gas station", "A downhill road"],
-"answer": 1
-},
-{
-"question": "What should you do first if you experience a tire blowout?",
-"image": "",
-"options": ["Brake hard immediately", "Turn sharply to the right", "Hold the steering wheel to keep the vehicle straight", "Shift into neutral"],
-"answer": 2
-},
-{
-"question": "During a tire blowout, what should you do with the gas pedal?",
-"image": "",
-"options": ["Press it lightly", "Lift your foot off and slow down gradually", "Press it firmly to maintain speed", "Hold it steady"],
-"answer": 1
-},
-{
-"question": "After a tire blowout, when should you pull off the road?",
-"image": "",
-"options": ["Immediately, regardless of traffic", "Only after stopping completely", "When it is safe to do so", "After turning on high beams"],
-"answer": 2
-},
-{
-"question": "If your engine stops working, what should you do with the steering wheel?",
-"image": "",
-"options": ["Let it turn freely", "Hold the steering wheel firmly", "Turn it all the way left", "Lock it in place"],
-"answer": 1
-},
-{
-"question": "When your engine stops working, what should you do with the key?",
-"image": "",
-"options": ["Turn it to the 'off' position", "Remove it from the ignition", "Keep it in the 'on' position", "Turn it to accessory mode"],
-"answer": 2
-},
-{
-"question": "What will happen to the steering wheel if your engine stops working?",
-"image": "",
-"options": ["It will turn more easily", "It will lock completely", "It will be hard to turn", "It will turn automatically"],
-"answer": 2
-},
-{
-"question": "If your engine stops working, when should you pull the car to the side of the road?",
-"image": "",
-"options": ["Only after restarting the engine", "When it is safe to do so", "Immediately, without checking traffic", "After turning on high beams"],
-"answer": 1
-},
-{
-"question": "If your headlights stop working, what should you try first?",
-"image": "",
-"options": ["Turn on high beams", "Flip headlights on/off to check if parking lights are on", "Turn off the engine", "Activate cruise control"],
-"answer": 1
-},
-{
-"question": "When headlights stop working, what lights should you turn on?",
-"image": "",
-"options": ["High beams only", "Fog lights only", "Emergency flashers and low lights", "Interior dome lights"],
-"answer": 2
-},
-{
-"question": "If your headlights stop working, when should you pull off the road?",
-"image": "",
-"options": ["Immediately, without signaling", "Only after stopping completely", "When it is safe to do so", "After turning off all lights"],
-"answer": 2
-},
-{
-"question": "What is the first thing you should do if your gas pedal sticks?",
-"image": "",
-"options": ["Turn off the engine", "Honk your horn", "Keep your eyes on the road", "Shift into reverse"],
-"answer": 2
-},
-{
-"question": "If your gas pedal sticks, what should you do with the transmission?",
-"image": "",
-"options": ["Shift to drive", "Shift to neutral", "Shift to park", "Shift to low gear"],
-"answer": 1
-},
-{
-"question": "When your gas pedal sticks, when should you pull off the road?",
-"image": "",
-"options": ["Immediately, regardless of traffic", "When it is safe to do so", "Only after stopping completely", "After turning on high beams"],
-"answer": 1
-},
-{
-"question": "What should you do after pulling off the road when your gas pedal sticks?",
-"image": "",
-"options": ["Turn off the engine", "Press the gas pedal repeatedly", "Turn on cruise control", "Shift into reverse"],
-"answer": 0
-},
-    {
-"question": "What is the legal alcohol concentration allowed for drivers under 21?",
-"image": "",
-"options": ["0.02%", "0.01%", "0.00%", "0.05%"],
-"answer": 2
-},
-{
-"question": "Driving under the influence of which substances is illegal?",
-"image": "",
-"options": ["Only alcohol", "Only illegal drugs", "Only prescription drugs", "Any drugs, including prescription and non-prescription"],
-"answer": 3
-},
-{
-"question": "What is the only thing that can sober you up after drinking?",
-"image": "",
-"options": ["Coffee", "Cold shower", "Time", "Eating food"],
-"answer": 2
-},
-{
-"question": "If a police officer asks you to take a PAC test, what must you do?",
-"image": "",
-"options": ["You may refuse without consequences", "You must agree to take it", "You can request a delay", "You can choose a different test"],
-"answer": 1
-},
-{
-"question": "What happens if you refuse a PAC test?",
-"image": "",
-"options": ["You receive a warning", "You must pay a small fine", "You will lose driving privileges for at least one year", "You must attend a class"],
-"answer": 2
-},
-{
-"question": "What is a PAC test used to detect?",
-"image": "",
-"options": ["Vehicle defects", "Driver fatigue", "Measurable alcohol concentration", "Drug residue on hands"],
-"answer": 2
-},
-{
-"question": "What is one effect of alcohol or drugs on driving?",
-"image": "",
-"options": ["Improved reaction time", "Better distance judgment", "Trouble figuring out speed and movement", "Increased alertness"],
-"answer": 2
-},
-{
-"question": "What should you check on prescription or non-prescription drugs before driving?",
-"image": "",
-"options": ["Expiration date", "Warning label for side effects", "Brand name", "Dosage instructions only"],
-"answer": 1
-},
-{
-"question": "If a drug label says 'do not operate heavy machinery,' what does this include?",
-"image": "",
-"options": ["Only factory equipment", "Only commercial trucks", "Motor vehicles", "Only farm tractors"],
-"answer": 2
-},
-{
-"question": "What should you do if you need a ride home after drinking?",
-"image": "",
-"options": ["Drive slowly", "Wait 10 minutes", "Ask a sober friend or bartender for help", "Drink water first"],
-"answer": 2
-},
-{
-"question": "What is one known effect of marijuana on driving?",
-"image": "",
-"options": ["Improved focus", "Fewer mistakes", "More mistakes", "Better lane control"],
-"answer": 2
-},
-{
-"question": "What should you avoid using while driving because it covers both ears?",
-"image": "",
-"options": ["Earplugs", "Headsets or headphones", "Bluetooth speakers", "Single-ear earbuds"],
-"answer": 1
-},
-{
-"question": "Why should your radio be kept at a low volume while driving?",
-"image": "",
-"options": ["To save battery", "To avoid distraction", "To hear emergency vehicles", "To improve fuel efficiency"],
-"answer": 2
-},
-{
-"question": "What should you do if you need to use your phone while driving?",
-"image": "",
-"options": ["Hold it in your hand", "Use it only at stop signs", "Pull over when safe", "Use speaker mode while driving"],
-"answer": 2
-},
-{
-"question": "Instruction permit and probationary license holders may use a cell phone only to:",
-"image": "",
-"options": ["Check directions", "Send texts", "Report an emergency", "Call friends"],
-"answer": 2
-},
-{
-"question": "What should regular license holders do regarding cell phone use?",
-"image": "",
-"options": ["Use it freely", "Avoid using it while driving", "Text only at red lights", "Use it only for navigation"],
-"answer": 1
-},
-{
-"question": "If you need to read directions while driving, what should you do?",
-"image": "",
-"options": ["Slow down and read", "Read while keeping one eye on the road", "Pull over to a safe location", "Ask another driver to help"],
-"answer": 2
-},
-{
-"question": "Where should pets be placed while driving?",
-"image": "",
-"options": ["On the driver's lap", "In the front seat", "In a carrier or held by a passenger", "Loose in the back seat"],
-"answer": 2
-},
-{
-"question": "What should you NOT hang from your rearview mirror?",
-"image": "",
-"options": ["Air fresheners", "Nothing at all", "Objects that block your view", "Small decorations"],
-"answer": 2
-},
-{
-"question": "What is drowsy driving?",
-"image": "",
-"options": ["Driving while sick", "Driving while angry", "Driving while very tired", "Driving after eating"],
-"answer": 2
-},
-{
-"question": "Which group is at greater risk for drowsy-related crashes?",
-"image": "",
-"options": ["Older adults", "Teen and young adult drivers", "Professional drivers", "Bicyclists"],
-"answer": 1
-},
-{
-"question": "Which is a sign that you should pull over and rest?",
-"image": "",
-"options": ["Singing loudly", "Yawning or blinking a lot", "Driving slowly", "Feeling hungry"],
-"answer": 1
-},
-{
-"question": "What should you do if you drift from your lane due to tiredness?",
-"image": "",
-"options": ["Speed up", "Turn on hazard lights", "Pull over and rest", "Open the windows"],
-"answer": 2
-},
-{
-"question": "What does hitting the rumble strip indicate?",
-"image": "",
-"options": ["You are driving too fast", "You are too close to the shoulder", "You may be drowsy", "Your tires are worn"],
-"answer": 2
-},
-{
-"question": "Why should you avoid driving next to other vehicles on multi-lane roads?",
-"image": "",
-"options": ["It wastes fuel", "It blocks emergency vehicles", "It reduces reaction time", "It increases blind spot risk"],
-"answer": 3
-},
-{
-"question": "How much distance should you give parked vehicles on the side of the road?",
-"image": "",
-"options": ["No extra distance", "A small amount", "Extra room", "Only if traffic is heavy"],
-"answer": 2
-},
-{
-"question": "Where should you avoid driving to prevent being unseen by other drivers?",
-"image": "",
-"options": ["In front of trucks", "In blind spots", "In the right lane", "Near intersections"],
-"answer": 1
-},
-{
-"question": "What is illegal regarding pedestrians?",
-"image": "",
-"options": ["Stopping for them", "Honking at them", "Driving on a sidewalk except when crossing it", "Letting them cross"],
-"answer": 2
-},
-{
-"question": "What should you do when you see emergency lights and hear sirens?",
-"image": "",
-"options": ["Speed up", "Stop immediately in your lane", "Pull over and stop until the vehicle passes", "Continue driving normally"],
-"answer": 2
-},
-{
-"question": "Where should you NOT stop when an emergency vehicle approaches?",
-"image": "",
-"options": ["On the shoulder", "In the middle of an intersection", "In the right lane", "In a parking lot"],
-"answer": 1
-},
-{
-"question": "If approaching a stopped emergency vehicle with flashing lights, what must you do?",
-"image": "",
-"options": ["Speed up to pass quickly", "Move into the lane farthest from the vehicle", "Stop immediately", "Turn on high beams"],
-"answer": 1
-},
-{
-"question": "How far must you stop from a school bus with flashing red lights?",
-"image": "",
-"options": ["10 feet", "15 feet", "20 feet", "30 feet"],
-"answer": 2
-},
-{
-"question": "When must you stop for a school bus with flashing red lights?",
-"image": "",
-"options": ["Only if you are behind it", "Only if children are visible", "Whether on your side or opposite side of the road", "Only in school zones"],
-"answer": 2
-},
-{
-"question": "When do you NOT need to stop for a school bus with flashing red lights?",
-"image": "",
-"options": ["On a rural road", "On a city street", "On a divided highway when you are not on the bus’s side", "When children are seated"],
-"answer": 2
-},
-{
-"question": "Why should you give motorcycles extra room?",
-"image": "",
-"options": ["They are slower", "They stop faster than most vehicles", "They are louder", "They use more space"],
-"answer": 1
-},
-{
-"question": "What should you do before moving when sharing the road with motorcycles?",
-"image": "",
-"options": ["Check blind spots", "Turn on hazard lights", "Speed up", "Honk twice"],
-"answer": 0
-},
-{
-"question": "How much room must you give bicyclists when passing?",
-"image": "",
-"options": ["1 foot", "2 feet", "3 feet", "5 feet"],
-"answer": 2
-},
-{
-"question": "Should you share a lane with a bicyclist?",
-"image": "",
-"options": ["Yes, if the lane is wide", "Yes, if traffic is slow", "No, never", "Only at night"],
-"answer": 2
-},
-{
-"question": "What should bicyclists ideally have on their bikes?",
-"image": "",
-"options": ["GPS", "Reflectors or lights", "Two mirrors", "A horn"],
-"answer": 1
-},
-{
-"question": "What does the bicycle hand signal with the left arm straight out indicate?",
-"image": "images/TODO-left-turn.png",
-"options": ["Right turn", "Stop", "Left turn", "Slow down"],
-"answer": 2
-},
-{
-"question": "What does the bicycle hand signal with the left arm bent upward indicate?",
-"image": "images/TODO-right-turn.png",
-"options": ["Stop", "Right turn", "Left turn", "Yield"],
-"answer": 1
-},
-{
-"question": "What does the bicycle hand signal with the left arm bent downward indicate?",
-"image": "images/TODO-stop.png",
-"options": ["Left turn", "Right turn", "Stop", "Speed up"],
-"answer": 2
-},
-{
-"question": "How far behind a large truck is considered a No-Zone?",
-"image": "",
-"options": ["50 feet", "100 feet", "200 feet", "300 feet"],
-"answer": 2
-},
-{
-"question": "How far in front of a large truck is considered a No-Zone?",
-"image": "",
-"options": ["5 feet", "10 feet", "20 feet", "40 feet"],
-"answer": 2
-},
-{
-"question": "What should you do if you are in a truck’s blind spot?",
-"image": "",
-"options": ["Stay there", "Slow down only", "Either speed up or drop back", "Honk repeatedly"],
-"answer": 2
-},
-{
-"question": "How many demerit points will suspend your driving privilege within 12 months?",
-"image": "",
-"options": ["6 points", "8 points", "10 points", "12 points"],
-"answer": 3
-},
-{
-"question": "What happens to points for probationary license holders after their second conviction?",
-"image": "",
-"options": ["They stay the same", "They are reduced", "They are doubled", "They are erased"],
-"answer": 2
-},
-{
-"question": "What qualifies someone as a habitual traffic offender?",
-"image": "",
-"options": ["Two major violations", "Four major or 12 minor violations in five years", "Three minor violations", "One DUI"],
-"answer": 1
-},
-{
-"question": "How long will a habitual traffic offender lose driving privileges?",
-"image": "",
-"options": ["One year", "Two years", "Three years", "Five years"],
-"answer": 3
-},
-{
-"question": "When can a habitual traffic offender apply for an occupational license?",
-"image": "",
-"options": ["Immediately", "After one year", "After two years", "After five years"],
-"answer": 2
-},
-{
-"question": "How many hours per day can you drive with an occupational license?",
-"image": "",
-"options": ["6 hours", "8 hours", "12 hours", "24 hours"],
-"answer": 2
-},
-{
-"question": "How many hours per week can you drive with an occupational license?",
-"image": "",
-"options": ["40 hours", "50 hours", "60 hours", "70 hours"],
-"answer": 2
-},
-{
-"question": "What must you show to apply for an occupational license?",
-"image": "",
-"options": ["Proof of employment", "Proof of insurance only", "Proof of financial responsibility", "A letter from your employer"],
-"answer": 2
-},
-{
-"question": "Where can you drive with an occupational license?",
-"image": "",
-"options": ["Anywhere", "Only to work and school", "To work, school, household needs, and IDP/DSP appointments", "Only within your city"],
-"answer": 2
-},
-{
-"question": "What must you present to reinstate a revoked license?",
-"image": "",
-"options": ["A written essay", "Proof of identity and reinstatement fee", "A driving test", "A medical certificate"],
-"answer": 1
-},
-    [
-{
-"question": "How should the lap belt fit when worn correctly?",
-"image": "",
-"options": ["Loosely across the stomach", "Snugly across the hip bones under the stomach", "Across the lower chest", "High across the ribs"],
-"answer": 1
-},
-{
-"question": "Where should the shoulder belt be worn?",
-"image": "",
-"options": ["Under the arm", "Behind the back", "Across the chest", "Across the stomach"],
-"answer": 2
-},
-{
-"question": "How much space should be between your chest and the shoulder belt?",
-"image": "",
-"options": ["No space at all", "Enough for two fists", "Enough for one fist", "Six inches"],
-"answer": 2
-},
-{
-"question": "What should you NEVER do with a shoulder belt?",
-"image": "",
-"options": ["Wear it across your chest", "Adjust it snugly", "Put it under your arm", "Check its tightness"],
-"answer": 2
-},
-{
-"question": "Children generally must use a child safety seat until what age?",
-"image": "",
-"options": ["Age 2", "Age 3", "Age 4", "Age 6"],
-"answer": 2
-},
-{
-"question": "Children generally must use a booster seat until what age?",
-"image": "",
-"options": ["Age 5", "Age 6", "Age 7", "Age 8"],
-"answer": 3
-},
-{
-"question": "What should you check in the child safety seat manual?",
-"image": "",
-"options": ["Color options", "Installation instructions and weight/height requirements", "Warranty details", "Cleaning instructions only"],
-"answer": 1
-},
-{
-"question": "Where can you get help if you cannot buy a child safety seat?",
-"image": "",
-"options": ["Your local grocery store", "Any police station", "The SafeKids Wisconsin website or phone number", "Your insurance company"],
-"answer": 2
-},
-{
-"question": "What is the phone number provided for child safety seat assistance?",
-"image": "",
-"options": ["(414) 555-1212", "(414) 316-8058", "(608) 316-8058", "(800) 316-4141"],
-"answer": 1
-},
-{
-"question": "What type of insurance must you have to drive in Wisconsin?",
-"image": "",
-"options": ["Collision insurance", "Comprehensive insurance", "Valid liability car insurance", "Rental insurance"],
-"answer": 2
-},
-{
-"question": "When must you present proof of insurance?",
-"image": "",
-"options": ["When renewing your license", "Only after a crash", "Whenever a police officer requests it", "Only during vehicle registration"],
-"answer": 2
-},
-{
-"question": "If you are from another state, what insurance proof can you provide?",
-"image": "",
-"options": ["Only Wisconsin-issued insurance", "Only rental car insurance", "Proof from your own state's insurance company", "No proof is needed"],
-"answer": 2
-},
-{
-"question": "If you are driving someone else’s car, what must you ensure?",
-"image": "",
-"options": ["That it has a full tank of gas", "That it has insurance", "That it has new tires", "That it has a clean interior"],
-"answer": 1
-},
-{
-"question": "Which action helps save fuel?",
-"image": "",
-"options": ["Driving faster", "Carpooling or ride sharing", "Idling frequently", "Driving with windows open"],
-"answer": 1
-},
-{
-"question": "Why should you avoid driving during heavy traffic periods?",
-"image": "",
-"options": ["It increases fuel efficiency", "It reduces wear and tear", "Stop-and-go driving causes extra wear and tear", "It improves brake performance"],
-"answer": 2
-},
-{
-"question": "How does slowing down little by little help your vehicle?",
-"image": "",
-"options": ["It increases engine temperature", "It saves fuel and brakes", "It reduces tire pressure", "It improves acceleration"],
-"answer": 1
-},
-{
-"question": "What happens when a vehicle is not in good working condition?",
-"image": "",
-"options": ["It becomes more fuel efficient", "It costs less to run", "It may break down and crash", "It improves braking ability"],
-"answer": 2
-},
-{
-"question": "What effect does low tire air pressure have?",
-"image": "",
-"options": ["Increases fuel mileage", "Decreases fuel mileage", "Improves braking", "Improves steering"],
-"answer": 1
-}
+	{
+		"question": "Who must you always yield to in order to avoid collisions?",
+		"image": "",
+		"options": [
+			"Only pedestrians",
+			"Only bicyclists",
+			"Pedestrians, bicyclists, and other vehicles",
+			"Only vehicles larger than yours"
+		],
+		"answer": 2
+	},
+	{
+		"question": "At a four-way stop, who has the right-of-way?",
+		"image": "",
+		"options": [
+			"The driver on the left",
+			"The driver who arrives first",
+			"The fastest driver",
+			"The largest vehicle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If two or more drivers arrive at a four-way stop at the same time, who goes first?",
+		"image": "",
+		"options": [
+			"The driver on the left",
+			"The driver on the right",
+			"The driver going straight",
+			"The driver turning left"
+		],
+		"answer": 1
+	},
+	{
+		"question": "At an uncontrolled intersection, who should you yield to?",
+		"image": "",
+		"options": [
+			"Vehicles coming from the left",
+			"Vehicles coming from the right",
+			"Vehicles behind you",
+			"Vehicles far away"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Who has the right-of-way in a roundabout?",
+		"image": "",
+		"options": [
+			"Vehicles entering the roundabout",
+			"Vehicles already in the roundabout",
+			"Pedestrians only",
+			"Vehicles on the left side"
+		],
+		"answer": 1
+	},
+	{
+		"question": "At an uncontrolled T-intersection, who must you yield to?",
+		"image": "",
+		"options": [
+			"Traffic on the terminating road",
+			"Cross traffic on the through road",
+			"Only pedestrians",
+			"Only bicyclists"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How far must you stop from a pedestrian using a guide dog or white cane?",
+		"image": "",
+		"options": [
+			"5 feet",
+			"10 feet",
+			"15 feet",
+			"20 feet"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must yield to a vehicle passing you on the left or right when:",
+		"image": "",
+		"options": [
+			"You are driving faster",
+			"You are driving slower",
+			"You are driving the same direction",
+			"You are stopped"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When making a left turn or U-turn, you must yield to:",
+		"image": "",
+		"options": [
+			"Vehicles behind you",
+			"Approaching vehicles",
+			"Vehicles in the opposite lane only",
+			"Pedestrians only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When must you yield to emergency vehicles?",
+		"image": "",
+		"options": [
+			"Only when lights are on",
+			"Only when sirens are on",
+			"Only when both lights and sirens are on",
+			"When lights and/or sirens are on"
+		],
+		"answer": 3
+	},
+	{
+		"question": "What following distance rule should you use to ensure safe stopping?",
+		"image": "",
+		"options": [
+			"Two-second rule",
+			"Three-second rule",
+			"Four-second rule",
+			"Five-second rule"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you reach your chosen object before finishing 'one thousand four,' what does it mean?",
+		"image": "",
+		"options": [
+			"You are driving too slow",
+			"You are driving too fast",
+			"Your brakes are worn",
+			"Your vehicle is too heavy"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How many extra seconds should you add to your following distance in adverse conditions?",
+		"image": "",
+		"options": [
+			"Add 1 second",
+			"Add 2 seconds",
+			"Add 3 seconds",
+			"Add 4 seconds"
+		],
+		"answer": 0
+	},
+	{
+		"question": "What is the speed limit in residential areas unless otherwise posted?",
+		"image": "",
+		"options": [
+			"15 mph",
+			"20 mph",
+			"25 mph",
+			"30 mph"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is the normal speed limit in a school zone when children are present?",
+		"image": "",
+		"options": [
+			"10 mph",
+			"15 mph",
+			"20 mph",
+			"25 mph"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What is the maximum speed limit in outlying parts of cities and villages with no posted limit?",
+		"image": "",
+		"options": [
+			"25 mph",
+			"30 mph",
+			"35 mph",
+			"40 mph"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Is it legal to exceed the speed limit to pass another vehicle?",
+		"image": "",
+		"options": [
+			"Yes, if safe",
+			"Yes, if the other vehicle is slow",
+			"No, it is illegal",
+			"Only on highways"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Driving too slow can cause:",
+		"image": "",
+		"options": [
+			"Better fuel efficiency",
+			"Vehicles to back up and cause a crash",
+			"Improved traffic flow",
+			"Less road wear"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When merging with traffic, you should enter at:",
+		"image": "",
+		"options": [
+			"A slower speed than traffic",
+			"A faster speed than traffic",
+			"The same speed as traffic",
+			"Any speed you choose"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is the purpose of an acceleration lane?",
+		"image": "",
+		"options": [
+			"To slow down before merging",
+			"To speed up and match traffic flow",
+			"To stop and wait for a gap",
+			"To allow trucks to pass"
+		],
+		"answer": 1
+	},
+	{
+		"question": "In a deceleration lane, you should:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Maintain highway speed",
+			"Gradually slow down",
+			"Stop completely"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How far ahead should a driver be able to see to maintain control?",
+		"image": "",
+		"options": [
+			"3–5 seconds",
+			"5–8 seconds",
+			"8–10 seconds",
+			"10–15 seconds"
+		],
+		"answer": 3
+	},
+	{
+		"question": "You should slow down when driving on:",
+		"image": "",
+		"options": [
+			"Straight roads",
+			"Curved roads or hills",
+			"Dry highways",
+			"Open rural roads"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When roads are icy, you should:",
+		"image": "",
+		"options": [
+			"Drive faster",
+			"Drive normally",
+			"Try to avoid driving",
+			"Use cruise control"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Intersections include:",
+		"image": "",
+		"options": [
+			"Only cross streets",
+			"Cross streets, driveways, parking lots, and railroad crossings",
+			"Only major roads",
+			"Only places with stop signs"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Before entering an intersection, you should look:",
+		"image": "",
+		"options": [
+			"Left only",
+			"Right only",
+			"Left and right",
+			"Straight ahead only"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you cannot see clearly across an intersection, you should:",
+		"image": "",
+		"options": [
+			"Speed up to clear it quickly",
+			"Move forward with caution",
+			"Stop and wait for someone else to move",
+			"Honk your horn"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What can block your view at intersections?",
+		"image": "",
+		"options": [
+			"Trees, buildings, and parked vehicles",
+			"Streetlights",
+			"Road paint",
+			"Mailboxes"
+		],
+		"answer": 0
+	},
+	{
+		"question": "How should you approach a blocked intersection?",
+		"image": "",
+		"options": [
+			"At normal speed",
+			"At a fast pace",
+			"At a slow pace",
+			"Without stopping"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Even if you have the right-of-way at an intersection, you should:",
+		"image": "",
+		"options": [
+			"Proceed without checking",
+			"Search left, right, and left again",
+			"Assume others will stop",
+			"Speed through quickly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why is it important to slow down gradually instead of stopping suddenly?",
+		"image": "",
+		"options": [
+			"It saves fuel",
+			"It prevents loss of control and rear-end collisions",
+			"It improves tire wear",
+			"It increases traffic flow"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What does coasting mean while driving?",
+		"image": "",
+		"options": [
+			"Driving downhill",
+			"Putting the car in neutral",
+			"Driving with cruise control",
+			"Driving with the clutch engaged"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why should you avoid coasting while driving?",
+		"image": "",
+		"options": [
+			"It increases fuel use",
+			"It reduces control of the vehicle",
+			"It damages the transmission",
+			"It makes the car go faster"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If you cannot see 10 to 15 seconds ahead of your vehicle, what should you do?",
+		"image": "",
+		"options": [
+			"Speed up to clear the area faster",
+			"Turn on hazard lights",
+			"Slow down to maintain control",
+			"Stop immediately"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do to stay aware of your surroundings while driving?",
+		"image": "",
+		"options": [
+			"Only look straight ahead",
+			"Check all mirrors regularly",
+			"Focus only on the rearview mirror",
+			"Look only to the left"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Which mirrors should you use to look ahead and behind you?",
+		"image": "",
+		"options": [
+			"Side mirrors only",
+			"Rearview mirror only",
+			"Rearview mirror and side mirrors",
+			"Dashboard camera"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do before crossing railroad tracks?",
+		"image": "",
+		"options": [
+			"Speed up to cross quickly",
+			"Assume no train is coming",
+			"Stop, look both ways, and listen",
+			"Follow the car ahead closely"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Before crossing railroad tracks, what must you check?",
+		"image": "",
+		"options": [
+			"If the crossing lights are off",
+			"If there is room for your vehicle on the other side",
+			"If other cars are waiting",
+			"If the train is far away"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why should you avoid looking at drivers who have been pulled over?",
+		"image": "",
+		"options": [
+			"It is disrespectful",
+			"It could cause a crash",
+			"It is illegal",
+			"It blocks traffic"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why is it important to give plenty of space to other vehicles?",
+		"image": "",
+		"options": [
+			"It improves fuel efficiency",
+			"It helps maintain visibility and safety",
+			"It reduces road noise",
+			"It prevents speeding"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why should you give extra space to large vehicles?",
+		"image": "",
+		"options": [
+			"They drive slower",
+			"They need more room to stop",
+			"They block your view and need more space to see you",
+			"They always have the right-of-way"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If a vehicle is driving right next to you on the roadway, what should you do?",
+		"image": "",
+		"options": [
+			"Maintain your speed",
+			"Move ahead or behind when safe",
+			"Honk your horn",
+			"Speed up to pass them"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What rule should you use to maintain space in front of your vehicle?",
+		"image": "",
+		"options": [
+			"Two-second rule",
+			"Three-second rule",
+			"Four-second following distance rule",
+			"Six-second rule"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When might you need to add extra seconds of space in front of your vehicle?",
+		"image": "",
+		"options": [
+			"When roads are dry",
+			"When roads are slippery or icy",
+			"When traffic is light",
+			"When driving downhill only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should add extra space in front when the driver behind you:",
+		"image": "",
+		"options": [
+			"Is driving slowly",
+			"Wants to pass you",
+			"Is using hazard lights",
+			"Is turning right"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Extra space in front is needed when following:",
+		"image": "",
+		"options": [
+			"Compact cars",
+			"Trucks, buses, vans, motorcycles, or bicycles",
+			"Electric vehicles",
+			"Vehicles with tinted windows"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should increase space in front when:",
+		"image": "",
+		"options": [
+			"You have a heavy load or trailer",
+			"You are driving an empty vehicle",
+			"You are driving at night only",
+			"You are driving on a straight road"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Extra space in front is needed when:",
+		"image": "",
+		"options": [
+			"Someone is following you too closely",
+			"You are driving alone",
+			"You are driving in a school zone",
+			"You are driving on a highway"
+		],
+		"answer": 0
+	},
+	{
+		"question": "You should increase space in front when:",
+		"image": "",
+		"options": [
+			"Emergency vehicles are behind you",
+			"Emergency vehicles are ahead of you",
+			"You see a police car parked",
+			"You are near a stop sign"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Extra space in front is needed when approaching:",
+		"image": "",
+		"options": [
+			"A traffic light",
+			"A railroad crossing",
+			"A pedestrian crossing",
+			"A yield sign"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should increase space in front when stopping on:",
+		"image": "",
+		"options": [
+			"Flat roads",
+			"Hills or inclines",
+			"Bridges",
+			"Highways"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How often should you check your rearview mirror to maintain space behind you?",
+		"image": "",
+		"options": [
+			"Every 2–3 seconds",
+			"Every 4–5 seconds",
+			"Every 6–8 seconds",
+			"Every 10–12 seconds"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If someone is tailgating you, what should you do?",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Brake suddenly",
+			"Slowly reduce your speed",
+			"Move to the left lane immediately"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How can you help a driver behind you who cannot see well behind their vehicle?",
+		"image": "",
+		"options": [
+			"Drive faster",
+			"Keep a steady speed and signal early",
+			"Turn on hazard lights",
+			"Change lanes frequently"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Where should you stop to pick up or let off passengers?",
+		"image": "",
+		"options": [
+			"In the middle of traffic",
+			"In the far-left lane",
+			"In a safe place out of traffic",
+			"At any intersection"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you are driving slower than most traffic on a multi-lane road, where should you drive?",
+		"image": "",
+		"options": [
+			"Left lane",
+			"Middle lane",
+			"Far-right lane",
+			"Any lane you choose"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When crossing multi-lane roads, you must ensure:",
+		"image": "",
+		"options": [
+			"You can cross halfway",
+			"There is enough room to get all the way across",
+			"You can cross quickly",
+			"You have the right-of-way"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Before crossing traffic, you should:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Check surroundings and be ready to stop",
+			"Honk your horn",
+			"Turn on hazard lights"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Before turning, you must check:",
+		"image": "",
+		"options": [
+			"Only your rearview mirror",
+			"Mirrors, surroundings, and blind spot",
+			"Only your side mirrors",
+			"Only your blind spot"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you avoid while turning?",
+		"image": "",
+		"options": [
+			"Staying in your lane",
+			"Signaling",
+			"Last-second changes",
+			"Checking mirrors"
+		],
+		"answer": 2
+	},
+	{
+		"question": "While turning, you must:",
+		"image": "",
+		"options": [
+			"Change lanes during the turn",
+			"Cross the center line",
+			"Stay in your lane",
+			"Speed up"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Why should you leave extra space for large vehicles during turns?",
+		"image": "",
+		"options": [
+			"They turn faster",
+			"They may cross the center line",
+			"They always have right-of-way",
+			"They stop suddenly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When preparing for a left turn, you should:",
+		"image": "",
+		"options": [
+			"Stay far from the center line",
+			"Keep close to the center line",
+			"Move into the right lane",
+			"Speed up"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Where should you wait when preparing to turn left at an intersection?",
+		"image": "",
+		"options": [
+			"Before the intersection",
+			"Halfway into the intersection",
+			"In the right lane",
+			"On the crosswalk"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If waiting for oncoming traffic before a left turn, your steering wheel should be:",
+		"image": "",
+		"options": [
+			"Turned left",
+			"Turned right",
+			"Straight",
+			"Slightly angled"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Why must your steering wheel remain straight while waiting to turn left?",
+		"image": "",
+		"options": [
+			"To save fuel",
+			"To avoid being pushed into oncoming traffic if hit from behind",
+			"To avoid tire wear",
+			"To improve visibility"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A U-turn is allowed:",
+		"image": "",
+		"options": [
+			"Anywhere",
+			"Only at intersections with a green arrow",
+			"On rural two-lane highways if safe",
+			"Only in residential areas"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Before making a U-turn, you must:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Check for 'No U-turn' signs",
+			"Turn on hazard lights",
+			"Move to the right lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If you start turning from the left-most lane, you must end up:",
+		"image": "",
+		"options": [
+			"In any lane you choose",
+			"In the right-most lane",
+			"In the middle lane",
+			"In the left-most lane"
+		],
+		"answer": 3
+	},
+	{
+		"question": "To turn right off a four-lane roadway, you must turn from:",
+		"image": "",
+		"options": [
+			"Any lane",
+			"The middle lane",
+			"The lane nearest the right curb",
+			"The left-most lane"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Y-turn should be used:",
+		"image": "",
+		"options": [
+			"On highways",
+			"Only in residential areas on narrow streets",
+			"At intersections",
+			"On rural roads"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During a Y-turn, the first step is:",
+		"image": "",
+		"options": [
+			"Signal left",
+			"Signal right and pull far right",
+			"Reverse immediately",
+			"Turn sharply left"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During a Y-turn, the second step is:",
+		"image": "",
+		"options": [
+			"Signal right",
+			"Signal left and turn to the opposite curb",
+			"Reverse immediately",
+			"Move forward into traffic"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During a Y-turn, the third step is:",
+		"image": "",
+		"options": [
+			"Reverse while looking over your right shoulder",
+			"Turn sharply right",
+			"Move forward immediately",
+			"Stop and honk"
+		],
+		"answer": 0
+	},
+	{
+		"question": "During a Y-turn, the final step is:",
+		"image": "",
+		"options": [
+			"Reverse again",
+			"Check traffic and pull forward into your lane",
+			"Turn sharply left",
+			"Stop and wait for traffic to clear"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may use a paved shoulder to pass only when:",
+		"image": "",
+		"options": [
+			"Traffic is slow",
+			"The vehicle is stopped or making a left turn",
+			"You are in a hurry",
+			"You are on a highway"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If someone is trying to pass you, you should:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Move into another lane",
+			"Stay in your lane and slow down",
+			"Honk your horn"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Before changing lanes, you must:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Check mirrors and blind spots",
+			"Turn on hazard lights",
+			"Look only forward"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Blind spots are areas:",
+		"image": "",
+		"options": [
+			"Visible in mirrors",
+			"You cannot see by mirrors alone",
+			"Behind the vehicle only",
+			"Next to the rear bumper"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When passing another vehicle, you must pass:",
+		"image": "",
+		"options": [
+			"On the right side",
+			"On the left side only",
+			"In any lane",
+			"In the shoulder"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should return to your lane after passing when:",
+		"image": "",
+		"options": [
+			"You hear a horn",
+			"You see both headlights of the passed vehicle in your rearview mirror",
+			"You are halfway past the vehicle",
+			"You feel safe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You cannot exceed the speed limit when:",
+		"image": "",
+		"options": [
+			"Driving downhill",
+			"Passing another vehicle",
+			"Driving on a highway",
+			"Merging"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When backing up, you should move:",
+		"image": "",
+		"options": [
+			"Quickly",
+			"At normal driving speed",
+			"No faster than a slow walk",
+			"Only using mirrors"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When backing up, you should look:",
+		"image": "",
+		"options": [
+			"Only at mirrors",
+			"Only at the backup camera",
+			"Over your right shoulder through the rear window",
+			"Straight ahead"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you miss your exit, you should:",
+		"image": "",
+		"options": [
+			"Back up carefully",
+			"Stop immediately",
+			"Make a U-turn",
+			"Continue to the next exit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Parking is normally done on:",
+		"image": "",
+		"options": [
+			"The left side of the road",
+			"The far-right side of the road",
+			"The center lane",
+			"Any lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Parking is not allowed:",
+		"image": "",
+		"options": [
+			"Near mailboxes",
+			"Where curbs are yellow or in front of fire hydrants",
+			"On rural roads",
+			"In residential driveways"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When parking on a level surface, you should:",
+		"image": "",
+		"options": [
+			"Leave the car in neutral",
+			"Turn wheels left",
+			"Put the vehicle in Park and set the parking brake",
+			"Turn off headlights only"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When parked uphill with a curb, turn wheels:",
+		"image": "",
+		"options": [
+			"All the way right",
+			"All the way left",
+			"Straight",
+			"Slightly right"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When parked uphill without a curb, turn wheels:",
+		"image": "",
+		"options": [
+			"Left",
+			"Right",
+			"Straight",
+			"Toward traffic"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When parked downhill, turn wheels:",
+		"image": "",
+		"options": [
+			"Left",
+			"Right",
+			"Straight",
+			"Toward the center line"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A parallel parking space should be:",
+		"image": "",
+		"options": [
+			"1 foot longer than your vehicle",
+			"3–6 feet longer than your vehicle",
+			"10 feet longer than your vehicle",
+			"Exactly your vehicle length"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When beginning parallel parking, you should stop:",
+		"image": "",
+		"options": [
+			"6 feet from the vehicle ahead",
+			"2 feet from the vehicle ahead",
+			"1 foot from the curb",
+			"Directly behind the vehicle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During parallel parking, you turn your wheel:",
+		"image": "",
+		"options": [
+			"Toward the curb first",
+			"All the way to the side you are parking toward",
+			"Straight ahead",
+			"Toward the opposite lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should end parallel parking about:",
+		"image": "",
+		"options": [
+			"1 foot from the curb",
+			"3 feet from the curb",
+			"6 inches from the curb",
+			"2 feet from the curb"
+		],
+		"answer": 0
+	},
+	{
+		"question": "When parallel parked, you should be at least:",
+		"image": "",
+		"options": [
+			"1 foot from vehicles",
+			"2 feet from vehicles in front and behind",
+			"6 inches from vehicles",
+			"3 feet from vehicles"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You communicate with other drivers using:",
+		"image": "",
+		"options": [
+			"Only hand signals",
+			"Headlights, brakes, turn signals, and hazards",
+			"Only your horn",
+			"Only your mirrors"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should not drive if you are:",
+		"image": "",
+		"options": [
+			"Calm",
+			"Focused",
+			"Very worried, excited, afraid, angry, or depressed",
+			"Listening to music"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A horn is used to:",
+		"image": "",
+		"options": [
+			"Express frustration",
+			"Prevent a crash",
+			"Signal pedestrians only",
+			"Communicate with emergency vehicles"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A light tap on the horn is used to:",
+		"image": "",
+		"options": [
+			"Warn of a collision",
+			"Get another driver's attention",
+			"Signal a turn",
+			"Tell someone to speed up"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should push hard on the horn when:",
+		"image": "",
+		"options": [
+			"You are angry",
+			"You want someone to move faster",
+			"You are going to hit someone or they are going to hit you",
+			"You are parking"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You must use your low beams when you cannot see a vehicle or person at what distance?",
+		"image": "",
+		"options": [
+			"200 feet",
+			"300 feet",
+			"500 feet",
+			"800 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Low beams must be used during which time period?",
+		"image": "",
+		"options": [
+			"Sunset to sunrise",
+			"Half hour past sunset to half hour before sunrise",
+			"Only at night",
+			"Only during rain"
+		],
+		"answer": 1
+	},
+	{
+		"question": "It is recommended to use low beams when:",
+		"image": "",
+		"options": [
+			"Driving on dry roads",
+			"Using windshield wipers",
+			"Driving in bright sunlight",
+			"Driving on highways"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Low beams are recommended during:",
+		"image": "",
+		"options": [
+			"Rain, snow, or fog",
+			"Clear weather",
+			"Sunny days",
+			"Windy conditions"
+		],
+		"answer": 0
+	},
+	{
+		"question": "High beams allow you to see:",
+		"image": "",
+		"options": [
+			"Half as far as low beams",
+			"Twice as far as low beams",
+			"The same distance as low beams",
+			"Only directly in front of the vehicle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must switch from high beams to low beams when:",
+		"image": "",
+		"options": [
+			"Driving uphill",
+			"A vehicle comes toward you",
+			"Driving on a rural road",
+			"Driving in daylight"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If an oncoming driver forgets to turn off their brights, you should:",
+		"image": "",
+		"options": [
+			"Look straight ahead",
+			"Look toward the left side of the road",
+			"Look toward the right side of the road",
+			"Close your eyes briefly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You may use high beams when:",
+		"image": "",
+		"options": [
+			"Vehicles are approaching",
+			"Driving in fog",
+			"There are no vehicles coming toward you",
+			"Driving behind another vehicle"
+		],
+		"answer": 2
+	},
+	{
+		"question": "High beams may be used in:",
+		"image": "",
+		"options": [
+			"School zones",
+			"Unfamiliar places or construction areas",
+			"Parking lots",
+			"Residential neighborhoods"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Parking lights should be used only when:",
+		"image": "",
+		"options": [
+			"Driving slowly",
+			"Parked and idling",
+			"Driving in fog",
+			"Backing up"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A turn signal is used to:",
+		"image": "",
+		"options": [
+			"Warn pedestrians only",
+			"Let others know your intended direction",
+			"Increase vehicle speed",
+			"Activate headlights"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should begin signaling for a turn at an intersection about:",
+		"image": "",
+		"options": [
+			"1 second before turning",
+			"3 seconds or about 100 feet before turning",
+			"10 seconds before turning",
+			"After beginning the turn"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If turning after an intersection, you should start signaling:",
+		"image": "",
+		"options": [
+			"Before reaching the intersection",
+			"Once you cross the intersection",
+			"Halfway through the intersection",
+			"Only when traffic is clear"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If your car does not have turn signals, you may use:",
+		"image": "",
+		"options": [
+			"Headlights",
+			"Hand signals",
+			"Hazard lights",
+			"Brake lights"
+		],
+		"answer": 1
+	},
+	{
+		"question": "The hand signal for a left turn is:",
+		"image": "",
+		"options": [
+			"Hand pointed up",
+			"Hand pointed down",
+			"Hand straight out the driver window",
+			"Hand waving"
+		],
+		"answer": 2
+	},
+	{
+		"question": "The hand signal for a right turn is:",
+		"image": "",
+		"options": [
+			"Hand straight out",
+			"Hand pointed down",
+			"Hand bent upward at the elbow",
+			"Hand waving forward"
+		],
+		"answer": 2
+	},
+	{
+		"question": "The hand signal for slowing or stopping is:",
+		"image": "",
+		"options": [
+			"Hand pointed up",
+			"Hand straight out",
+			"Hand pointed to the ground",
+			"Hand waving backward"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Warning signs are usually:",
+		"image": "images/TODO-warning-sign.png",
+		"options": [
+			"Red and octagon-shaped",
+			"Yellow with black symbols, diamond-shaped",
+			"Blue and rectangular",
+			"Green and circular"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must follow directions from police or crossing guards:",
+		"image": "",
+		"options": [
+			"Only if traffic lights are off",
+			"Only in school zones",
+			"Even if they differ from traffic signs or signals",
+			"Only during emergencies"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What does an Intersection / Cross Road warning sign indicate?",
+		"image": "images/TODO-crossroad.png",
+		"options": [
+			"A dead-end road ahead",
+			"Two or more roads cross ahead",
+			"A divided highway begins",
+			"A pedestrian-only zone"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Divided Highway sign warns that:",
+		"image": "images/TODO-divided-highway.png",
+		"options": [
+			"Traffic merges ahead",
+			"Traffic moves in the same direction",
+			"Traffic moves in opposite directions separated by a barrier",
+			"The road narrows ahead"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Slippery When Wet sign warns you to:",
+		"image": "images/TODO-slippery-when-wet.png",
+		"options": [
+			"Speed up",
+			"Slow down",
+			"Turn on hazard lights",
+			"Stop immediately"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Signal Ahead sign warns that:",
+		"image": "images/TODO-signal-ahead.png",
+		"options": [
+			"A stoplight is ahead",
+			"A railroad crossing is ahead",
+			"A pedestrian zone is ahead",
+			"A speed bump is ahead"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A Deer Crossing sign indicates:",
+		"image": "images/TODO-deer-crossing.png",
+		"options": [
+			"Farm animals ahead",
+			"Deer are likely to cross the road",
+			"A hunting zone",
+			"A wildlife preserve"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Sharp Turn sign warns you to:",
+		"image": "images/TODO-sharp-turn.png",
+		"options": [
+			"Speed up",
+			"Prepare for a sharp left or right turn",
+			"Expect a lane merge",
+			"Expect a roundabout"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Lane Ends sign warns that:",
+		"image": "images/TODO-lane-ends.png",
+		"options": [
+			"The road ends ahead",
+			"A lane is ending and you must merge",
+			"A passing zone begins",
+			"A divided highway begins"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Merge warning sign indicates that:",
+		"image": "images/TODO-merge.png",
+		"options": [
+			"The road ends ahead",
+			"A lane is merging and you must move over when safe",
+			"A stop sign is ahead",
+			"A pedestrian zone is ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Hill warning sign means:",
+		"image": "images/TODO-hill.png",
+		"options": [
+			"A steep drop-off is ahead",
+			"A hill is ahead and you may need to slow down",
+			"A flat road is ahead",
+			"A sharp turn is ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 2-Way Traffic warning sign indicates:",
+		"image": "images/TODO-2-way-traffic.png",
+		"options": [
+			"You are entering a one-way street",
+			"You are leaving a one-way roadway and entering opposing traffic",
+			"Traffic merges ahead",
+			"A divided highway begins"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Curved Road warning sign means:",
+		"image": "images/TODO-curved-road.png",
+		"options": [
+			"A sharp turn is ahead",
+			"The road curves slowly left or right; slow down if needed",
+			"The road becomes straight",
+			"A roundabout is ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Stop Ahead warning sign indicates:",
+		"image": "images/TODO-stop-ahead.png",
+		"options": [
+			"A yield sign is ahead",
+			"A stop sign is ahead; slow down to stop safely",
+			"A pedestrian crossing is ahead",
+			"A railroad crossing is ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Roundabout Ahead warning sign contains:",
+		"image": "images/TODO-roundabout-ahead.png",
+		"options": [
+			"A straight arrow symbol",
+			"A clockwise arrow symbol",
+			"A counterclockwise circular symbol and a 'Roundabout Ahead' plaque",
+			"A pedestrian symbol"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Pedestrian Crossing warning sign indicates:",
+		"image": "images/TODO-pedestrian-crossing.png",
+		"options": [
+			"Pedestrians may be present but do not cross",
+			"A pedestrian crossing is ahead; yield to pedestrians",
+			"Only school children may cross",
+			"No pedestrians allowed"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A School Crossing or School Zone sign indicates:",
+		"image": "images/TODO-school-crossing.png",
+		"options": [
+			"A playground is ahead",
+			"A school building is nearby but no crossing",
+			"A school zone or crossing; yield to pedestrians",
+			"Only buses may stop here"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Regulatory signs generally have what shapes and colors?",
+		"image": "images/TODO-regulatory.png",
+		"options": [
+			"Yellow diamonds",
+			"Square or rectangular, white or red with black/red/white/green lettering",
+			"Orange rectangles",
+			"Blue circles"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A No Turn sign indicates:",
+		"image": "images/TODO-no-turn.png",
+		"options": [
+			"You must turn",
+			"You cannot turn in the direction shown",
+			"You may turn only on green",
+			"You must yield before turning"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A No U-turn sign means:",
+		"image": "images/TODO-no-u-turn.png",
+		"options": [
+			"U-turns are allowed only at intersections",
+			"U-turns are allowed only on rural roads",
+			"You cannot make a U-turn",
+			"You must stop before making a U-turn"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Do Not Enter sign is used when:",
+		"image": "images/TODO-do-not-enter.png",
+		"options": [
+			"Traffic is merging",
+			"You are entering a two-way street",
+			"You cannot enter, often due to wrong-way or one-way restrictions",
+			"Pedestrians are crossing"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Speed Limit sign indicates:",
+		"image": "images/TODO-speed-limit.png",
+		"options": [
+			"The minimum speed allowed",
+			"The recommended speed",
+			"The maximum speed allowed in good conditions",
+			"The speed for emergency vehicles only"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Reduced Speed Ahead sign means:",
+		"image": "images/TODO-reduced-speed-ahead.png",
+		"options": [
+			"Speed increases ahead",
+			"You should slow down due to possible hazards",
+			"You must stop ahead",
+			"The road ends ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A School Speed Limit sign means:",
+		"image": "images/TODO-school-speed-limit.png",
+		"options": [
+			"You may drive any speed",
+			"You cannot exceed the posted speed when children are present",
+			"You must stop when children are present",
+			"Only buses must follow the posted speed"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Keep Right sign indicates:",
+		"image": "images/TODO-keep-right.png",
+		"options": [
+			"You must turn right",
+			"A traffic island or obstacle divides the road; stay to the right",
+			"Right lane ends ahead",
+			"Left lane merges ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Left Lane | Right Lane sign indicates:",
+		"image": "images/TODO-left-right-lane.png",
+		"options": [
+			"Both lanes go straight",
+			"Left lane turns left or U-turn; right lane goes straight or turns right",
+			"Right lane turns left only",
+			"Left lane turns right only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Left Lane | Middle Lane | Right Lane sign indicates:",
+		"image": "images/TODO-three-lane.png",
+		"options": [
+			"All lanes turn left",
+			"Far-left lane turns left or goes straight; middle goes straight; right turns right",
+			"Middle lane turns left only",
+			"Right lane goes straight only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Stop sign requires you to:",
+		"image": "images/TODO-stop.png",
+		"options": [
+			"Slow down only",
+			"Stop partially",
+			"Come to a complete stop and proceed when clear",
+			"Stop only if other vehicles are present"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Slow Moving Vehicle sign indicates the vehicle may travel at:",
+		"image": "images/TODO-slow-moving.png",
+		"options": [
+			"10 mph or less",
+			"15 mph or less",
+			"25 mph or less",
+			"45 mph or less"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Yield sign means:",
+		"image": "images/TODO-yield.png",
+		"options": [
+			"Stop immediately",
+			"Speed up to merge",
+			"You must yield right-of-way to other vehicles",
+			"Pedestrians must yield to you"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A No Passing Zone sign is shaped like:",
+		"image": "images/TODO-no-passing-zone.png",
+		"options": [
+			"A red octagon",
+			"A yellow pennant",
+			"A blue rectangle",
+			"A green circle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Reserved Parking Only sign indicates:",
+		"image": "images/TODO-reserved-parking.png",
+		"options": [
+			"Parking for anyone",
+			"Parking only for emergency vehicles",
+			"Parking only for vehicles with disabled permits or plates",
+			"Parking only for buses"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Construction signs are typically:",
+		"image": "images/TODO-construction.png",
+		"options": [
+			"Yellow with black letters",
+			"Blue with white letters",
+			"Orange with black letters",
+			"Green with white letters"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Traffic fines in construction zones:",
+		"image": "",
+		"options": [
+			"Are reduced",
+			"Stay the same",
+			"Double",
+			"Are waived"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You may use your cellphone in a construction zone only when:",
+		"image": "",
+		"options": [
+			"Traffic is slow",
+			"Reporting an emergency",
+			"Stopped at a red light",
+			"Using GPS"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Road Workers Ahead sign means:",
+		"image": "images/TODO-road-workers.png",
+		"options": [
+			"Speed up",
+			"Move over or slow down",
+			"Stop immediately",
+			"Turn around"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Road Construction Flagger Ahead sign means:",
+		"image": "images/TODO-flagger.png",
+		"options": [
+			"Ignore the worker",
+			"Follow the worker’s directions",
+			"Stop and wait for police",
+			"Turn on hazard lights"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Destination signs are usually:",
+		"image": "images/TODO-destination.png",
+		"options": [
+			"Red",
+			"Blue",
+			"Green or brown with white lettering",
+			"Yellow"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Destination sign showing 'Madison WEST I‑94' indicates:",
+		"image": "images/TODO-madison.png",
+		"options": [
+			"You must exit immediately",
+			"You are traveling east",
+			"You can take I‑94 west to reach Madison",
+			"Madison is behind you"
+		],
+		"answer": 2
+	},
+	{
+		"question": "An Exit sign shows:",
+		"image": "images/TODO-exit.png",
+		"options": [
+			"Speed limits",
+			"Lane endings",
+			"Which direction the exit is located",
+			"Pedestrian crossings"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A Roundabout Exits sign shows:",
+		"image": "images/TODO-roundabout-exits.png",
+		"options": [
+			"Speed limits",
+			"Which road you will be on when you exit the roundabout",
+			"Where pedestrians cross",
+			"Where to yield"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Street Name signs are usually located:",
+		"image": "images/TODO-street-name.png",
+		"options": [
+			"On the ground",
+			"On top of a silver pole at corners",
+			"On traffic lights",
+			"On stop signs"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Brown destination signs indicate:",
+		"image": "images/TODO-brown-destination.png",
+		"options": [
+			"Hospitals",
+			"Construction zones",
+			"Parks, historical areas, or museums",
+			"Speed limits"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Service signs are usually:",
+		"image": "images/TODO-service.png",
+		"options": [
+			"Red",
+			"Blue with white lettering or symbols",
+			"Yellow",
+			"Orange"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Hospital Access sign indicates:",
+		"image": "images/TODO-hospital.png",
+		"options": [
+			"Where emergency vehicles park",
+			"Where the hospital is located",
+			"Where to find police",
+			"Where to find restrooms"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Mile markers help:",
+		"image": "images/TODO-mile-marker.png",
+		"options": [
+			"Show speed limits",
+			"Show parking zones",
+			"Locate where you are on the road",
+			"Show construction areas"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mile markers appear:",
+		"image": "",
+		"options": [
+			"Every 5 miles",
+			"Every 1 to 2 tenths of a mile",
+			"Only at exits",
+			"Only at state borders"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A County Road sign is:",
+		"image": "images/TODO-county-road.png",
+		"options": [
+			"Blue with white letters",
+			"Rectangular with rounded edges, white with black lettering",
+			"Yellow diamond-shaped",
+			"Red octagon-shaped"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A U.S. Route sign looks like:",
+		"image": "images/TODO-us-route.png",
+		"options": [
+			"A circle",
+			"A triangle",
+			"A police badge shape",
+			"A square"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A State Road sign resembles:",
+		"image": "images/TODO-state-road.png",
+		"options": [
+			"A shield",
+			"A milk jug with a spout",
+			"A diamond",
+			"A circle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "An Interstate Highway sign looks like:",
+		"image": "images/TODO-interstate.png",
+		"options": [
+			"A yellow diamond",
+			"A red-and-blue shield with white lettering",
+			"A green rectangle",
+			"A blue circle"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should never try to do what at a railroad crossing?",
+		"image": "",
+		"options": [
+			"Stop before the tracks",
+			"Beat a train across the tracks",
+			"Look both ways",
+			"Check for room on the other side"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should not cross railroad tracks if:",
+		"image": "",
+		"options": [
+			"The train is far away",
+			"There is not enough room on the other side",
+			"You are in a hurry",
+			"The lights are off"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should not shift gears while:",
+		"image": "",
+		"options": [
+			"Driving uphill",
+			"Crossing railroad tracks",
+			"Driving in rain",
+			"Turning left"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Before crossing railroad tracks, you must:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Look both ways even if signs are not flashing",
+			"Turn on hazard lights",
+			"Stop only if lights flash"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 'Tracks Out-of-Service' sign means:",
+		"image": "images/TODO-tracks-out-of-service.png",
+		"options": [
+			"Trains are delayed",
+			"Tracks are no longer in use",
+			"Only trucks may cross",
+			"Crossing is prohibited"
+		],
+		"answer": 1
+	},
+	{
+		"question": "An 'Exempt' railroad sign means:",
+		"image": "images/TODO-exempt.png",
+		"options": [
+			"All vehicles must stop",
+			"Certain vehicles are not required to stop",
+			"No vehicles may cross",
+			"Only trains may pass"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Railroad Crossing Warning sign is:",
+		"image": "images/TODO-railroad-warning.png",
+		"options": [
+			"Square and red",
+			"Round and yellow with an X",
+			"Triangle-shaped",
+			"Blue with white letters"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A crossbuck sign with 'Railroad Crossing' indicates:",
+		"image": "images/TODO-crossbuck.png",
+		"options": [
+			"A pedestrian crossing",
+			"A railroad crossing with listed number of tracks",
+			"A no passing zone",
+			"A construction zone"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Flashing railroad lights mean:",
+		"image": "",
+		"options": [
+			"You may cross slowly",
+			"A train is coming; wait until lights stop flashing",
+			"Trains are stopped",
+			"You must turn around"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Yield sign posted below a crossbuck means:",
+		"image": "images/TODO-yield-crossbuck.png",
+		"options": [
+			"You may cross without stopping",
+			"You must yield to trains",
+			"Trains must yield to cars",
+			"Only trucks must stop"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A blue 'Report Problem or Emergency' sign at railroad crossings is used to:",
+		"image": "images/TODO-report-problem.png",
+		"options": [
+			"Report speeding vehicles",
+			"Report unsafe railroad conditions",
+			"Report lost items",
+			"Report traffic congestion"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 'Number of Tracks' sign indicates:",
+		"image": "images/TODO-number-of-tracks.png",
+		"options": [
+			"How many lanes are ahead",
+			"How many train tracks must be crossed",
+			"How many trains pass daily",
+			"How many signals are present"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Before crossing double railroad tracks, you should:",
+		"image": "",
+		"options": [
+			"Cross immediately after the first train passes",
+			"Wait until the train is far away and tracks are clear",
+			"Speed across quickly",
+			"Stop on the tracks"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Train gates that lower indicate:",
+		"image": "images/TODO-train-gate.png",
+		"options": [
+			"You may drive around them if careful",
+			"You may drive under them if rising",
+			"A train is coming; do not drive around or under the gate",
+			"Pedestrians may cross"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If a train gate has horns or lights sounding, you must:",
+		"image": "",
+		"options": [
+			"Cross immediately",
+			"Wait until the bell or horn stops",
+			"Turn around",
+			"Drive slowly under the gate"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a traffic light is not working, you should:",
+		"image": "",
+		"options": [
+			"Proceed normally",
+			"Treat it as a stop sign",
+			"Ignore it",
+			"Speed through quickly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady red light means:",
+		"image": "images/TODO-steady-red.png",
+		"options": [
+			"Slow down",
+			"Stop completely and wait for green",
+			"Proceed with caution",
+			"Turn left only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may turn right on red only if:",
+		"image": "",
+		"options": [
+			"There is a green arrow",
+			"It is safe and no sign prohibits it",
+			"You honk first",
+			"You are in the left lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may turn left on red only when:",
+		"image": "",
+		"options": [
+			"Turning from a one-way onto a one-way street",
+			"Turning at any intersection",
+			"Traffic is light",
+			"You are in a roundabout"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A flashing red light means:",
+		"image": "images/TODO-flashing-red.png",
+		"options": [
+			"Proceed without stopping",
+			"Stop and go when safe",
+			"Stop only if other cars are present",
+			"Turn right only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady red arrow means:",
+		"image": "images/TODO-steady-red-arrow.png",
+		"options": [
+			"You may turn left",
+			"You must stop and wait for green",
+			"You may proceed straight",
+			"You may turn right"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A flashing red arrow means:",
+		"image": "images/TODO-flashing-red-arrow.png",
+		"options": [
+			"Stop and turn immediately",
+			"Stop and go when safe",
+			"Proceed without stopping",
+			"Turn only on green"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady yellow light means:",
+		"image": "images/TODO-steady-yellow.png",
+		"options": [
+			"Speed up",
+			"Light is about to turn red; slow down and stop if safe",
+			"Turn immediately",
+			"Stop even if in the intersection"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If you are already in the intersection when the light turns yellow, you should:",
+		"image": "",
+		"options": [
+			"Stop immediately",
+			"Back up",
+			"Continue through the intersection",
+			"Turn on hazard lights"
+		],
+		"answer": 2
+	},
+	{
+		"question": "A flashing yellow light means:",
+		"image": "images/TODO-flashing-yellow.png",
+		"options": [
+			"Stop completely",
+			"Slow down and proceed with caution",
+			"Speed up",
+			"Turn only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady yellow arrow means:",
+		"image": "images/TODO-steady-yellow-arrow.png",
+		"options": [
+			"Turn immediately",
+			"Stop if safe; light is about to turn red",
+			"Proceed without caution",
+			"Turn only right"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A flashing yellow arrow means:",
+		"image": "images/TODO-flashing-yellow-arrow.png",
+		"options": [
+			"Turn without yielding",
+			"Yield before turning and proceed with caution",
+			"Stop completely",
+			"Turn only on green"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady green light means:",
+		"image": "images/TODO-steady-green.png",
+		"options": [
+			"You may go through the intersection",
+			"You must stop",
+			"You must turn left",
+			"You must yield to no one"
+		],
+		"answer": 0
+	},
+	{
+		"question": "When a light turns green, you must:",
+		"image": "",
+		"options": [
+			"Go immediately",
+			"Allow cross traffic to clear first",
+			"Turn right only",
+			"Stop again"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When turning left on a steady green light:",
+		"image": "",
+		"options": [
+			"You have the right-of-way",
+			"Oncoming traffic has the right-of-way",
+			"You must stop first",
+			"You must turn right instead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A steady green arrow means:",
+		"image": "images/TODO-steady-green-arrow.png",
+		"options": [
+			"Turn in the direction of the arrow; no oncoming traffic should conflict",
+			"Stop and wait",
+			"Turn only when flashing",
+			"Proceed straight only"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A solid white line indicates:",
+		"image": "images/TODO-solid-white-line.png",
+		"options": [
+			"Left edge of roadway",
+			"Right edge of traffic lane",
+			"Passing zone",
+			"Center of road"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A solid or dashed yellow line indicates:",
+		"image": "images/TODO-yellow-edge.png",
+		"options": [
+			"Right edge of roadway",
+			"Left edge of traffic lanes going your direction",
+			"Parking zone",
+			"Bike lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "White dashed lines indicate:",
+		"image": "images/TODO-white-dashed.png",
+		"options": [
+			"No passing allowed",
+			"Lanes of traffic going same direction; you may cross when safe",
+			"Opposing traffic",
+			"Reserved lanes"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A solid white line between lanes means:",
+		"image": "images/TODO-solid-white-between.png",
+		"options": [
+			"You may cross freely",
+			"You cannot cross except for hazards or turning within the next block",
+			"Passing is encouraged",
+			"Traffic merges ahead"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Crosswalks are for:",
+		"image": "images/TODO-crosswalk.png",
+		"options": [
+			"Vehicles to stop on",
+			"Pedestrians to cross safely",
+			"Parking",
+			"Bicycles only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Your front wheels should stop:",
+		"image": "",
+		"options": [
+			"On the crosswalk",
+			"Just before the solid white crosswalk line",
+			"Past the crosswalk",
+			"In the middle of the crosswalk"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Solid yellow lines separate:",
+		"image": "images/TODO-solid-yellow.png",
+		"options": [
+			"Traffic going same direction",
+			"Traffic going opposite directions",
+			"Parking lanes",
+			"Bike lanes"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Two solid yellow lines mean:",
+		"image": "",
+		"options": [
+			"Passing allowed",
+			"No passing allowed",
+			"Passing allowed only for trucks",
+			"Passing allowed only at night"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may cross solid yellow lines only when:",
+		"image": "",
+		"options": [
+			"Passing any vehicle",
+			"Turning into a driveway safely",
+			"Speeding up",
+			"Avoiding traffic cones"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may pass a vehicle going less than half the speed limit except:",
+		"image": "",
+		"options": [
+			"If it is farm equipment",
+			"If it is a motorcycle",
+			"If it is a bus",
+			"If it is a bicycle"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A dashed yellow line means:",
+		"image": "images/TODO-dashed-yellow.png",
+		"options": [
+			"No passing allowed",
+			"You may pass when safe",
+			"Reserved lane",
+			"Bike lane"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Dashed and solid yellow lines mean:",
+		"image": "images/TODO-dashed-solid-yellow.png",
+		"options": [
+			"Both sides may pass",
+			"You may pass only on the dashed side",
+			"You may pass only on the solid side",
+			"Passing is prohibited on both sides"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A shared center lane is used for:",
+		"image": "images/TODO-shared-center-lane.png",
+		"options": [
+			"Passing vehicles",
+			"Left turns or U-turns only",
+			"Parking",
+			"Emergency vehicles only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Reversible lanes use special lights. A red X means:",
+		"image": "images/TODO-reversible-lane.png",
+		"options": [
+			"Lane is open",
+			"Lane is closed",
+			"Lane is changing",
+			"Lane is for buses only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "In reversible lanes, a green arrow means:",
+		"image": "",
+		"options": [
+			"Lane is closed",
+			"Lane is open",
+			"Lane is changing",
+			"Lane is for turning only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A yellow X in a reversible lane means:",
+		"image": "",
+		"options": [
+			"Lane is open",
+			"Lane is closed",
+			"Lane is changing; move to a green arrow lane",
+			"Lane is for buses only"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Reserved lanes are for:",
+		"image": "images/TODO-reserved-lane.png",
+		"options": [
+			"Any vehicle",
+			"Special vehicles only",
+			"Emergency vehicles only",
+			"Pedestrians only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may travel in a reserved lane only when:",
+		"image": "",
+		"options": [
+			"You are passing another vehicle",
+			"You need to turn across it within the next half block",
+			"Traffic is heavy",
+			"You are driving slowly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 'Buses Only' lane means:",
+		"image": "images/TODO-buses-only.png",
+		"options": [
+			"Cars may use it anytime",
+			"Only buses may use it",
+			"Only trucks may use it",
+			"Only emergency vehicles may use it"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 'Bikes Only' lane means:",
+		"image": "images/TODO-bikes-only.png",
+		"options": [
+			"Cars may use it",
+			"Only bicycles may use it",
+			"Only buses may use it",
+			"Only motorcycles may use it"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A 'Buses and 4 Rider Car Pools Only' lane means:",
+		"image": "images/TODO-carpool.png",
+		"options": [
+			"Any vehicle may use it",
+			"Only buses and car pools with at least four people may use it during posted hours",
+			"Only trucks may use it",
+			"Only emergency vehicles may use it"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Bus or bike lanes may be painted in different colors such as:",
+		"image": "",
+		"options": [
+			"Red, green, or gray",
+			"Yellow only",
+			"Blue only",
+			"Black only"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A ramp is metered when:",
+		"image": "",
+		"options": [
+			"Traffic is heavy",
+			"The 'Ramp Metered When Flashing' sign is on",
+			"Police are present",
+			"The freeway is closed"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When stopping at a metered ramp, you should:",
+		"image": "",
+		"options": [
+			"Stop anywhere on the ramp",
+			"Stop before the ramp begins",
+			"Pull completely up to the white stop line",
+			"Stop behind other vehicles only"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Each lane at a metered ramp has:",
+		"image": "",
+		"options": [
+			"One shared signal",
+			"Its own traffic signal",
+			"No signal",
+			"A stop sign"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You may merge onto the freeway at a metered ramp when:",
+		"image": "",
+		"options": [
+			"The red light is on",
+			"Your signal turns green",
+			"Other cars move",
+			"You feel it is safe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Disobeying a ramp meter signal can result in:",
+		"image": "",
+		"options": [
+			"A warning only",
+			"A ticket",
+			"A repair fee",
+			"No consequence"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A Diverging Diamond Interchange (DDI) is designed to:",
+		"image": "",
+		"options": [
+			"Increase congestion",
+			"Guide drivers smoothly through exits and entrances",
+			"Remove all traffic signals",
+			"Replace roundabouts"
+		],
+		"answer": 1
+	},
+	{
+		"question": "DDIs improve safety by:",
+		"image": "",
+		"options": [
+			"Increasing speed limits",
+			"Removing all signs",
+			"Reducing crowding and simplifying movements",
+			"Allowing U-turns everywhere"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When driving through a DDI, you must:",
+		"image": "",
+		"options": [
+			"Ignore signs",
+			"Follow signs, signals, and road markings",
+			"Drive on the left side only",
+			"Stop at every crossover"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If pulled over by law enforcement, you should first:",
+		"image": "",
+		"options": [
+			"Speed up to find a better spot",
+			"Pull off to the right-hand side of the road",
+			"Exit your vehicle",
+			"Call 911"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During a traffic stop, you should keep:",
+		"image": "",
+		"options": [
+			"Your seatbelt off",
+			"Your hands on the top of the steering wheel",
+			"Your hands in your pockets",
+			"Your door open"
+		],
+		"answer": 1
+	},
+	{
+		"question": "During a traffic stop, you should NOT:",
+		"image": "",
+		"options": [
+			"Roll down your window",
+			"Turn off your car",
+			"Make sudden movements",
+			"Keep your seatbelt on"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If given a ticket during a traffic stop, you should:",
+		"image": "",
+		"options": [
+			"Argue with the officer",
+			"Refuse to take it",
+			"Stay calm and contest it later in court",
+			"Drive away immediately"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Deer are most active during:",
+		"image": "",
+		"options": [
+			"Midday",
+			"Sunrise only",
+			"Sunset to sunrise hours",
+			"Afternoon"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you see deer eyes reflecting your headlights, you should:",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Turn off headlights",
+			"Slow down and be ready to stop",
+			"Honk continuously"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you hit a deer, you must:",
+		"image": "",
+		"options": [
+			"Leave immediately",
+			"Call police so they can issue a tag",
+			"Drag the deer off the road yourself",
+			"Ignore the incident"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If you hit a deer and do not want it, who may keep it?",
+		"image": "",
+		"options": [
+			"Only police",
+			"Only farmers",
+			"The next motorist",
+			"No one"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Vehicles in a funeral procession must:",
+		"image": "",
+		"options": [
+			"Have hazard lights on",
+			"Have headlights on",
+			"Drive with windows down",
+			"Stop at every intersection"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must NOT:",
+		"image": "",
+		"options": [
+			"Yield to the procession",
+			"Cut into a funeral procession",
+			"Allow them to pass",
+			"Let them proceed together"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Bald tires are dangerous because they:",
+		"image": "",
+		"options": [
+			"Increase fuel efficiency",
+			"Reduce traction and increase stopping distance",
+			"Improve steering",
+			"Reduce braking power only in summer"
+		],
+		"answer": 1
+	},
+	{
+		"question": "In reduced visibility, vehicles may appear:",
+		"image": "",
+		"options": [
+			"Faster than they are",
+			"Slower than they are",
+			"Larger than they are",
+			"Closer than they are"
+		],
+		"answer": 1
+	},
+	{
+		"question": "In fog or rain, you should:",
+		"image": "",
+		"options": [
+			"Drive faster",
+			"Turn off headlights",
+			"Drive at a lower speed and be ready to stop",
+			"Use high beams"
+		],
+		"answer": 2
+	},
+	{
+		"question": "In severe weather, bridges and overpasses:",
+		"image": "",
+		"options": [
+			"Freeze last",
+			"Freeze before the rest of the roadway",
+			"Never freeze",
+			"Are safer than roads"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If your car does NOT have ABS, you should:",
+		"image": "",
+		"options": [
+			"Brake hard and hold",
+			"Pump the brakes gently",
+			"Turn off the engine",
+			"Use cruise control"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Slippery or icy roads are common at:",
+		"image": "",
+		"options": [
+			"Sunny areas",
+			"Shady spots, bridges, and overpasses",
+			"Highways only",
+			"School zones"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Hydroplaning occurs when:",
+		"image": "",
+		"options": [
+			"Tires grip the road tightly",
+			"Tires slide on top of water",
+			"Brakes lock up",
+			"Engine overheats"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If hydroplaning, you should:",
+		"image": "",
+		"options": [
+			"Brake hard",
+			"Turn sharply",
+			"Ease off the gas and keep the wheel straight",
+			"Accelerate"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If your vehicle begins skidding, you should:",
+		"image": "",
+		"options": [
+			"Brake hard",
+			"Turn the wheel opposite of where you want to go",
+			"Stay off the brake and turn in the direction you want to go",
+			"Accelerate"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Before winter driving, you must clear snow and ice from:",
+		"image": "",
+		"options": [
+			"Only the windshield",
+			"Only the roof",
+			"All windows, lamps, mirrors, and plates",
+			"Only the rear window"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You should NOT use cruise control on:",
+		"image": "",
+		"options": [
+			"Dry roads",
+			"Slippery roads",
+			"Highways",
+			"Gravel roads"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Give snowplows at least:",
+		"image": "",
+		"options": [
+			"50 feet",
+			"100 feet",
+			"200 feet",
+			"500 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Farm equipment may lack:",
+		"image": "",
+		"options": [
+			"Wheels",
+			"Brake lights or turn signals",
+			"Headlights",
+			"Mirrors"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must yield right-of-way to:",
+		"image": "",
+		"options": [
+			"Farmers only",
+			"Livestock on or along the highway",
+			"Only large trucks",
+			"Only emergency vehicles"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You should NOT honk at livestock because:",
+		"image": "",
+		"options": [
+			"It wastes fuel",
+			"It may scare the animals",
+			"It is illegal",
+			"It damages your horn"
+		],
+		"answer": 1
+	},
+	{
+		"question": "No one under what age may operate farm machinery on highways?",
+		"image": "",
+		"options": [
+			"12",
+			"14",
+			"16",
+			"18"
+		],
+		"answer": 2
+	},
+	{
+		"question": "The chance of a crash doubles when:",
+		"image": "",
+		"options": [
+			"Driving at night",
+			"A teen driver has another teen in the vehicle",
+			"Driving in rain",
+			"Driving on highways"
+		],
+		"answer": 1
+	},
+	{
+		"question": "To warn drivers behind you of a hazard, you should:",
+		"image": "",
+		"options": [
+			"Honk loudly",
+			"Flash headlights",
+			"Tap your brake pedal three or four times",
+			"Turn off headlights"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When using ABS in an emergency, you should:",
+		"image": "",
+		"options": [
+			"Pump the brakes",
+			"Apply firm, continuous pressure",
+			"Release the brake repeatedly",
+			"Turn off ABS"
+		],
+		"answer": 1
+	},
+	{
+		"question": "To avoid a crash by turning, you must:",
+		"image": "",
+		"options": [
+			"Steer into oncoming traffic",
+			"Turn sharply without checking",
+			"Steer in the direction you want the vehicle to go",
+			"Use only one hand"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Speeding up to avoid a crash may be necessary when:",
+		"image": "",
+		"options": [
+			"Traffic is slow",
+			"Another vehicle is about to hit you from the side or behind",
+			"You are late",
+			"You are entering a roundabout"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If someone is injured or killed in a crash, you must:",
+		"image": "",
+		"options": [
+			"Move vehicles immediately",
+			"Leave the scene",
+			"Call 911 and stay at the scene",
+			"Drive home first"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Leaving the scene of a crash with injury or death is:",
+		"image": "",
+		"options": [
+			"A minor violation",
+			"Legal if traffic is heavy",
+			"A crime",
+			"Allowed if you call later"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If there are no injuries but your vehicle cannot move, you should:",
+		"image": "",
+		"options": [
+			"Stay in traffic",
+			"Call 911 and follow directions",
+			"Push the vehicle yourself",
+			"Leave the scene"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If there are no injuries and you can move your vehicle, you should:",
+		"image": "",
+		"options": [
+			"Stop in the middle of the road",
+			"Move off the road when safe",
+			"Leave immediately",
+			"Wait for police before moving"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You must report a crash to police if property damage is:",
+		"image": "",
+		"options": [
+			"$100 or more",
+			"$500 or more",
+			"$1,000 or more",
+			"$5,000 or more"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You must report a crash if government property damage is:",
+		"image": "",
+		"options": [
+			"$50 or more",
+			"$100 or more",
+			"$200 or more",
+			"$500 or more"
+		],
+		"answer": 2
+	},
+	{
+		"question": "You must report a crash if:",
+		"image": "",
+		"options": [
+			"You are late for work",
+			"A driver appears under the influence of alcohol or drugs",
+			"Traffic is heavy",
+			"Weather is bad"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you do first if you or someone else is injured during a roadside emergency?",
+		"image": "",
+		"options": [
+			"Call a tow truck",
+			"Call 911",
+			"Move the injured person",
+			"Turn off your engine"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you turn on during any roadside emergency?",
+		"image": "",
+		"options": [
+			"High beams",
+			"Parking lights",
+			"Emergency flashers",
+			"Fog lights"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is the first action to take if your brakes stop working?",
+		"image": "",
+		"options": [
+			"Shift to neutral",
+			"Pump the brake pedal several times",
+			"Turn off the engine",
+			"Honk your horn repeatedly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If your brakes stop working and pumping the pedal does not help, what should you do next?",
+		"image": "",
+		"options": [
+			"Pull the parking brake",
+			"Speed up to find a safe area",
+			"Turn off headlights",
+			"Shift into reverse"
+		],
+		"answer": 0
+	},
+	{
+		"question": "What should you do if pulling the parking brake causes your vehicle to skid?",
+		"image": "",
+		"options": [
+			"Turn off the engine",
+			"Take off the parking brake",
+			"Pump the gas pedal",
+			"Shift to neutral"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When your brakes fail, what should you look for?",
+		"image": "",
+		"options": [
+			"A place to make a U-turn",
+			"A safe place to slow to a stop",
+			"A nearby gas station",
+			"A downhill road"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you do first if you experience a tire blowout?",
+		"image": "",
+		"options": [
+			"Brake hard immediately",
+			"Turn sharply to the right",
+			"Hold the steering wheel to keep the vehicle straight",
+			"Shift into neutral"
+		],
+		"answer": 2
+	},
+	{
+		"question": "During a tire blowout, what should you do with the gas pedal?",
+		"image": "",
+		"options": [
+			"Press it lightly",
+			"Lift your foot off and slow down gradually",
+			"Press it firmly to maintain speed",
+			"Hold it steady"
+		],
+		"answer": 1
+	},
+	{
+		"question": "After a tire blowout, when should you pull off the road?",
+		"image": "",
+		"options": [
+			"Immediately, regardless of traffic",
+			"Only after stopping completely",
+			"When it is safe to do so",
+			"After turning on high beams"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If your engine stops working, what should you do with the steering wheel?",
+		"image": "",
+		"options": [
+			"Let it turn freely",
+			"Hold the steering wheel firmly",
+			"Turn it all the way left",
+			"Lock it in place"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When your engine stops working, what should you do with the key?",
+		"image": "",
+		"options": [
+			"Turn it to the 'off' position",
+			"Remove it from the ignition",
+			"Keep it in the 'on' position",
+			"Turn it to accessory mode"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What will happen to the steering wheel if your engine stops working?",
+		"image": "",
+		"options": [
+			"It will turn more easily",
+			"It will lock completely",
+			"It will be hard to turn",
+			"It will turn automatically"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If your engine stops working, when should you pull the car to the side of the road?",
+		"image": "",
+		"options": [
+			"Only after restarting the engine",
+			"When it is safe to do so",
+			"Immediately, without checking traffic",
+			"After turning on high beams"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If your headlights stop working, what should you try first?",
+		"image": "",
+		"options": [
+			"Turn on high beams",
+			"Flip headlights on/off to check if parking lights are on",
+			"Turn off the engine",
+			"Activate cruise control"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When headlights stop working, what lights should you turn on?",
+		"image": "",
+		"options": [
+			"High beams only",
+			"Fog lights only",
+			"Emergency flashers and low lights",
+			"Interior dome lights"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If your headlights stop working, when should you pull off the road?",
+		"image": "",
+		"options": [
+			"Immediately, without signaling",
+			"Only after stopping completely",
+			"When it is safe to do so",
+			"After turning off all lights"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is the first thing you should do if your gas pedal sticks?",
+		"image": "",
+		"options": [
+			"Turn off the engine",
+			"Honk your horn",
+			"Keep your eyes on the road",
+			"Shift into reverse"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If your gas pedal sticks, what should you do with the transmission?",
+		"image": "",
+		"options": [
+			"Shift to drive",
+			"Shift to neutral",
+			"Shift to park",
+			"Shift to low gear"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When your gas pedal sticks, when should you pull off the road?",
+		"image": "",
+		"options": [
+			"Immediately, regardless of traffic",
+			"When it is safe to do so",
+			"Only after stopping completely",
+			"After turning on high beams"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you do after pulling off the road when your gas pedal sticks?",
+		"image": "",
+		"options": [
+			"Turn off the engine",
+			"Press the gas pedal repeatedly",
+			"Turn on cruise control",
+			"Shift into reverse"
+		],
+		"answer": 0
+	},
+	{
+		"question": "What is the legal alcohol concentration allowed for drivers under 21?",
+		"image": "",
+		"options": [
+			"0.02%",
+			"0.01%",
+			"0.00%",
+			"0.05%"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Driving under the influence of which substances is illegal?",
+		"image": "",
+		"options": [
+			"Only alcohol",
+			"Only illegal drugs",
+			"Only prescription drugs",
+			"Any drugs, including prescription and non-prescription"
+		],
+		"answer": 3
+	},
+	{
+		"question": "What is the only thing that can sober you up after drinking?",
+		"image": "",
+		"options": [
+			"Coffee",
+			"Cold shower",
+			"Time",
+			"Eating food"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If a police officer asks you to take a PAC test, what must you do?",
+		"image": "",
+		"options": [
+			"You may refuse without consequences",
+			"You must agree to take it",
+			"You can request a delay",
+			"You can choose a different test"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What happens if you refuse a PAC test?",
+		"image": "",
+		"options": [
+			"You receive a warning",
+			"You must pay a small fine",
+			"You will lose driving privileges for at least one year",
+			"You must attend a class"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is a PAC test used to detect?",
+		"image": "",
+		"options": [
+			"Vehicle defects",
+			"Driver fatigue",
+			"Measurable alcohol concentration",
+			"Drug residue on hands"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is one effect of alcohol or drugs on driving?",
+		"image": "",
+		"options": [
+			"Improved reaction time",
+			"Better distance judgment",
+			"Trouble figuring out speed and movement",
+			"Increased alertness"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you check on prescription or non-prescription drugs before driving?",
+		"image": "",
+		"options": [
+			"Expiration date",
+			"Warning label for side effects",
+			"Brand name",
+			"Dosage instructions only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a drug label says 'do not operate heavy machinery,' what does this include?",
+		"image": "",
+		"options": [
+			"Only factory equipment",
+			"Only commercial trucks",
+			"Motor vehicles",
+			"Only farm tractors"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do if you need a ride home after drinking?",
+		"image": "",
+		"options": [
+			"Drive slowly",
+			"Wait 10 minutes",
+			"Ask a sober friend or bartender for help",
+			"Drink water first"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is one known effect of marijuana on driving?",
+		"image": "",
+		"options": [
+			"Improved focus",
+			"Fewer mistakes",
+			"More mistakes",
+			"Better lane control"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you avoid using while driving because it covers both ears?",
+		"image": "",
+		"options": [
+			"Earplugs",
+			"Headsets or headphones",
+			"Bluetooth speakers",
+			"Single-ear earbuds"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why should your radio be kept at a low volume while driving?",
+		"image": "",
+		"options": [
+			"To save battery",
+			"To avoid distraction",
+			"To hear emergency vehicles",
+			"To improve fuel efficiency"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do if you need to use your phone while driving?",
+		"image": "",
+		"options": [
+			"Hold it in your hand",
+			"Use it only at stop signs",
+			"Pull over when safe",
+			"Use speaker mode while driving"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Instruction permit and probationary license holders may use a cell phone only to:",
+		"image": "",
+		"options": [
+			"Check directions",
+			"Send texts",
+			"Report an emergency",
+			"Call friends"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should regular license holders do regarding cell phone use?",
+		"image": "",
+		"options": [
+			"Use it freely",
+			"Avoid using it while driving",
+			"Text only at red lights",
+			"Use it only for navigation"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If you need to read directions while driving, what should you do?",
+		"image": "",
+		"options": [
+			"Slow down and read",
+			"Read while keeping one eye on the road",
+			"Pull over to a safe location",
+			"Ask another driver to help"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Where should pets be placed while driving?",
+		"image": "",
+		"options": [
+			"On the driver's lap",
+			"In the front seat",
+			"In a carrier or held by a passenger",
+			"Loose in the back seat"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you NOT hang from your rearview mirror?",
+		"image": "",
+		"options": [
+			"Air fresheners",
+			"Nothing at all",
+			"Objects that block your view",
+			"Small decorations"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is drowsy driving?",
+		"image": "",
+		"options": [
+			"Driving while sick",
+			"Driving while angry",
+			"Driving while very tired",
+			"Driving after eating"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Which group is at greater risk for drowsy-related crashes?",
+		"image": "",
+		"options": [
+			"Older adults",
+			"Teen and young adult drivers",
+			"Professional drivers",
+			"Bicyclists"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Which is a sign that you should pull over and rest?",
+		"image": "",
+		"options": [
+			"Singing loudly",
+			"Yawning or blinking a lot",
+			"Driving slowly",
+			"Feeling hungry"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you do if you drift from your lane due to tiredness?",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Turn on hazard lights",
+			"Pull over and rest",
+			"Open the windows"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What does hitting the rumble strip indicate?",
+		"image": "",
+		"options": [
+			"You are driving too fast",
+			"You are too close to the shoulder",
+			"You may be drowsy",
+			"Your tires are worn"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Why should you avoid driving next to other vehicles on multi-lane roads?",
+		"image": "",
+		"options": [
+			"It wastes fuel",
+			"It blocks emergency vehicles",
+			"It reduces reaction time",
+			"It increases blind spot risk"
+		],
+		"answer": 3
+	},
+	{
+		"question": "How much distance should you give parked vehicles on the side of the road?",
+		"image": "",
+		"options": [
+			"No extra distance",
+			"A small amount",
+			"Extra room",
+			"Only if traffic is heavy"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Where should you avoid driving to prevent being unseen by other drivers?",
+		"image": "",
+		"options": [
+			"In front of trucks",
+			"In blind spots",
+			"In the right lane",
+			"Near intersections"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What is illegal regarding pedestrians?",
+		"image": "",
+		"options": [
+			"Stopping for them",
+			"Honking at them",
+			"Driving on a sidewalk except when crossing it",
+			"Letting them cross"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do when you see emergency lights and hear sirens?",
+		"image": "",
+		"options": [
+			"Speed up",
+			"Stop immediately in your lane",
+			"Pull over and stop until the vehicle passes",
+			"Continue driving normally"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Where should you NOT stop when an emergency vehicle approaches?",
+		"image": "",
+		"options": [
+			"On the shoulder",
+			"In the middle of an intersection",
+			"In the right lane",
+			"In a parking lot"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If approaching a stopped emergency vehicle with flashing lights, what must you do?",
+		"image": "",
+		"options": [
+			"Speed up to pass quickly",
+			"Move into the lane farthest from the vehicle",
+			"Stop immediately",
+			"Turn on high beams"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How far must you stop from a school bus with flashing red lights?",
+		"image": "",
+		"options": [
+			"10 feet",
+			"15 feet",
+			"20 feet",
+			"30 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When must you stop for a school bus with flashing red lights?",
+		"image": "",
+		"options": [
+			"Only if you are behind it",
+			"Only if children are visible",
+			"Whether on your side or opposite side of the road",
+			"Only in school zones"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When do you NOT need to stop for a school bus with flashing red lights?",
+		"image": "",
+		"options": [
+			"On a rural road",
+			"On a city street",
+			"On a divided highway when you are not on the bus’s side",
+			"When children are seated"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Why should you give motorcycles extra room?",
+		"image": "",
+		"options": [
+			"They are slower",
+			"They stop faster than most vehicles",
+			"They are louder",
+			"They use more space"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What should you do before moving when sharing the road with motorcycles?",
+		"image": "",
+		"options": [
+			"Check blind spots",
+			"Turn on hazard lights",
+			"Speed up",
+			"Honk twice"
+		],
+		"answer": 0
+	},
+	{
+		"question": "How much room must you give bicyclists when passing?",
+		"image": "",
+		"options": [
+			"1 foot",
+			"2 feet",
+			"3 feet",
+			"5 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Should you share a lane with a bicyclist?",
+		"image": "",
+		"options": [
+			"Yes, if the lane is wide",
+			"Yes, if traffic is slow",
+			"No, never",
+			"Only at night"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should bicyclists ideally have on their bikes?",
+		"image": "",
+		"options": [
+			"GPS",
+			"Reflectors or lights",
+			"Two mirrors",
+			"A horn"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What does the bicycle hand signal with the left arm straight out indicate?",
+		"image": "images/TODO-left-turn.png",
+		"options": [
+			"Right turn",
+			"Stop",
+			"Left turn",
+			"Slow down"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What does the bicycle hand signal with the left arm bent upward indicate?",
+		"image": "images/TODO-right-turn.png",
+		"options": [
+			"Stop",
+			"Right turn",
+			"Left turn",
+			"Yield"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What does the bicycle hand signal with the left arm bent downward indicate?",
+		"image": "images/TODO-stop.png",
+		"options": [
+			"Left turn",
+			"Right turn",
+			"Stop",
+			"Speed up"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How far behind a large truck is considered a No-Zone?",
+		"image": "",
+		"options": [
+			"50 feet",
+			"100 feet",
+			"200 feet",
+			"300 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How far in front of a large truck is considered a No-Zone?",
+		"image": "",
+		"options": [
+			"5 feet",
+			"10 feet",
+			"20 feet",
+			"40 feet"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you do if you are in a truck’s blind spot?",
+		"image": "",
+		"options": [
+			"Stay there",
+			"Slow down only",
+			"Either speed up or drop back",
+			"Honk repeatedly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How many demerit points will suspend your driving privilege within 12 months?",
+		"image": "",
+		"options": [
+			"6 points",
+			"8 points",
+			"10 points",
+			"12 points"
+		],
+		"answer": 3
+	},
+	{
+		"question": "What happens to points for probationary license holders after their second conviction?",
+		"image": "",
+		"options": [
+			"They stay the same",
+			"They are reduced",
+			"They are doubled",
+			"They are erased"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What qualifies someone as a habitual traffic offender?",
+		"image": "",
+		"options": [
+			"Two major violations",
+			"Four major or 12 minor violations in five years",
+			"Three minor violations",
+			"One DUI"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How long will a habitual traffic offender lose driving privileges?",
+		"image": "",
+		"options": [
+			"One year",
+			"Two years",
+			"Three years",
+			"Five years"
+		],
+		"answer": 3
+	},
+	{
+		"question": "When can a habitual traffic offender apply for an occupational license?",
+		"image": "",
+		"options": [
+			"Immediately",
+			"After one year",
+			"After two years",
+			"After five years"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How many hours per day can you drive with an occupational license?",
+		"image": "",
+		"options": [
+			"6 hours",
+			"8 hours",
+			"12 hours",
+			"24 hours"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How many hours per week can you drive with an occupational license?",
+		"image": "",
+		"options": [
+			"40 hours",
+			"50 hours",
+			"60 hours",
+			"70 hours"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What must you show to apply for an occupational license?",
+		"image": "",
+		"options": [
+			"Proof of employment",
+			"Proof of insurance only",
+			"Proof of financial responsibility",
+			"A letter from your employer"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Where can you drive with an occupational license?",
+		"image": "",
+		"options": [
+			"Anywhere",
+			"Only to work and school",
+			"To work, school, household needs, and IDP/DSP appointments",
+			"Only within your city"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What must you present to reinstate a revoked license?",
+		"image": "",
+		"options": [
+			"A written essay",
+			"Proof of identity and reinstatement fee",
+			"A driving test",
+			"A medical certificate"
+		],
+		"answer": 1
+	},
+	{
+		"question": "How should the lap belt fit when worn correctly?",
+		"image": "",
+		"options": [
+			"Loosely across the stomach",
+			"Snugly across the hip bones under the stomach",
+			"Across the lower chest",
+			"High across the ribs"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Where should the shoulder belt be worn?",
+		"image": "",
+		"options": [
+			"Under the arm",
+			"Behind the back",
+			"Across the chest",
+			"Across the stomach"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How much space should be between your chest and the shoulder belt?",
+		"image": "",
+		"options": [
+			"No space at all",
+			"Enough for two fists",
+			"Enough for one fist",
+			"Six inches"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What should you NEVER do with a shoulder belt?",
+		"image": "",
+		"options": [
+			"Wear it across your chest",
+			"Adjust it snugly",
+			"Put it under your arm",
+			"Check its tightness"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Children generally must use a child safety seat until what age?",
+		"image": "",
+		"options": [
+			"Age 2",
+			"Age 3",
+			"Age 4",
+			"Age 6"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Children generally must use a booster seat until what age?",
+		"image": "",
+		"options": [
+			"Age 5",
+			"Age 6",
+			"Age 7",
+			"Age 8"
+		],
+		"answer": 3
+	},
+	{
+		"question": "What should you check in the child safety seat manual?",
+		"image": "",
+		"options": [
+			"Color options",
+			"Installation instructions and weight/height requirements",
+			"Warranty details",
+			"Cleaning instructions only"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Where can you get help if you cannot buy a child safety seat?",
+		"image": "",
+		"options": [
+			"Your local grocery store",
+			"Any police station",
+			"The SafeKids Wisconsin website or phone number",
+			"Your insurance company"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What is the phone number provided for child safety seat assistance?",
+		"image": "",
+		"options": [
+			"(414) 555-1212",
+			"(414) 316-8058",
+			"(608) 316-8058",
+			"(800) 316-4141"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What type of insurance must you have to drive in Wisconsin?",
+		"image": "",
+		"options": [
+			"Collision insurance",
+			"Comprehensive insurance",
+			"Valid liability car insurance",
+			"Rental insurance"
+		],
+		"answer": 2
+	},
+	{
+		"question": "When must you present proof of insurance?",
+		"image": "",
+		"options": [
+			"When renewing your license",
+			"Only after a crash",
+			"Whenever a police officer requests it",
+			"Only during vehicle registration"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you are from another state, what insurance proof can you provide?",
+		"image": "",
+		"options": [
+			"Only Wisconsin-issued insurance",
+			"Only rental car insurance",
+			"Proof from your own state's insurance company",
+			"No proof is needed"
+		],
+		"answer": 2
+	},
+	{
+		"question": "If you are driving someone else’s car, what must you ensure?",
+		"image": "",
+		"options": [
+			"That it has a full tank of gas",
+			"That it has insurance",
+			"That it has new tires",
+			"That it has a clean interior"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Which action helps save fuel?",
+		"image": "",
+		"options": [
+			"Driving faster",
+			"Carpooling or ride sharing",
+			"Idling frequently",
+			"Driving with windows open"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Why should you avoid driving during heavy traffic periods?",
+		"image": "",
+		"options": [
+			"It increases fuel efficiency",
+			"It reduces wear and tear",
+			"Stop-and-go driving causes extra wear and tear",
+			"It improves brake performance"
+		],
+		"answer": 2
+	},
+	{
+		"question": "How does slowing down little by little help your vehicle?",
+		"image": "",
+		"options": [
+			"It increases engine temperature",
+			"It saves fuel and brakes",
+			"It reduces tire pressure",
+			"It improves acceleration"
+		],
+		"answer": 1
+	},
+	{
+		"question": "What happens when a vehicle is not in good working condition?",
+		"image": "",
+		"options": [
+			"It becomes more fuel efficient",
+			"It costs less to run",
+			"It may break down and crash",
+			"It improves braking ability"
+		],
+		"answer": 2
+	},
+	{
+		"question": "What effect does low tire air pressure have?",
+		"image": "",
+		"options": [
+			"Increases fuel mileage",
+			"Decreases fuel mileage",
+			"Improves braking",
+			"Improves steering"
+		],
+		"answer": 1
+	}
 ]
