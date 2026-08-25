@@ -120,30 +120,31 @@ const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 // Load questions.json and then start the quiz
 async function loadQuestionsAndStart() {
     try {
-        const resp = await fetch('questions.json', { cache: "no-cache" });
-        if (!resp.ok) throw new Error(`Failed to load questions.json: ${resp.status} ${resp.statusText}`);
+        const resp = await fetch("https://permit-quiz.onrender.com/api/questions", {
+            method: "GET",
+            cache: "no-cache"
+        });
+
+        if (!resp.ok) {
+            throw new Error(`Failed to load questions: ${resp.status}`);
+        }
+
         const data = await resp.json();
 
-        if (!Array.isArray(data) || data.length === 0) {
-            throw new Error('questions.json must contain a non-empty array of questions.');
-        }
-
-        questionBank = data;
-
-        // If you want to ensure QUESTIONS_PER_TEST is not larger than available questions:
-        if (QUESTIONS_PER_TEST > questionBank.length) {
-            console.warn(`QUESTIONS_PER_TEST (${QUESTIONS_PER_TEST}) is greater than available questions (${questionBank.length}). Adjusting to use all available questions.`);
-        }
+        // Your backend returns:
+        // { meta: { lastModified: ... }, questions: [...] }
+        questionBank = data.questions;
 
         startQuiz();
     } catch (err) {
-        // Show a friendly error in the page if loading fails
         console.error(err);
-        document.getElementById('q-text').innerText = 'Failed to load questions. Please ensure questions.json is present and valid.';
+        document.getElementById('q-text').innerText =
+            'Failed to load questions. Please try again later.';
         document.getElementById('options-box').innerHTML = '';
         document.getElementById('next-button').style.display = 'none';
     }
 }
+
 
 // 2. QUIZ ENGINE LOGIC
 function startQuiz() {
@@ -286,11 +287,10 @@ async function setLastModified() {
         el.innerText = document.lastModified || 'Unknown';
     }
 }
-
-// Start by loading questions.json
-loadQuestionsAndStart();
-// Populate last-modified footer immediately (independent of question loading)
-setLastModified();
+document.addEventListener("DOMContentLoaded", () => {
+    setLastModified();
+    loadQuestionsAndStart();
+});
 </script>
 
 </body>
