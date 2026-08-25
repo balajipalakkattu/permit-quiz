@@ -2,6 +2,9 @@ from flask import Flask, jsonify
 import json, os
 
 app = Flask(__name__)
+from flask_cors import CORS
+CORS(app)
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUESTIONS_FILE = os.path.join(BASE_DIR, "questions.json")
