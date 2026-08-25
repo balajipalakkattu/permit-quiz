@@ -8,7 +8,14 @@ const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 document.addEventListener("DOMContentLoaded", () => {
     setLastModified();
     loadQuestionsAndStart();
+
+document.getElementById("next-button")
+        .addEventListener("click", nextQuestion);
+
+document.getElementById("retry-button")
+        .addEventListener("click", startQuiz);
 });
+
 
 // Load questions.json and then start the quiz
 async function loadQuestionsAndStart() {
