@@ -5,6 +5,11 @@ let currentQuestionIndex = 0;
 let score = 0;
 const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 
+document.addEventListener("DOMContentLoaded", () => {
+    setLastModified();
+    loadQuestionsAndStart();
+});
+
 // Load questions.json and then start the quiz
 async function loadQuestionsAndStart() {
     try {
