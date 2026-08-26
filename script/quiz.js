@@ -4,6 +4,38 @@ let sharedQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
+let logto;
+
+document.addEventListener("DOMContentLoaded", async () => {
+    logto = new Logto({
+        appId: "bnykibg1ebejlrbwpqg0i",
+        endpoint: "https://hxk4hr.logto.app/",
+        redirectUri: "https://balajipalakkattu.github.io/permit-quiz/"
+    });
+
+    if (await logto.isAuthenticated()) {
+        const userInfo = await logto.fetchUserInfo();
+        showUser(userInfo);
+    }
+
+    document.getElementById("login-button")
+        .addEventListener("click", () => logto.signIn());
+
+    document.getElementById("logout-button")
+        .addEventListener("click", () => logto.signOut());
+
+    setLastModified();
+    loadQuestionsAndStart();
+});
+
+async function getAccessToken() {
+    return await logto.getAccessToken("https://permit-quiz.onrender.com");
+}
+
+function showUser(user) {
+    document.getElementById("user-info").innerText =
+        `Signed in as: ${user.name || user.username || user.email}`;
+}
 
 document.addEventListener("DOMContentLoaded", () => {
     setLastModified();
