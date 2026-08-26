@@ -23,6 +23,12 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     document.getElementById("logout-button")
         .addEventListener("click", () => logto.signOut());
+    
+    document.getElementById("next-button")
+        .addEventListener("click", nextQuestion);
+    
+    document.getElementById("retry-button")
+        .addEventListener("click", startQuiz);
 
     setLastModified();
     loadQuestionsAndStart();
@@ -36,18 +42,6 @@ function showUser(user) {
     document.getElementById("user-info").innerText =
         `Signed in as: ${user.name || user.username || user.email}`;
 }
-
-document.addEventListener("DOMContentLoaded", () => {
-    setLastModified();
-    loadQuestionsAndStart();
-
-document.getElementById("next-button")
-        .addEventListener("click", nextQuestion);
-
-document.getElementById("retry-button")
-        .addEventListener("click", startQuiz);
-});
-
 
 // Load questions.json and then start the quiz
 async function loadQuestionsAndStart() {
