@@ -9,11 +9,13 @@
       script-src 'self';
       style-src 'self' 'unsafe-inline';
       img-src 'self' data:;
-      connect-src 'self' https://permit-quiz.onrender.com;
       object-src 'none';
       frame-src 'none';
       base-uri 'self';
       form-action 'self';
+      connect-src 'self' https://permit-quiz.onrender.com https://<your-tenant>.logto.app;
+      frame-src 'self' https://<your-tenant>.logto.app;
+
       ">
     <title>Learner's Permit Practice Test</title>
     <style>
@@ -88,6 +90,9 @@
     </style>
 </head>
 <body>
+<button id="login-button" class="next-btn">Sign in</button>
+<button id="logout-button" class="next-btn">Sign out</button>
+<div id="user-info" class="footer"></div>
 
 <div class="quiz-container">
     <div id="quiz-box">
@@ -110,6 +115,9 @@
 </div>
 
 <script src="script/quiz.js"></script>
+<script src="https://unpkg.com/@logto/browser"></script>
+<script src="script/quiz.js"></script>
+
 
 </body>
 </html>
