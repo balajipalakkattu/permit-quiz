@@ -6,7 +6,9 @@
     <meta http-equiv="Content-Security-Policy"
       content="
       default-src 'self';
-      script-src 'self' https://unpkg.com;
+      script-src 'self' https://unpkg.com https://cdn.jsdelivr.net 'unsafe-eval';
+      script-src-elem 'self' https://unpkg.com https://cdn.jsdelivr.net;
+      script-src-attr 'self';
       style-src 'self' 'unsafe-inline';
       img-src 'self' data:;
       connect-src 'self' https://permit-quiz.onrender.com https://hxk4hr.logto.app;
@@ -14,8 +16,8 @@
       object-src 'none';
       base-uri 'self';
       form-action 'self';
-     
       ">
+
     <title>Learner's Permit Practice Test</title>
     <style>
         :root {
