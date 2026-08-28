@@ -7,6 +7,7 @@ const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 let logto;
 
 document.addEventListener("DOMContentLoaded", async () => {
+   /* 
     logto = new Logto({
         appId: "bnykibg1ebejlrbwpqg0i",
         endpoint: "https://hxk4hr.logto.app/",
@@ -23,7 +24,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     document.getElementById("logout-button")
         .addEventListener("click", () => logto.signOut());
-
+*/
     setLastModified();
     loadQuestionsAndStart();
 });
