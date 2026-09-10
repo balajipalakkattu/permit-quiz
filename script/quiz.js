@@ -6,6 +6,16 @@ let score = 0;
 const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 let logto;
 
+// Helper: Fisher-Yates shuffle. Returns a new shuffled array copy.
+function shuffleArray(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
    /* 
     logto = new Logto({
@@ -88,7 +98,18 @@ function startQuiz() {
     const shuffledPool = [...questionBank].sort(() => 0.5 - Math.random());
     
     // If QUESTIONS_PER_TEST > bank size, slice will just return the available items
-    sharedQuestions = shuffledPool.slice(0, QUESTIONS_PER_TEST);
+    sharedQuestions = shuffledPool.slice(0, QUESTIONS_PER_TEST)
+        // For each selected question, shuffle its options and fix the answer index
+        .map(q => {
+            // create array of {text, originalIndex}
+            const indexed = q.options.map((opt, i) => ({ opt, i }));
+            const shuffled = shuffleArray(indexed);
+            const newAnswerIndex = shuffled.findIndex(x => x.i === q.answer);
+            return Object.assign({}, q, {
+                options: shuffled.map(x => x.opt),
+                answer: newAnswerIndex
+            });
+        });
     
     document.getElementById("quiz-box").style.display = "block";
     document.getElementById("result-box").style.display = "none";
