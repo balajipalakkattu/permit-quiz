@@ -3,128 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wisconsin Permit Practice Quiz | Free Driving Test Prep</title>
-    <meta name="description" content="Free Wisconsin permit practice quiz. Prepare for your DMV written test with real questions and instant feedback.">
-    <meta name="keywords" content="Wisconsin permit test, DMV practice test, driving quiz, learner's permit, Wisconsin driving test">
-    <meta property="og:title" content="Wisconsin Permit Practice Quiz">
-    <meta property="og:description" content="Free practice quiz to prepare for your Wisconsin DMV permit test.">
-    <meta property="og:url" content="https://permit-quiz-1.onrender.com/">
-    <meta property="og:type" content="website">
-
-    <meta http-equiv="Content-Security-Policy"
-      content="
-      default-src 'self';
-      script-src 'self';
-      style-src 'self' 'unsafe-inline';
-      img-src 'self' data:;
-      object-src 'none';
-      frame-src 'none';
-      base-uri 'self';
-      form-action 'self';
-      connect-src 'self' https://permit-quiz.onrender.com">
-    <title>Learner's Permit Practice Test</title>
+    <title>Permit Practice Quiz | Free Driving Test Prep</title>
+    <meta name="description" content="Free permit practice quiz. Prepare for your DMV written test with real questions and instant feedback.">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none'; frame-src 'none'; base-uri 'self'; form-action 'self'; connect-src 'self' https://permit-quiz.onrender.com">
     <style>
-        :root {
-            --primary: #1e3a8a;
-            --success: #16a34a;
-            --error: #dc2626;
-            --bg: #f8fafc;
-        }
-        body {
-            font-family: system-ui, -apple-system, sans-serif;
-            background-color: var(--bg);
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-        }
-        .quiz-container {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
-            max-width: 600px;
-            width: 100%;
-        }
-        h1 { color: var(--primary); text-align: center; margin-top: 0; }
-        .progress { color: #64748b; font-weight: bold; margin-bottom: 20px; }
-        .quiz-image {
-            max-width: 100%;
-            height: auto;
-            max-height: 200px;
-            display: block;
-            margin: 0 auto 20px auto;
-            border-radius: 6px;
-        }
-        .question { font-size: 1.2rem; font-weight: 600; margin-bottom: 20px; }
-        .options { display: grid; gap: 12px; }
-        .btn {
-            background: #f1f5f9;
-            border: 2px solid #e2e8f0;
-            padding: 14px;
-            border-radius: 8px;
-            text-align: left;
-            font-size: 1rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .btn:hover { background: #e2e8f0; border-color: #cbd5e1; }
-        .correct { background: #dcfce7 !important; border-color: var(--success) !important; color: #14532d; }
-        .wrong { background: #fee2e2 !important; border-color: var(--error) !important; color: #7f1d1d; }
-        .next-btn {
-            margin-top: 20px;
-            width: 100%;
-            background: var(--primary);
-            color: white;
-            border: none;
-            padding: 14px;
-            border-radius: 8px;
-            font-size: 1rem;
-            font-weight: bold;
-            cursor: pointer;
-            display: none;
-        }
-        .score-screen { text-align: center; display: none; }
-        /* Footer styling */
-        .footer {
-            margin-top: 18px;
-            text-align: center;
-            color: #94a3b8;
-            font-size: 0.9rem;
-        }
+        :root { --primary:#1e3a8a; --success:#16a34a; --error:#dc2626; --bg:#f8fafc; }
+        body { font-family:system-ui,-apple-system,sans-serif; background:var(--bg); margin:0; padding:20px; display:flex; justify-content:center; }
+        .quiz-container { background:white; padding:30px; border-radius:12px; box-shadow:0 4px 6px -1px rgba(0,0,0,.1); max-width:600px; width:100%; }
+        h1 { color:var(--primary); text-align:center; margin-top:0; }
+        .state-selector { margin-bottom:30px; text-align:center; }
+        .state-selector label { font-weight:600; margin-right:10px; color:var(--primary); }
+        .state-selector select { padding:10px 15px; border:2px solid #cbd5e1; border-radius:8px; font-size:1rem; min-width:200px; }
+        .progress { color:#64748b; font-weight:bold; margin-bottom:20px; }
+        .quiz-image { max-width:100%; height:auto; max-height:200px; display:block; margin:0 auto 20px; border-radius:6px; }
+        .question { font-size:1.2rem; font-weight:600; margin-bottom:20px; }
+        .options { display:grid; gap:12px; }
+        .btn { background:#f1f5f9; border:2px solid #e2e8f0; padding:14px; border-radius:8px; text-align:left; font-size:1rem; cursor:pointer; }
+        .btn:hover { background:#e2e8f0; border-color:#cbd5e1; }
+        .correct { background:#dcfce7 !important; border-color:var(--success) !important; color:#14532d; }
+        .wrong { background:#fee2e2 !important; border-color:var(--error) !important; color:#7f1d1d; }
+        .next-btn { margin-top:20px; width:100%; background:var(--primary); color:white; border:0; padding:14px; border-radius:8px; font-size:1rem; font-weight:bold; cursor:pointer; display:none; }
+        .score-screen { text-align:center; display:none; }
+        .footer { margin-top:18px; text-align:center; color:#94a3b8; font-size:.9rem; }
     </style>
 </head>
 <body>
-<button id="login-button" class="next-btn">Sign in</button>
-<button id="logout-button" class="next-btn">Sign out</button>
-<div id="user-info" class="footer"> 
-</div>
-
 <div class="quiz-container">
-    <div id="quiz-box">
+    <h1>Permit Practice Quiz</h1>
+    <div id="state-selector-box" class="state-selector">
+        <label for="state-select">Select state:</label>
+        <select id="state-select"><option value="">Loading states…</option></select>
+    </div>
+    <div id="quiz-box" style="display:none;">
         <div class="progress">Question <span id="current-idx">1</span> of <span id="total-qty">20</span></div>
         <img id="q-image" class="quiz-image" src="" alt="Road Sign/Diagram" style="display:none;">
-        <div id="q-text" class="question">Loading question...</div>
+        <div id="q-text" class="question">Select a state to begin.</div>
         <div id="options-box" class="options"></div>
         <button id="next-button" class="next-btn">Next Question</button>
     </div>
-
     <div id="result-box" class="score-screen">
         <h2>Test Complete!</h2>
-        <p style="font-size: 1.5rem;">Your Score: <span id="final-score">0</span>%</p>
+        <p style="font-size:1.5rem;">Your Score: <span id="final-score">0</span>%</p>
         <p id="pass-fail-msg"></p>
         <button id="retry-button" class="next-btn" style="display:block;">Try Again</button>
     </div>
-
-    <!-- Footer showing last modified time for questions.json -->
-    <div id="page-footer" class="footer">Questions last modified: <span id="last-modified">Loading…</span>
-    </div>
-    <div class="footer">
-        <p>© 2026 Permit Quiz</p>
-        <p>Developer Contact: <a href="mailto:permitquizdev@gmail.com">Contact</a></p>
-    </div>
+    <div class="footer">Questions last modified: <span id="last-modified">Loading…</span></div>
+    <div class="footer"><p>© 2026 Permit Quiz</p><p>Developer Contact: <a href="mailto:permitquizdev@gmail.com">Contact</a></p></div>
 </div>
 <script src="script/quiz.js"></script>
-
 </body>
 </html>
