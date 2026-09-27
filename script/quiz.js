@@ -5,6 +5,7 @@ let currentQuestionIndex = 0;
 let score = 0;
 const QUESTIONS_PER_TEST = 20; // Number of random questions to show per attempt
 let logto;
+let selectedState = "";
 
 // Helper: Fisher-Yates shuffle. Returns a new shuffled array copy.
 function shuffleArray(arr) {
@@ -36,7 +37,21 @@ document.addEventListener("DOMContentLoaded", async () => {
         .addEventListener("click", () => logto.signOut());
 */
     setLastModified();
-    loadQuestionsAndStart();
+    loadStates();
+
+    document.getElementById("next-button")
+        .addEventListener("click", nextQuestion);
+
+    document.getElementById("retry-button")
+        .addEventListener("click", startQuiz);
+
+    document.getElementById("state-select")
+        .addEventListener("change", (e) => {
+            selectedState = e.target.value;
+            if (selectedState) {
+                loadQuestionsAndStart();
+            }
+        });
 });
 
 async function getAccessToken() {
@@ -48,22 +63,45 @@ function showUser(user) {
         `Signed in as: ${user.name || user.username || user.email}`;
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-    setLastModified();
-    loadQuestionsAndStart();
+// Load available states and populate the dropdown
+async function loadStates() {
+    try {
+        const resp = await fetch("https://permit-quiz.onrender.com/api/states", {
+            method: "GET",
+            cache: "no-cache"
+        });
 
-document.getElementById("next-button")
-        .addEventListener("click", nextQuestion);
+        if (!resp.ok) {
+            throw new Error(`Failed to load states: ${resp.status}`);
+        }
 
-document.getElementById("retry-button")
-        .addEventListener("click", startQuiz);
-});
+        const data = await resp.json();
+        const stateSelect = document.getElementById("state-select");
 
+        stateSelect.innerHTML = '<option value="">Select a state...</option>';
+
+        data.states.forEach(state => {
+            const option = document.createElement("option");
+            option.value = state.code;
+            option.textContent = state.name;
+            stateSelect.appendChild(option);
+        });
+    } catch (err) {
+        console.error("Failed to load states:", err);
+        document.getElementById("state-select").innerHTML =
+            '<option value="">Failed to load states. Try refreshing.</option>';
+    }
+}
 
 // Load questions.json and then start the quiz
 async function loadQuestionsAndStart() {
+    if (!selectedState) {
+        document.getElementById('q-text').innerText = 'Please select a state to begin.';
+        return;
+    }
+
     try {
-        const resp = await fetch("https://permit-quiz.onrender.com/api/questions", {
+        const resp = await fetch(`https://permit-quiz.onrender.com/api/questions?state=${selectedState}`, {
             method: "GET",
             cache: "no-cache"
         });
@@ -75,7 +113,7 @@ async function loadQuestionsAndStart() {
         const data = await resp.json();
 
         // Your backend returns:
-        // { meta: { lastModified: ... }, questions: [...] }
+        // { meta: { state: ..., lastModified: ... }, questions: [...] }
         questionBank = data.questions;
 
         startQuiz();
