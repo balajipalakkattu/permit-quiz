@@ -1,0 +1,2948 @@
+[
+  {
+    "question": "When law enforcement signals you to stop, what should you do first?",
+    "image": "",
+    "options": [
+      "Stop immediately in your lane",
+      "Slow down, activate your turn signal, and pull over safely",
+      "Speed up to find a better location",
+      "Turn off your engine right away"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where should you NOT stop your vehicle during a traffic stop?",
+    "image": "",
+    "options": [
+      "On a straight road with a wide shoulder",
+      "On bridges, curves, or next to guardrails",
+      "In a well-lit parking lot",
+      "At a designated pull-off area"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During a traffic stop, where should your hands be?",
+    "image": "",
+    "options": [
+      "On your lap",
+      "On the dashboard",
+      "Clearly visible on the steering wheel",
+      "Holding your license and insurance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When should you exit your vehicle during a traffic stop?",
+    "image": "",
+    "options": [
+      "Whenever you want to explain something",
+      "Only if the officer instructs you to do so",
+      "If you feel nervous",
+      "If your documents are in the trunk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If your license or insurance is stored in the glove box or on your phone, what should you do?",
+    "image": "",
+    "options": [
+      "Reach for it immediately",
+      "Tell the officer where it is before retrieving it",
+      "Wait until the officer becomes impatient",
+      "Retrieve it only after exiting the vehicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If you cannot identify an unmarked police vehicle, what is the correct action?",
+    "image": "",
+    "options": [
+      "Ignore it and continue driving normally",
+      "Stop immediately on the roadway",
+      "Drive slowly below the speed limit and pull over at a well-lit, populated area",
+      "Speed up to get away"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What can you do at night to help communicate with the officer during a traffic stop?",
+    "image": "",
+    "options": [
+      "Turn off all lights inside the vehicle",
+      "Flash your headlights repeatedly",
+      "Turn on your interior dome light",
+      "Exit the vehicle with your hands raised"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If you receive a ticket during a traffic stop, what should you NOT do?",
+    "image": "",
+    "options": [
+      "Sign the ticket",
+      "Accept the ticket and contest it later in court",
+      "Argue with the officer at the scene",
+      "Provide your license and insurance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens if you refuse breath, urine, or blood tests when suspected of DUI?",
+    "image": "",
+    "options": [
+      "Nothing, refusal is allowed",
+      "You may lose your driving privileges",
+      "You will automatically be found innocent",
+      "You will only receive a warning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If you believe an officer acted inappropriately, what should you do?",
+    "image": "",
+    "options": [
+      "Argue with the officer during the stop",
+      "Refuse to provide your information",
+      "Report the conduct to the officer’s superiors as soon as possible",
+      "Post about it on social media instead"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are officers legally required to document during all traffic stops?",
+    "image": "",
+    "options": [
+      "Only the vehicle’s license plate",
+      "Only the reason for the stop",
+      "The driver’s name and address for data collection",
+      "Nothing unless a ticket is issued"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does Illinois law prohibit while operating a motor vehicle?",
+    "image": "",
+    "options": [
+      "Using hands-free devices for all drivers",
+      "Using handheld cellphones, texting, or electronic communications",
+      "Using GPS navigation",
+      "Talking to passengers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is allowed to use hands-free or Bluetooth technology while driving in Illinois?",
+    "image": "",
+    "options": [
+      "All drivers",
+      "Drivers age 19 and older",
+      "Only commercial drivers",
+      "Only drivers with a full license"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which headset use is prohibited under Illinois law?",
+    "image": "",
+    "options": [
+      "Single-sided earpiece",
+      "Hearing aids",
+      "Any headset that allows receiving electronic communications",
+      "Motorcycle intercom helmets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which device use is permitted for motorcycle or moped operators?",
+    "image": "",
+    "options": [
+      "Dual-sided music headphones",
+      "Intercom helmets for communication",
+      "Handheld cellphones",
+      "Video conferencing apps"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is hands-free technology still considered dangerous?",
+    "image": "",
+    "options": [
+      "It blocks the driver's view",
+      "It reduces vehicle control",
+      "It is still a distraction while driving",
+      "It interferes with GPS signals"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is recommended if you must make a phone call while driving?",
+    "image": "",
+    "options": [
+      "Use speakerphone while holding the device",
+      "Make the call quickly and return to driving",
+      "Pull off to the side of the road before calling",
+      "Slow down and call while driving"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT considered hands-free under Illinois law?",
+    "image": "",
+    "options": [
+      "Voice-activated controls",
+      "Bluetooth headset",
+      "Holding the phone and using speakerphone",
+      "Dashboard-mounted phone holder"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which activity is a violation of Illinois distracted driving laws?",
+    "image": "",
+    "options": [
+      "Listening to the radio",
+      "Watching or streaming live video on a cellphone",
+      "Using GPS with voice guidance",
+      "Talking to passengers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When is it legal to use a cellphone that is NOT hands-free?",
+    "image": "",
+    "options": [
+      "When driving below the speed limit",
+      "When stopped at a red light",
+      "To report an emergency",
+      "When driving on rural roads"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which situation allows handheld cellphone use under Illinois law?",
+    "image": "",
+    "options": [
+      "While driving slowly in traffic",
+      "While parked on the shoulder",
+      "While using speakerphone",
+      "While using social media"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When can you use a handheld cellphone if traffic is obstructed?",
+    "image": "",
+    "options": [
+      "Only if the vehicle is in neutral or park",
+      "Only if you are stopped for more than 10 seconds",
+      "Only if you turn on hazard lights",
+      "Only if you are in the left lane"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What may happen if you cause a crash due to distracted driving?",
+    "image": "",
+    "options": [
+      "You will only receive a warning",
+      "You may face criminal penalties and incarceration",
+      "You will be required to attend a safety class",
+      "You will lose your license automatically"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who must wear safety belts under Illinois law?",
+    "image": "",
+    "options": [
+      "Only front-seat passengers",
+      "Only drivers",
+      "All drivers and passengers age 8 and older",
+      "Only passengers under age 12"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How must passengers under age 8 be secured?",
+    "image": "",
+    "options": [
+      "With a regular seat belt",
+      "In an appropriate child restraint system",
+      "Only in the front seat",
+      "With a booster seat only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is responsible for securing a passenger with a disability who cannot fasten their own safety belt?",
+    "image": "",
+    "options": [
+      "The passenger",
+      "The nearest adult",
+      "The driver",
+      "Law enforcement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the driver responsible for regarding safety belts?",
+    "image": "",
+    "options": [
+      "Only securing children",
+      "Ensuring front-seat passengers wear belts",
+      "Ensuring all passengers obey safety belt and child restraint laws",
+      "Checking belts only during long trips"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How should the lap belt be worn?",
+    "image": "",
+    "options": [
+      "Across the stomach",
+      "Across the hip bones",
+      "High across the chest",
+      "Loose around the waist"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where should the shoulder strap cross the body?",
+    "image": "",
+    "options": [
+      "Behind the back",
+      "Under the arm",
+      "At or near the neck or face",
+      "Across the stomach"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What should the shoulder strap NEVER be placed?",
+    "image": "",
+    "options": [
+      "Across the chest",
+      "Behind the back or under the arm",
+      "Near the neck",
+      "Across the shoulder"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of air bags in vehicles?",
+    "image": "",
+    "options": [
+      "To replace safety belts",
+      "To provide supplemental protection with safety belts",
+      "To allow passengers to sit closer to the dashboard",
+      "To protect only front-seat passengers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the recommended distance between the driver and the air bag?",
+    "image": "",
+    "options": [
+      "2–3 inches",
+      "5–6 inches",
+      "10–12 inches",
+      "15–18 inches"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where should children ages 12 and younger be seated?",
+    "image": "",
+    "options": [
+      "In the front seat with an air bag",
+      "In the back seat properly secured",
+      "Anywhere without restrictions",
+      "In the front seat with the seat tilted back"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should be done if a child under age 8 must ride in the front seat with an active air bag?",
+    "image": "",
+    "options": [
+      "Use a rear-facing child seat",
+      "Place the child as close to the dashboard as possible",
+      "Use a properly installed child safety seat with the seat moved back",
+      "Turn off all safety belts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which child safety seat should NEVER be installed in front of an active air bag?",
+    "image": "",
+    "options": [
+      "Forward-facing seat",
+      "Booster seat",
+      "Rear-facing child safety seat",
+      "Convertible child seat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What feature do some pickup trucks have regarding air bags?",
+    "image": "",
+    "options": [
+      "Automatic child seat detection",
+      "The ability to turn off the passenger-side front air bag",
+      "Extra-large air bags",
+      "Rear-seat air bag deployment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the Child Passenger Protection Act require for children under age 8?",
+    "image": "",
+    "options": [
+      "They must sit in the front seat",
+      "They must be properly secured in an appropriate child safety restraint system",
+      "They may use only a lap belt",
+      "They do not need any restraint if supervised"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which type of safety belt must be used with booster seats?",
+    "image": "",
+    "options": [
+      "Lap belt only",
+      "Shoulder belt only",
+      "Lap/shoulder safety belt",
+      "No belt is required"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When may a child weighing more than 40 pounds be transported without a booster seat?",
+    "image": "",
+    "options": [
+      "In the front seat only",
+      "In any seat with a lap belt",
+      "In the back seat if no lap/shoulder belts are available",
+      "Only during short trips"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Until what age must children be secured in a rear-facing child restraint system under Illinois law?",
+    "image": "",
+    "options": [
+      "Until age 1",
+      "Until age 2",
+      "Until age 3",
+      "Until age 4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which condition allows a child under age 2 to use a forward-facing seat instead of rear-facing?",
+    "image": "",
+    "options": [
+      "If they weigh more than 40 pounds",
+      "If they prefer facing forward",
+      "If they ride in the front seat",
+      "If the vehicle has air bags"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which measurement allows a child under age 2 to use a forward-facing seat?",
+    "image": "",
+    "options": [
+      "More than 30 inches tall",
+      "More than 35 inches tall",
+      "More than 40 inches tall",
+      "More than 45 inches tall"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where can you find information on child safety seat recalls or inspection services?",
+    "image": "",
+    "options": [
+      "www.childseatinfo.com",
+      "www.safercar.gov",
+      "www.illinois.gov",
+      "www.safetykids.org"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When may you drive at the maximum posted speed limit?",
+    "image": "",
+    "options": [
+      "At all times",
+      "Only when road, traffic, and weather conditions are safe",
+      "Only when other vehicles are driving fast",
+      "Whenever you are on a highway"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you avoid when minimum speed limits are not posted?",
+    "image": "",
+    "options": [
+      "Driving faster than other vehicles",
+      "Driving slower than the posted limit",
+      "Driving so slowly that you interfere with normal traffic flow",
+      "Driving in the right lane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum speed limit on interstates and tollways in Illinois unless otherwise posted?",
+    "image": "",
+    "options": [
+      "55 mph",
+      "60 mph",
+      "65 mph",
+      "70 mph"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the maximum speed limit on four-lane highways unless otherwise posted?",
+    "image": "",
+    "options": [
+      "55 mph",
+      "60 mph",
+      "65 mph",
+      "70 mph"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum speed limit on other highways and rural areas unless otherwise posted?",
+    "image": "",
+    "options": [
+      "45 mph",
+      "50 mph",
+      "55 mph",
+      "60 mph"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum speed limit in city or town areas unless otherwise posted?",
+    "image": "",
+    "options": [
+      "20 mph",
+      "25 mph",
+      "30 mph",
+      "35 mph"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum speed limit in alleys unless otherwise posted?",
+    "image": "",
+    "options": [
+      "10 mph",
+      "15 mph",
+      "20 mph",
+      "25 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the speed limit in school zones on school days when children are present?",
+    "image": "",
+    "options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "30 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When must you slow down regardless of the posted speed limit?",
+    "image": "",
+    "options": [
+      "When approaching an intersection or curve",
+      "When driving on a straight road",
+      "When traffic is light",
+      "When using cruise control"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following may require reducing your speed for safety?",
+    "image": "",
+    "options": [
+      "Clear weather",
+      "Open rural roads",
+      "Pedestrians, bicyclists, or road conditions",
+      "Driving during daylight hours"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What must motorists do when approaching or entering a highway construction or maintenance area?",
+    "image": "",
+    "options": [
+      "Maintain normal speed",
+      "Slow down, discontinue handheld cellphone use, and proceed with caution",
+      "Speed up to pass workers quickly",
+      "Use speakerphone while driving"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When must motorists obey posted construction zone speed limits?",
+    "image": "",
+    "options": [
+      "Only when workers are present",
+      "Only during daytime hours",
+      "24 hours a day, seven days a week",
+      "Only when traffic is heavy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What should motorists do when leaving a construction zone?",
+    "image": "",
+    "options": [
+      "Immediately return to the normal speed limit",
+      "Maintain reduced speed until safely past workers or authorized vehicles",
+      "Stop and wait for instructions",
+      "Change lanes rapidly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following may be present in construction zones?",
+    "image": "",
+    "options": [
+      "Wide lanes and smooth pavement",
+      "Drop-offs, lane closures, and construction equipment",
+      "Extra passing lanes",
+      "No traffic control devices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must motorists do when approaching a stationary emergency or maintenance vehicle using flashing lights?",
+    "image": "",
+    "options": [
+      "Continue driving normally",
+      "Speed up to clear the area quickly",
+      "Yield, change lanes away when possible, and proceed with caution",
+      "Stop immediately in the lane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What should motorists do if they cannot change lanes away from a stationary emergency vehicle?",
+    "image": "",
+    "options": [
+      "Stop completely",
+      "Reduce speed and proceed with caution",
+      "Drive faster to pass quickly",
+      "Turn on hazard lights and continue at normal speed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is an 'emergency scene' defined?",
+    "image": "",
+    "options": [
+      "Any location with heavy traffic",
+      "A location where a stationary authorized vehicle has activated flashing lights",
+      "Any area with construction cones",
+      "A location where police are directing traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is prohibited within 500 feet of an emergency scene?",
+    "image": "",
+    "options": [
+      "Using headlights",
+      "Driving below the speed limit",
+      "Photography and handheld cellphone use",
+      "Changing lanes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What must motorists do when approached by an emergency vehicle using lights and/or sirens?",
+    "image": "",
+    "options": [
+      "Continue driving until reaching a safe parking lot",
+      "Pull immediately to the right side of the road",
+      "Stop in the middle of the lane",
+      "Speed up to avoid blocking the vehicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should a driver do when stopped at an intersection and an emergency vehicle approaches?",
+    "image": "",
+    "options": [
+      "Turn left to clear the intersection",
+      "Proceed through the intersection quickly",
+      "Remain stopped until the emergency vehicle passes",
+      "Move into the crosswalk"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a driver prohibited from doing at an emergency scene?",
+    "image": "",
+    "options": [
+      "Using hazard lights",
+      "Driving over fire hoses without permission",
+      "Changing lanes",
+      "Stopping to yield"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching a marked school zone during school hours with children present, what must a driver do?",
+    "image": "",
+    "options": [
+      "Maintain normal speed",
+      "Reduce speed to 20 mph and discontinue handheld cellphone use",
+      "Use speakerphone while driving",
+      "Drive in the left lane only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During what hours must school zone rules be followed when school is in operation?",
+    "image": "",
+    "options": [
+      "7 a.m. to 6 p.m.",
+      "6:30 a.m. to 4 p.m.",
+      "8 a.m. to 3 p.m.",
+      "Sunrise to sunset"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must a driver do when children or adults are in a school zone crosswalk?",
+    "image": "",
+    "options": [
+      "Slow down but continue driving",
+      "Stop and yield the right of way",
+      "Honk to alert pedestrians",
+      "Drive around them carefully"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is allowed in a school zone?",
+    "image": "",
+    "options": [
+      "Handheld cellphone use",
+      "Hands-free device use",
+      "Texting while stopped",
+      "Video conferencing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must motorists do when encountering a funeral procession?",
+    "image": "",
+    "options": [
+      "Drive between the vehicles to pass",
+      "Yield the right of way to all vehicles in the procession",
+      "Join the procession to move through traffic faster",
+      "Turn off headlights and hazard lights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How should motorists in a funeral procession identify themselves?",
+    "image": "",
+    "options": [
+      "By driving slowly",
+      "By using headlights and hazard lights",
+      "By honking periodically",
+      "By displaying a special permit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When is a driver allowed to drive between vehicles in an organized funeral procession?",
+    "image": "",
+    "options": [
+      "When running late",
+      "When directed by a law enforcement officer",
+      "When traffic is heavy",
+      "When the procession is moving slowly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is prohibited for vehicles not part of a funeral procession?",
+    "image": "",
+    "options": [
+      "Driving near the procession",
+      "Joining the procession to gain right of way",
+      "Stopping for the procession",
+      "Turning on headlights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What may local municipalities do if a driver interferes with a funeral procession due to reckless driving?",
+    "image": "",
+    "options": [
+      "Issue a warning only",
+      "Impound the vehicle",
+      "Allow the driver to continue",
+      "Require a safety course"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When making a right turn on red after a complete stop, who must you yield to?",
+    "image": "",
+    "options": [
+      "Only vehicles",
+      "Pedestrians, bicyclists, and other drivers",
+      "Only cross traffic",
+      "No one if the intersection looks clear"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where must you stop at a stop sign if no stop line is present?",
+    "image": "",
+    "options": [
+      "At a point where approaching traffic can be seen",
+      "In the middle of the intersection",
+      "Past the crosswalk",
+      "Only if other vehicles are present"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When making a left turn from a one-way street to another one-way street on red, what must you do?",
+    "image": "",
+    "options": [
+      "Turn without stopping",
+      "Stop and yield to traffic moving to the left",
+      "Only yield to pedestrians",
+      "Wait for a green arrow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At a four-way stop, who goes first?",
+    "image": "",
+    "options": [
+      "The vehicle on the left",
+      "The first driver to stop",
+      "The largest vehicle",
+      "The driver with the fastest speed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When two vehicles arrive at a four-way stop at the same time, who must yield?",
+    "image": "",
+    "options": [
+      "The vehicle on the right",
+      "The vehicle on the left",
+      "The vehicle with fewer passengers",
+      "The vehicle turning right"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do when entering an intersection with a flashing yellow arrow?",
+    "image": "",
+    "options": [
+      "Speed up to clear the intersection",
+      "Yield to oncoming traffic and pedestrians",
+      "Stop completely",
+      "Ignore the signal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At an uncontrolled intersection, who must yield when two vehicles arrive at the same time?",
+    "image": "",
+    "options": [
+      "The vehicle on the right",
+      "The vehicle on the left",
+      "The vehicle going straight",
+      "The vehicle turning right"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When making a left-hand turn into oncoming traffic, what must you do?",
+    "image": "",
+    "options": [
+      "Turn quickly before traffic arrives",
+      "Yield to oncoming vehicles",
+      "Only yield to pedestrians",
+      "Wait for a flashing red light"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do when approaching a MERGE sign?",
+    "image": "",
+    "options": [
+      "Stop immediately",
+      "Increase or decrease speed to avoid a crash",
+      "Move into the left lane",
+      "Ignore merging traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do when approaching a YIELD sign?",
+    "image": "",
+    "options": [
+      "Speed up to enter traffic",
+      "Slow down or stop to avoid a crash",
+      "Ignore the sign if traffic is light",
+      "Stop only if pedestrians are present"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Even after a light turns green, when must you still yield?",
+    "image": "",
+    "options": [
+      "When vehicles are still in the intersection",
+      "When pedestrians are on the sidewalk",
+      "When your lane is wide",
+      "When you are in a hurry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What must you do when emerging from an alley, building, private road, or driveway?",
+    "image": "",
+    "options": [
+      "Enter traffic immediately",
+      "Come to a complete stop and yield",
+      "Only stop if pedestrians are present",
+      "Honk before entering the roadway"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At a T-intersection with no signs, who must yield?",
+    "image": "",
+    "options": [
+      "The vehicle on the through highway",
+      "The vehicle on the terminating road",
+      "The vehicle turning right",
+      "The vehicle with the higher speed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do when approaching emergency vehicles using audible and visual signals?",
+    "image": "",
+    "options": [
+      "Continue driving normally",
+      "Yield and allow them to pass",
+      "Speed up to clear the area",
+      "Stop only if directed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is a driver prohibited from doing at an intersection?",
+    "image": "",
+    "options": [
+      "Entering without enough space to clear the crosswalk",
+      "Stopping before the crosswalk",
+      "Yielding to pedestrians",
+      "Waiting for traffic to clear"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is a driver prohibited from doing at a railroad crossing?",
+    "image": "",
+    "options": [
+      "Stopping when required",
+      "Driving onto the crossing when unsafe",
+      "Waiting for a train to pass",
+      "Yielding to trains"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When must a driver come to a complete stop for a pedestrian?",
+    "image": "",
+    "options": [
+      "Only when traffic signals indicate",
+      "When a pedestrian is in a marked crosswalk",
+      "Only when turning left",
+      "Only during nighttime hours"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On school days, when must a driver stop and yield in a school zone crosswalk?",
+    "image": "",
+    "options": [
+      "Only when a crossing guard is present",
+      "When children are in close proximity to the crosswalk",
+      "Only when the light is red",
+      "Only when traffic is heavy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When must a driver yield to a pedestrian in an unmarked crosswalk?",
+    "image": "",
+    "options": [
+      "Only when the pedestrian is running",
+      "When the pedestrian is on the driver’s side and no signals are present",
+      "Only when traffic is stopped",
+      "Only when the pedestrian waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When making a lawful turn on red after stopping, what must a driver do?",
+    "image": "",
+    "options": [
+      "Turn quickly before pedestrians enter",
+      "Yield to pedestrians in the crosswalk",
+      "Ignore pedestrians if the light is red",
+      "Only yield to vehicles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When must a driver yield to a pedestrian walking with a green light or walk signal?",
+    "image": "",
+    "options": [
+      "Only if the pedestrian is slow",
+      "Always",
+      "Only if the driver is turning left",
+      "Only if the pedestrian is in the middle of the street"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must a driver do when a pedestrian enters an intersection with a flashing yellow arrow?",
+    "image": "",
+    "options": [
+      "Speed up to clear the intersection",
+      "Yield to the pedestrian",
+      "Ignore the pedestrian",
+      "Turn without stopping"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How much space must a driver keep when passing a pedestrian on the roadway?",
+    "image": "",
+    "options": [
+      "1 foot",
+      "3 feet",
+      "5 feet",
+      "No minimum distance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How much space must a driver keep when passing a bicyclist?",
+    "image": "",
+    "options": [
+      "1 foot",
+      "3 feet",
+      "6 feet",
+      "No minimum distance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When may a driver pass on the right?",
+    "image": "",
+    "options": [
+      "On the shoulder at any time",
+      "When the vehicle ahead is making a left turn and there is room",
+      "Only on one-lane roads",
+      "Only when directed by police"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passing is NOT allowed within how many feet of an intersection or railroad crossing?",
+    "image": "",
+    "options": [
+      "50 feet",
+      "100 feet",
+      "150 feet",
+      "200 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passing is prohibited when a vehicle has stopped at a crosswalk to allow a pedestrian to cross. Why?",
+    "image": "",
+    "options": [
+      "It slows down traffic",
+      "It endangers the pedestrian",
+      "It is only discouraged, not illegal",
+      "It is allowed if done carefully"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where must drivers normally drive on the roadway?",
+    "image": "",
+    "options": [
+      "In the left lane",
+      "On the right half of the roadway",
+      "In the center of the roadway",
+      "On the shoulder"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When driving on an interstate, when may you use the left lane?",
+    "image": "",
+    "options": [
+      "Only when passing another vehicle",
+      "Whenever you prefer",
+      "Only during heavy rain",
+      "Only when traffic is slow"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is unlawful regarding lane usage?",
+    "image": "",
+    "options": [
+      "Driving slowly in the right lane",
+      "Weaving between lanes to move faster than traffic",
+      "Driving in the left lane when passing",
+      "Using turn signals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the Dutch Reach?",
+    "image": "",
+    "options": [
+      "A method of turning left safely",
+      "Using your right hand to open the door and check for bicyclists",
+      "A way to signal lane changes",
+      "A technique for passing on narrow roads"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How far in advance must you signal before turning in a business or residential area?",
+    "image": "",
+    "options": [
+      "50 feet",
+      "100 feet",
+      "150 feet",
+      "200 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How far in advance must you signal before turning in other areas?",
+    "image": "",
+    "options": [
+      "50 feet",
+      "100 feet",
+      "150 feet",
+      "200 feet"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What hand signal indicates a right turn?",
+    "image": "",
+    "options": [
+      "Left arm straight out",
+      "Left arm extended upward",
+      "Left arm extended downward",
+      "Right arm extended outward"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What hand signal indicates slowing down or stopping?",
+    "image": "",
+    "options": [
+      "Left arm straight out",
+      "Left arm extended upward",
+      "Left arm extended downward",
+      "Right arm extended outward"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What must you do before making a right turn?",
+    "image": "",
+    "options": [
+      "Signal from the proper turning lane",
+      "Speed up to clear the intersection",
+      "Move into the left lane first",
+      "Turn without checking traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When making a right turn, what should you do regarding pedestrians and emergency vehicles?",
+    "image": "",
+    "options": [
+      "Ignore them if the light is green",
+      "Yield the right of way",
+      "Only yield to pedestrians",
+      "Only yield to emergency vehicles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How should you position your vehicle when making a right turn?",
+    "image": "",
+    "options": [
+      "Turn wide into the left lane",
+      "Follow the curve of the curb and stay close to it",
+      "Stop in the middle of the intersection",
+      "Turn sharply without slowing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where should you complete a left turn?",
+    "image": "",
+    "options": [
+      "Into any lane you prefer",
+      "Into the lane closest to your intended direction",
+      "Into the far right lane",
+      "Into the shoulder if clear"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do with your wheels before starting a left turn?",
+    "image": "",
+    "options": [
+      "Point them toward the turn",
+      "Point them straight ahead",
+      "Turn them slightly right",
+      "Lock them in place"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct procedure when changing lanes to the left?",
+    "image": "",
+    "options": [
+      "Check mirrors only",
+      "Turn your head to visually check the area and signal left",
+      "Speed up and drift left",
+      "Signal after moving into the lane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do before changing lanes to the right?",
+    "image": "",
+    "options": [
+      "Check behind and to the right, then signal right",
+      "Only check your rearview mirror",
+      "Move quickly without signaling",
+      "Slow down and stop first"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When are U-turns prohibited?",
+    "image": "",
+    "options": [
+      "On straight roads",
+      "On curves and hills where you cannot see 500 feet",
+      "Only in residential areas",
+      "Only during heavy traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does flashing both turn signals indicate?",
+    "image": "",
+    "options": [
+      "A lane change",
+      "A disabled or parked vehicle",
+      "A right turn",
+      "A left turn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a two-way left turn lane?",
+    "image": "",
+    "options": [
+      "Passing slower vehicles",
+      "Parking temporarily",
+      "Providing a safe area for left turns",
+      "Driving straight through intersections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What must drivers do when turning or changing lanes in construction zones?",
+    "image": "",
+    "options": [
+      "Ignore pavement markings",
+      "Pay special attention to signs and barricades",
+      "Speed up to clear the zone",
+      "Use hazard lights at all times"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should drivers be aware of when trucks or buses make right turns?",
+    "image": "",
+    "options": [
+      "They always stay in their lane",
+      "They may need more space",
+      "They must stop before turning",
+      "They cannot turn right"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must drivers check for before making a right turn at an intersection with a bike lane?",
+    "image": "",
+    "options": [
+      "Only pedestrians",
+      "Bicyclists approaching the intersection",
+      "Only vehicles behind them",
+      "Only vehicles in the left lane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must you do before making a left turn?",
+    "image": "",
+    "options": [
+      "Check all approaching traffic",
+      "Only check traffic behind you",
+      "Turn without signaling",
+      "Move into the right lane first"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When changing lanes, what is the correct way to check blind spots?",
+    "image": "",
+    "options": [
+      "Use mirrors only",
+      "Turn your head and visually assess the area",
+      "Rely on turn signals",
+      "Slow down and stop"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How does traffic move inside a roundabout?",
+    "image": "",
+    "options": [
+      "Clockwise around the central island",
+      "Counter‑clockwise around the central island",
+      "Straight through without turning",
+      "In any direction depending on signs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What must vehicles do when entering or exiting a roundabout?",
+    "image": "",
+    "options": [
+      "Stop completely before entering",
+      "Yield to all traffic, pedestrians, and bicycles",
+      "Speed up to merge quickly",
+      "Enter from the left side"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct way to enter a roundabout?",
+    "image": "",
+    "options": [
+      "Turn left into the circle",
+      "Enter by turning right when safe",
+      "Drive straight into the center island",
+      "Stop and wait for a green light"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What signal should you use when exiting a roundabout?",
+    "image": "",
+    "options": [
+      "Left turn signal",
+      "Right turn signal",
+      "Hazard lights",
+      "No signal is required"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do before changing lanes or exiting inside a roundabout?",
+    "image": "",
+    "options": [
+      "Rely only on mirrors",
+      "Check for vehicles continuing through the roundabout",
+      "Stop completely",
+      "Honk to alert other drivers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching a roundabout, what should you do first?",
+    "image": "",
+    "options": [
+      "Speed up to enter quickly",
+      "Slow down and look for signs",
+      "Stop in the middle of the lane",
+      "Turn on hazard lights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When are you NOT required to stop for a school bus?",
+    "image": "",
+    "options": [
+      "On a two‑lane roadway",
+      "On a private road",
+      "On a four‑lane roadway when the bus is stopped in the opposite direction",
+      "In a school parking lot"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When must you stop before meeting or overtaking a school bus loading or unloading passengers?",
+    "image": "",
+    "options": [
+      "Only in rural areas",
+      "Only when the bus is on your side of the road",
+      "On any two‑lane roadway or private road",
+      "Only when children are visible"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How far in advance does a school bus give a warning before stopping?",
+    "image": "",
+    "options": [
+      "50 feet",
+      "100 feet (200 feet in rural areas)",
+      "300 feet",
+      "No advance warning is required"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What indicates that a school bus has come to a complete stop?",
+    "image": "",
+    "options": [
+      "The bus honks twice",
+      "The stop arm is extended and lights are flashing",
+      "The bus turns off its headlights",
+      "The bus driver waves vehicles forward"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching a stopped school bus from the opposite direction on a two‑lane road, what must you do?",
+    "image": "",
+    "options": [
+      "Slow down but continue driving",
+      "Stop and remain stopped until the stop arm is retracted",
+      "Pass carefully if no children are visible",
+      "Turn on hazard lights and proceed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When may you proceed past a stopped school bus?",
+    "image": "",
+    "options": [
+      "When the bus driver signals vehicles to pass",
+      "When you are in a hurry",
+      "When children are on the sidewalk",
+      "When the bus is on a hill"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the mandatory fine for a conviction of passing a stopped school bus with flashing lights and the stop arm extended?",
+    "options": [
+      "$100",
+      "$200",
+      "$300",
+      "$500"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What additional penalty, aside from a fine and driver's license suspension, is mandatory upon conviction for passing a stopped school bus?",
+    "options": [
+      "Mandatory jail time set by the court",
+      "Community service in an amount set by the court",
+      "Mandatory traffic school attendance",
+      "Confiscation of the vehicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If the owner of a vehicle was not driving during a school bus violation, what must they do to avoid having their vehicle registration suspended for three months?",
+    "options": [
+      "Pay a double fine",
+      "Provide the State’s Attorney’s Office with the name of the person driving the vehicle",
+      "Submit proof of vehicle insurance",
+      "Appear before a traffic magistrate within 10 days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the required stopping distance from the tracks when approaching a railroad crossing with a posted stop sign or lowered crossing gate?",
+    "options": [
+      "5 to 10 feet",
+      "15 to 50 feet",
+      "30 to 75 feet",
+      "At least 100 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When are you legally permitted to proceed across a railroad crossing after stopping for an oncoming train?",
+    "options": [
+      "As soon as the train passes completely out of sight",
+      "Only after the gate is all the way up, the lights are no longer flashing, or the flagger signals traffic to proceed",
+      "Immediately after the last car of the train clears the intersection",
+      "Once you hear the train horn stop sounding"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How should you approach a railroad crossing that has no warning devices or only a crossbuck sign?",
+    "options": [
+      "Come to a complete stop and look both ways",
+      "Maintain your speed and cross quickly",
+      "Slow down, look in both directions, listen for a train, and proceed with caution if safe",
+      "Honk your horn twice before crossing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following describes the rule regarding highway railroad crossings and traffic space?",
+    "options": [
+      "You may enter the crossing if your vehicle fits, even if traffic ahead is stopped",
+      "You may not enter unless there is sufficient space on the other side to accommodate your vehicle without obstructing a train",
+      "You must always stop on the tracks if traffic is congested",
+      "You can block the tracks temporarily if you stay inside your vehicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which types of vehicles are required by law to stop at most railroad crossings?",
+    "options": [
+      "All commercial delivery trucks and vans",
+      "Vehicles carrying people for hire, school buses, and vehicles carrying hazardous materials",
+      "Only heavy-duty semi-trucks",
+      "All public transportation and rideshare vehicles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If your vehicle stalls or becomes disabled on railroad tracks, what is the correct immediate action for everyone inside?",
+    "options": [
+      "Stay inside with seatbelts fastened and call 911",
+      "Try to push the vehicle off the tracks together",
+      "Get out immediately, call 911, and move away from the tracks at a 45-degree angle in the direction of the train",
+      "Run straight down the tracks away from the vehicle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Where can you find the railroad Emergency Notification System phone number if your vehicle gets stuck on the tracks?",
+    "options": [
+      "On the back of your driver's license",
+      "Printed on your vehicle registration card",
+      "On the blue sign affixed to the railroad crossing post near the tracks",
+      "On the crossing gate arm itself"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When approaching a railroad crossing with multiple tracks, what should you do immediately after a train has passed?",
+    "options": [
+      "Cross the tracks immediately before the crossing arms rise fully",
+      "Always look for a second train on another track before proceeding",
+      "Honk your horn twice and drive across slowly",
+      "Wait until the signal lights turn off completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If your vehicle has a manual transmission, what should you do regarding gear shifting when approaching and crossing railroad tracks?",
+    "options": [
+      "Shift up while crossing to increase speed",
+      "Shift down before reaching the tracks and do not change gears while crossing",
+      "Keep the vehicle in neutral while crossing",
+      "Change gears rapidly across the tracks to prevent overheating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where must you come to a complete stop when moving out of an alley, private road, or driveway in an urban area?",
+    "options": [
+      "Only if pedestrians are actively present",
+      "In the middle of the sidewalk area",
+      "Before entering the sidewalk area, or at the point nearest the street with a view of traffic if there is no sidewalk",
+      "After entering the roadway if traffic is heavy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When parking on a street with a curb facing downhill, how should you position your front wheels?",
+    "options": [
+      "Turn the front wheels away from the curb",
+      "Keep the wheels facing straight ahead",
+      "Turn the front wheels toward the curb",
+      "Turn the wheels toward the center of the road"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How should you position your front wheels when parking facing uphill on a street WITH a curb?",
+    "options": [
+      "Turn the front wheels away from the curb",
+      "Turn the front wheels toward the curb",
+      "Keep the wheels pointed straight ahead",
+      "Turn the wheels parallel to the curb"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If you park on a street WITHOUT a curb, how should you turn your wheels?",
+    "options": [
+      "Toward the center of the road",
+      "Toward the side of the road on which your vehicle is parked",
+      "Always to the left",
+      "Keep them pointing straight ahead"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When parallel parking on a two-way street, how close must your right-hand wheels be to the curb?",
+    "options": [
+      "Within 6 inches",
+      "Within 12 inches",
+      "Within 18 inches",
+      "Within 24 inches"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When can parking privileges for persons with disabilities be used?",
+    "options": [
+      "Anytime the vehicle is being used by a family member of the placard holder",
+      "Whenever the vehicle displays the placard, regardless of who is inside",
+      "Only when the authorized holder of the placard or license plates is present and enters or exits the vehicle",
+      "Whenever visiting a medical facility or government building"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the rule regarding the striped area next to an accessible parking space for persons with disabilities?",
+    "options": [
+      "It can be used for temporary loading and unloading for up to 5 minutes",
+      "It may be used for parking if all other accessible spaces are full",
+      "It is part of the reserved space and vehicles may not park in it, even with a placard",
+      "It is designated for electric vehicle overflow parking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which vehicles are allowed to park in designated spaces equipped with charging stations for electric vehicles?",
+    "options": [
+      "Any hybrid or low-emission vehicle",
+      "Only electric vehicles",
+      "Any vehicle during peak charging hours",
+      "Any vehicle for a maximum of 30 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following describes the rule for double parking?",
+    "options": [
+      "It is permitted only for delivery trucks for less than 10 minutes",
+      "It is permitted on one-way streets if traffic is light",
+      "It is prohibited on the roadway side of any parked vehicle",
+      "It is allowed if you keep your emergency flashers on"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the minimum clear distance view required in each direction if you must stop or park your vehicle on a paved roadway or highway outside business or residential districts due to an emergency?",
+    "options": [
+      "100 feet",
+      "150 feet",
+      "200 feet",
+      "500 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the minimum distance you must maintain when standing or parking a vehicle in front of a public or private driveway?",
+    "options": [
+      "You cannot stand or park in front of a driveway at all",
+      "Within 5 feet",
+      "Within 10 feet",
+      "Within 15 feet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the minimum distance required for standing or parking near a fire hydrant?",
+    "options": [
+      "Within 5 feet",
+      "Within 10 feet",
+      "Within 15 feet",
+      "Within 20 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the minimum prohibited distance for standing or parking a vehicle within 20 feet of?",
+    "options": [
+      "A STOP sign or traffic signal",
+      "A fire station driveway or crosswalk at an intersection",
+      "The nearest rail of a railroad crossing",
+      "A public or private driveway"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum prohibited distance for standing or parking a vehicle from a STOP sign, YIELD sign, or traffic control signal?",
+    "options": [
+      "15 feet",
+      "20 feet",
+      "30 feet",
+      "50 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Parking a vehicle is prohibited within how many feet of the nearest rail of a railroad crossing?",
+    "options": [
+      "20 feet",
+      "30 feet",
+      "50 feet",
+      "100 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When parking on a highway between sunset and sunrise, what lighting requirement must be met unless you are within an urban district?",
+    "options": [
+      "Front and rear parking lights must be displayed",
+      "High beams must remain on",
+      "Hazard flashers must be blinking continuously",
+      "All vehicle lights must be completely turned off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Under Illinois law, when is driving on a sidewalk permitted?",
+    "options": [
+      "When traffic is heavily congested on the main roadway",
+      "When turning into a private parking lot",
+      "Except when it is part of a driveway, never",
+      "Only when exiting an alley or commercial building"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does Illinois law specify regarding the number of passengers in a vehicle?",
+    "options": [
+      "You can carry as many passengers as can safely sit on the floor",
+      "There should be no more people in the front and rear seats than there are seat belts",
+      "Rear seat passengers are not restricted by the number of seat belts",
+      "Passenger limits are determined solely by total vehicle weight ratings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Is it permitted to ride in a house trailer while it is being moved on a street or highway?",
+    "options": [
+      "Yes, if it is equipped with functional seat belts",
+      "Yes, provided the driver maintains a speed under 45 mph",
+      "No, riding in a house trailer while it is being moved is prohibited",
+      "Yes, only on rural highways outside of municipal limits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At what maximum distance is it prohibited to operate a vehicle's sound system while driving on a highway in Illinois?",
+    "options": [
+      "A volume heard 25 feet or more away",
+      "A volume heard 50 feet or more away",
+      "A volume heard 75 feet or more away",
+      "A volume heard 100 feet or more away"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to the handbook definition, which of the following is considered a pedestrian?",
+    "options": [
+      "Only a person walking afoot",
+      "A person afoot, wearing in-line speed skates, riding a skateboard, or someone with a disability",
+      "Any person operating a motorized wheelchair or bicycle",
+      "Any person standing within 50 feet of a crosswalk"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When crossing at any place other than a marked or unmarked crosswalk, what must pedestrians do?",
+    "options": [
+      "Expect drivers to yield immediately",
+      "Activate a pedestrian crosswalk signal",
+      "Give the right of way to drivers",
+      "Wait for a police escort"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When walking on a roadway where there is no sidewalk but two-way traffic exists, which direction should pedestrians walk?",
+    "options": [
+      "In the direction of traffic flow",
+      "Facing oncoming traffic",
+      "On whichever side has wider pavement",
+      "In the center of the lane for high visibility"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What rights are granted to a pedestrian with a disability using a guide dog, white cane, wheelchair, or assistive device?",
+    "options": [
+      "They must be accompanied by a traffic officer when crossing",
+      "They have the right of way and are granted the same rights as any pedestrian",
+      "They must yield to all turning vehicles at major intersections",
+      "They are exempt from obeying pedestrian crossing signals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal status of hitchhiking (standing on the roadway to ask for a ride)?",
+    "options": [
+      "It is legal only during daylight hours",
+      "It is legal if you stay on the shoulder",
+      "It is illegal",
+      "It is permitted outside of urban business districts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Under what specific conditions may pedestrians aged 18 or older skate on public roadways?",
+    "options": [
+      "Where the posted speed limit is 45 mph or less from sunrise to sunset, as long as vehicular traffic is not impeded",
+      "Anytime traffic flow is moving under 30 mph",
+      "Only on weekends in residential neighborhoods",
+      "Whenever wearing reflective clothing and a helmet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the most common cause of motorcycle crashes involving motorists?",
+    "options": [
+      "Motorcyclists speeding in school zones",
+      "The failure of motorists to detect and recognize motorcycles in traffic",
+      "Mechanical failure of the motorcycle brakes",
+      "Motorcycles failing to yield at stoplights"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where do more than 50% of all motorcycle crashes occur?",
+    "options": [
+      "On highways during heavy rain",
+      "At intersections",
+      "In residential driveways",
+      "On winding rural curves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the rule regarding lane sharing between an automobile and a motorcycle?",
+    "options": [
+      "Automobiles can share the lane if traffic is moving slowly",
+      "Motorcyclists are entitled to the entire lane and you must not share the lane",
+      "Motorcycles must ride on the shoulder to let cars pass within the same lane",
+      "Lane sharing is permitted on multi-lane highways"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should a motorcyclist do if a red traffic light fails to turn green after 120 seconds?",
+    "options": [
+      "Wait indefinitely until a police officer arrives",
+      "Back up and turn right instead",
+      "Proceed through the intersection after yielding the right of way to oncoming traffic",
+      "Push the motorcycle across the crosswalk"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When a motorcycle is passing your vehicle, what should you do?",
+    "options": [
+      "Swerve toward the shoulder to give extra room",
+      "Speed up to prevent them from passing",
+      "Maintain your lane position and speed",
+      "Flash your high beams to signal them"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the recommended minimum following distance when driving behind a motorcycle?",
+    "options": [
+      "At least one second",
+      "At least two seconds",
+      "At least three to four seconds",
+      "At least six seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do motorcycles generally compare to cars regarding stopping distance in dry conditions?",
+    "options": [
+      "Motorcycles require a much longer stopping distance than a car",
+      "Motorcycles can stop more quickly than a car",
+      "Motorcycles stop in the exact same distance as cars",
+      "Motorcycles cannot brake safely in dry conditions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is an autocycle?",
+    "options": [
+      "A two-wheeled motorcycle equipped with a roof",
+      "A three-wheeled vehicle that has a steering wheel and seating that does not require straddling",
+      "A four-wheeled electric vehicle with bicycle pedals",
+      "A motorized scooter designed exclusively for sidewalks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of driver's license is required to legally operate an autocycle on Illinois roadways?",
+    "options": [
+      "Only a Class M motorcycle license",
+      "A valid Illinois driver's license",
+      "A commercial driver's license (CDL)",
+      "A specialized motorized bicycle permit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the rules regarding vehicles driving or parking in designated bike lanes?",
+    "options": [
+      "Vehicles may park in bike lanes if no bicyclists are present",
+      "Vehicles are allowed to drop off or pick up passengers briefly in bike lanes",
+      "Vehicles are not allowed to drive, park, idle, or drop off/pick up passengers in bike lanes even if bicyclists are absent",
+      "Vehicles may use bike lanes only during peak traffic hours"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "On which types of roadways are bicyclists prohibited?",
+    "options": [
+      "Residential neighborhood streets",
+      "Rural two-lane highways",
+      "Controlled-access highways, expressways, and other marked roadways",
+      "Any street with a posted speed limit over 25 mph"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In what direction are bicyclists required to travel on the roadway?",
+    "options": [
+      "Facing oncoming traffic",
+      "In the same direction as vehicles",
+      "Whichever side of the road has a wider shoulder",
+      "Against traffic if on a designated bike path"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the rule regarding bicyclists riding side by side?",
+    "options": [
+      "They may never ride side by side",
+      "They may ride side by side as long as the normal and reasonable movement of traffic is not impeded",
+      "They are allowed to ride up to four abreast in residential areas",
+      "Side-by-side riding is only permitted at night"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum passing space a motorist must leave from their side mirror when passing a bicyclist?",
+    "options": [
+      "At least 1 foot",
+      "At least 2 feet",
+      "At least 3 feet",
+      "At least 5 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What minimum age is required to operate a low-speed electric or gas bicycle?",
+    "options": [
+      "Age 12",
+      "Age 14",
+      "Age 16",
+      "Age 18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum speed permitted for low-speed electric or gas bicycles?",
+    "options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "30 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What driving technique is recommended when opening your vehicle door after parking to better check for bicyclists?",
+    "options": [
+      "Opening the door quickly without looking to avoid blocking traffic",
+      "Reaching with your right hand to open the door to give a better opportunity to check surroundings",
+      "Using only the rearview mirror while keeping both hands on the steering wheel",
+      "Sounding the vehicle horn before opening the door"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At what maximum speed does a Class 1 low-speed electric bicycle cease providing motor assistance?",
+    "options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "28 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum age requirement for operating a Class 3 low-speed electric bicycle?",
+    "options": [
+      "Age 14",
+      "Age 16",
+      "Age 18",
+      "Age 21"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What lighting requirements apply to a scooter or moped driven at night?",
+    "options": [
+      "A headlight visible from at least 300 feet and a taillight visible from 50 feet",
+      "A headlight visible from at least 500 feet and a taillight visible from 100-600 feet",
+      "High-beam headlights and dual flashing rear lamps",
+      "Reflective side tape only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of driver's license is required to operate a scooter with an engine displacement of less than 150cc (motor-driven cycle)?",
+    "options": [
+      "Any valid driver's license",
+      "A Class L motorcycle license",
+      "A Class M motorcycle license",
+      "No license is required"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the maximum engine displacement and shifting requirements for a moped operated with any valid Illinois driver's license?",
+    "options": [
+      "Up to 100cc with manual gear shifting",
+      "Not to exceed 50cc displacement and may not require the operator to shift gears",
+      "Up to 150cc with automatic transmission",
+      "Any size engine as long as it has automatic gears"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum weight limit and speed for a low-speed electric scooter?",
+    "options": [
+      "Weighs less than 75 pounds and has a max speed of 15 mph",
+      "Weighs less than 100 pounds and has a maximum speed of 10 miles per hour",
+      "Weighs less than 150 pounds and has a max speed of 20 mph",
+      "Weighs less than 50 pounds and has a max speed of 5 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum age requirement to operate a low-speed electric scooter?",
+    "options": [
+      "Age 14",
+      "Age 16",
+      "Age 18",
+      "Age 21"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When sharing the road with large vehicles like trucks or buses, why should you stay out of their blind spots?",
+    "options": [
+      "To prevent your vehicle from being blown off course by wind gusts",
+      "So the drivers of large vehicles can see surrounding vehicles in their side mirrors",
+      "To ensure you do not block their headlights at night",
+      "Because large vehicles have the automatic right of way in all lanes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What special precaution should drivers take when a large vehicle is preparing to make a turn?",
+    "options": [
+      "Pass the truck quickly on the right side before it turns",
+      "Give large vehicles plenty of room because they make wide right turns and sometimes leave an open space to the right",
+      "Honk your horn to warn pedestrians in the crosswalk",
+      "Pull up directly behind the truck to prevent other cars from cutting in"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under Illinois law, what must you do when approaching any disabled vehicle using hazard lights on a four-lane highway, if it is safe to do so?",
+    "options": [
+      "Come to a complete stop before passing",
+      "Change lanes away from the disabled vehicle",
+      "Sound your horn twice as a warning",
+      "Speed up quickly to clear the area"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal requirement regarding the connection when towing one vehicle with another?",
+    "options": [
+      "They must be connected by a single nylon rope up to 20 feet long",
+      "A towed vehicle should be coupled with two chains or cables, and the distance between the two cars should not exceed 15 feet in most cases",
+      "Towing with chains is prohibited; rigid tow bars must always be used",
+      "The distance between vehicles must not exceed 6 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "After how many hours can an unattended or abandoned vehicle be towed at the owner's expense on an interstate, expressway, or toll highway?",
+    "options": [
+      "After 2 hours",
+      "After 10 hours",
+      "After 24 hours",
+      "After 48 hours"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the maximum speed capability of a low-speed vehicle under Illinois law?",
+    "options": [
+      "20 mph",
+      "25 mph",
+      "30 mph",
+      "35 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On what types of streets may low-speed vehicles operate?",
+    "options": [
+      "Any street with a posted speed limit of 30 mph or less unless prohibited by the local municipality",
+      "Only on residential streets with a speed limit under 20 mph",
+      "On all multi-lane highways and expressways",
+      "Any roadway regardless of the posted speed limit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What emblem must be displayed on the rear of certain slow-moving farm, construction, or animal-drawn vehicles?",
+    "options": [
+      "A red and white reflective triangle",
+      "An orange slow-moving vehicle emblem",
+      "A flashing green circular reflector",
+      "A yellow diamond-shaped hazard sign"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the typical normal speed range for slow-moving vehicles?",
+    "options": [
+      "5 to 20 mph",
+      "15 to 30 mph",
+      "25 to 40 mph",
+      "30 to 50 mph"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "When lights are required on a slow-moving vehicle, what type of signal must be mounted on the rear, and what is its visibility requirement in sunlight?",
+    "options": [
+      "A steady red light visible for 300 feet",
+      "A flashing amber signal visible for 500 feet in sunlight",
+      "A rotating white strobe visible for 1,000 feet",
+      "Dual blue flashing lights visible for 200 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On which types of roadways are horseback riders prohibited?",
+    "options": [
+      "All rural two-lane highways",
+      "Controlled-access highways and most expressways",
+      "Any street within a residential municipal district",
+      "Any road with a posted speed limit over 45 mph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What action should a driver strictly avoid when near a horse or other livestock on a roadway?",
+    "options": [
+      "Flashing your headlights",
+      "Slowing down gradually",
+      "Sounding a horn",
+      "Moving to the left side of the lane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At what Blood-Alcohol Concentration (BAC) percentage is it illegal to drive in Illinois?",
+    "options": [
+      "0.02% or more",
+      "0.05% or more",
+      "0.08% or more",
+      "0.10% or more"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "According to Illinois law, what is the only way to remove the effects of alcohol from your body?",
+    "options": [
+      "Drinking large amounts of strong black coffee",
+      "Eating a heavy meal to absorb the alcohol",
+      "Taking a cold shower",
+      "Time"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the illegal THC concentration threshold in whole blood for operating a motor vehicle on Illinois highways?",
+    "options": [
+      "2 nanograms or more per milliliter",
+      "5 nanograms or more per milliliter",
+      "10 nanograms or more per milliliter",
+      "15 nanograms or more per milliliter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How must cannabis be transported in a motor vehicle?",
+    "options": [
+      "In the glove compartment for easy access",
+      "In a sealed, odor-proof, and child-resistant container",
+      "In the trunk only if purchased for medical use",
+      "In any open container as long as it is out of reach of the driver"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How is Driving Under the Influence (DUI) classified under Illinois law?",
+    "options": [
+      "A minor traffic infraction",
+      "A misdemeanor offense only",
+      "A violent crime",
+      "A civil infraction resulting in fines only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What legal principle means that by operating on Illinois roadways, you automatically consent to submit to breath, blood, or urine tests if suspected of impairment?",
+    "options": [
+      "Probable Cause Doctrine",
+      "Implied Consent Law",
+      "Driver Responsibility Agreement",
+      "Mandatory Compliance Act"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If a chemical test discloses a BAC of .08% or more (or prohibited THC levels), how long will your driving privileges be suspended under the statutory summary suspension law for a first offense?",
+    "options": [
+      "Three months",
+      "Six months",
+      "One year",
+      "Three years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the length of the driver's license suspension for a first-time refusal to submit to chemical testing?",
+    "options": [
+      "Six months",
+      "One year",
+      "Three years",
+      "Five years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For how long will driving privileges be suspended for refusing a chemical test if you are considered a second offender (e.g., prior DUI conviction or refusal within the last five years)?",
+    "options": [
+      "Six months",
+      "One year",
+      "Three years",
+      "Lifetime revocation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When a police officer takes a valid driver's license upon arrest for a DUI suspension, for how many days does the temporary receipt allow you to drive before the summary suspension begins on the 46th day?",
+    "options": [
+      "30 days",
+      "45 days",
+      "60 days",
+      "90 days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum revocation period for a first DUI conviction?",
+    "options": [
+      "6 months",
+      "1 year",
+      "5 years",
+      "10 years"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many convictions result in a lifetime revocation of driving privileges for DUI in Illinois?",
+    "options": [
+      "A second conviction",
+      "A third conviction",
+      "A fourth and subsequent conviction",
+      "Only if someone was injured"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What device must an eligible first-time DUI offender have installed on their vehicle(s) if they receive a Monitoring Device Driving Permit (MDDP) during a statutory summary suspension?",
+    "options": [
+      "A GPS tracking monitor",
+      "A Breath Alcohol Ignition Interlock Device (BAIID)",
+      "An automated speed governor",
+      "A mandatory dash camera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following scenarios can result in a charge of Aggravated DUI in Illinois?",
+    "options": [
+      "Driving under the influence while listening to music too loudly",
+      "Being involved in a death or personal injury crash while driving under the influence",
+      "Refusing a breathalyzer test for the first time during a routine traffic stop",
+      "Driving with an open container of alcohol with no passengers present"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which types of vehicles are exempt from the law prohibiting the drinking of alcoholic beverages in a vehicle?",
+    "options": [
+      "Standard passenger sedans and pickup trucks",
+      "Chartered buses used for nonschool purposes, motor homes, mini motor homes, and limousines",
+      "All commercial delivery vehicles",
+      "Any vehicle traveling on interstate highways"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Can your driving privileges be affected if you operate a motorboat under the influence of alcohol or drugs?",
+    "options": [
+      "No, motorboat violations have no impact on a driver's license",
+      "Yes, operating a motorboat under the influence or refusing chemical testing can result in the loss of driving privileges",
+      "Only if you do not possess a valid boat operator's certificate",
+      "Only if someone is injured or killed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal responsibility of a parent or legal guardian regarding persons under age 21 and alcoholic beverages?",
+    "options": [
+      "They are only responsible if the youth is driving a vehicle",
+      "It is illegal for a parent or legal guardian to allow persons under age 21 to consume alcohol or fail to control access to alcohol on their property or vehicle",
+      "They are permitted to provide alcohol only if consumed indoors",
+      "They are legally liable only if a traffic accident occurs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What penalties may you face if you are convicted of driving while your license is suspended or revoked for a DUI, reckless homicide, or leaving the scene of a crash?",
+    "options": [
+      "A minor written warning and a small administrative fee",
+      "Criminal penalties including jail time, an extended suspension or revocation period, and vehicle seizure/forfeiture",
+      "Mandatory community service with no effect on vehicle ownership",
+      "Immediate reinstatement of driving privileges upon payment of a fine"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What are the legal consequences of allowing someone to drive your vehicle if you know that person is under the influence?",
+    "options": [
+      "It is completely legal as long as you are a passenger in the car",
+      "It is illegal and you can be convicted for contributing to a DUI",
+      "You only face civil liability if an accident occurs",
+      "Only the driver is held legally responsible"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum revocation period for a first-time DUI conviction if the driver is under age 21?",
+    "options": [
+      "Six months",
+      "One year",
+      "Two years",
+      "Three years"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What penalty does an under-21 driver face for having any trace of alcohol in their system while operating a motor vehicle?",
+    "options": [
+      "A verbal warning from law enforcement",
+      "Suspension of driving privileges for a minimum of three months",
+      "Mandatory community service only",
+      "Revocation of driving privileges for one year"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under Illinois law, what happens to individuals under age 21 who are convicted of illegal consumption, purchase, possession, or receiving alcohol as a gift?",
+    "options": [
+      "They only pay a monetary fine",
+      "They lose their driving privileges regardless of whether they were operating a vehicle at the time",
+      "Their driver's license is suspended only if they were driving within 500 feet of a school",
+      "They receive court supervision with no impact on their license"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If you receive a ticket for a minor traffic violation and fail to appear on the initial court date, when is a second court date set?",
+    "options": [
+      "A minimum of 10 days later",
+      "A minimum of 30 days later",
+      "Exactly 60 days later",
+      "Within 90 business days"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regardless of fault, within what timeframe must a driver report a vehicle crash after it occurs?",
+    "options": [
+      "10 minutes",
+      "30 minutes",
+      "1 hour",
+      "24 hours"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the general property damage threshold for filing a crash report if all vehicles involved are insured?",
+    "options": [
+      "More than $500",
+      "More than $1,000",
+      "More than $1,500",
+      "More than $2,500"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the property damage threshold for filing a crash report if any vehicle involved in the crash is uninsured?",
+    "options": [
+      "More than $250",
+      "More than $500",
+      "More than $1,000",
+      "More than $1,500"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Under the Safety Responsibility Law, what happens if you are at fault in a crash resulting in injury or property damage without liability insurance and do not post security?",
+    "options": [
+      "You receive a written warning and a 30-day suspension",
+      "Your driver's license may be suspended until the lawsuit is settled",
+      "Your vehicle is permanently confiscated by the state",
+      "You are required to perform 100 hours of community service"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum suspension period and reinstatement fee for individuals convicted of mandatory insurance violations?",
+    "options": [
+      "One month suspension and a $50 fee",
+      "Three months suspension and a $100 reinstatement fee with no driving permit available",
+      "Six months suspension and a $200 fee",
+      "One year suspension and a $500 fee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Drivers age 55 or over may receive a reduction in their motor vehicle liability insurance by successfully completing what type of course?",
+    "options": [
+      "A 4-hour advanced highway safety seminar",
+      "An 8-hour defensive driving course",
+      "A 12-hour written traffic law workshop",
+      "A practical behind-the-wheel testing course"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of pavement marking is used to separate lanes of traffic moving in opposite directions where passing is allowed?",
+    "options": [
+      "Solid double yellow lines",
+      "Broken yellow lines",
+      "Solid white lines",
+      "Broken white lines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the rule regarding crossing a double solid white line that separates lanes of traffic moving in the same direction?",
+    "options": [
+      "Crossing is allowed only when changing lanes in heavy traffic",
+      "Crossing is permitted if using a turn signal",
+      "Crossing a double solid white line is prohibited",
+      "Crossing is allowed during daylight hours only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does a round advance warning railroad sign (a yellow sign with a black 'X' and 'RR') indicate?",
+    "options": [
+      "A highway-railway crossing is ahead",
+      "A restricted industrial zone is ahead",
+      "A mandatory inspection station is ahead",
+      "A slow-moving vehicle zone is ahead"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What rule defines the three-second rule for following distance?",
+    "options": [
+      "Your vehicle should stay at least 3 car lengths behind the vehicle ahead",
+      "Your vehicle should not reach a fixed road object before the count of one-thousand-three after the vehicle ahead passes it",
+      "You must wait 3 seconds before moving after a traffic light turns green",
+      "You should pulse your brakes every 3 seconds on wet roads"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What effect does doubling your vehicle's speed have on its stopping distance?",
+    "options": [
+      "It doubles the stopping distance",
+      "It triples the stopping distance",
+      "It quadruples the stopping distance",
+      "It has no impact on stopping distance"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What Illinois law is required regarding vehicle headlights and weather conditions?",
+    "options": [
+      "Headlights must be used anytime you drive outside an urban district",
+      "Headlights must be used when operating your windshield wipers",
+      "High beams must be used whenever visibility drops below 500 feet",
+      "Parking lights must be left on during daytime rain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if you encounter a roadway or viaduct that has been flooded due to heavy rain?",
+    "options": [
+      "Drive through slowly in low gear",
+      "Test the depth of the water before proceeding",
+      "Turn your vehicle around and find another route",
+      "Drive across only if no other vehicles are present"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary purpose of a two-way left turn lane marked with yellow lines and white arrows?",
+    "options": [
+      "To allow drivers to pass slower traffic safely in both directions",
+      "To prepare for or make a left turn, or a U-turn where permitted by law",
+      "To serve as a temporary parking zone during peak rush hours",
+      "To provide a designated lane for emergency vehicles only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Where is a white stop line typically located relative to a crosswalk in an urban area?",
+    "options": [
+      "2 feet after the crosswalk",
+      "Usually 4 feet before the crosswalk",
+      "Directly in the center of the crosswalk",
+      "10 feet before the intersection stop sign"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a railroad crossbuck sign indicate if there is more than one track below it?",
+    "options": [
+      "It acts as a mandatory stop sign regardless of oncoming trains",
+      "It serves as a yield sign, and you must yield the right of way to any oncoming trains and equipment",
+      "It indicates the maximum speed limit over the crossing",
+      "It tells you how many minutes you must wait before crossing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What information does the Emergency Notification System (ENS) sign provide at every highway-rail grade crossing?",
+    "options": [
+      "The exact GPS coordinates of the nearest hospital",
+      "Critical emergency contact information to reach the railroad and identify the specific crossing",
+      "The schedule of daily freight and passenger trains",
+      "Instructions on how to restart a stalled vehicle on the tracks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How can drivers exercise their eyes to help avoid drowsy driving on long trips?",
+    "options": [
+      "By closing their eyes for brief periods while using cruise control",
+      "By reading road signs or shifting the focus to different parts of the roadway",
+      "By turning on high-beam headlights to increase roadside visibility",
+      "By wearing specialized anti-fatigue glasses"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following actions is recommended if your vehicle begins to hydroplane in heavy rain and you cannot regain control?",
+    "options": [
+      "Slam on your brakes immediately to stop sliding",
+      "Turn your steering wheel sharply in the opposite direction of the skid",
+      "Release the accelerator and ride out the skid",
+      "Shift the transmission into neutral while applying emergency brakes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What specific vehicle restriction is enforced by the Illinois Tollway System regarding high winds?",
+    "options": [
+      "Bans all commercial semi-trucks from entering the tollway",
+      "Bans the hauling of house trailers in high winds",
+      "Requires all vehicles to maintain a speed below 35 mph",
+      "Requires passenger vehicles to use hazard flashers continuously"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if your vehicle becomes stranded during winter weather?",
+    "options": [
+      "Leave the vehicle immediately and walk to find help",
+      "Remain in your vehicle and run the engine only for brief times while opening a window to prevent carbon monoxide poisoning",
+      "Keep the engine running continuously with all windows closed to stay warm",
+      "Push the vehicle onto the shoulder and wait outside"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal status of backing up on an expressway if you miss an exit?",
+    "options": [
+      "It is permitted if you use emergency flashers",
+      "It is allowed only on toll roads and turnpikes",
+      "It is against the law",
+      "It is allowed during non-peak traffic hours"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the recommended merging strategy if traffic is dense and slow-moving due to a lane reduction caused by construction?",
+    "options": [
+      "Merge as early as possible several miles before the construction zone",
+      "Use both lanes to advance to the lane reduction point and merge at that location, alternating turns",
+      "Stop in your lane until traffic clears to allow an easy merge",
+      "Drive onto the shoulder to bypass the backup"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "At what distance must you dim your bright headlights before meeting an oncoming vehicle at night?",
+    "options": [
+      "300 feet",
+      "500 feet",
+      "1,000 feet",
+      "1,500 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if a vehicle is approaching you head-on in your lane?",
+    "options": [
+      "Swerve left into the oncoming lane",
+      "Slow down, pull over to the right, and sound the horn",
+      "Slam on your brakes and come to an immediate stop in the center of the lane",
+      "Flash your high beams and maintain your speed"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct initial action to take if your vehicle starts to skid because your tires lose traction?",
+    "options": [
+      "Slam on the brakes to stop the momentum immediately",
+      "Turn the steering wheel sharply in the opposite direction of the skid",
+      "Ease off the gas pedal or brakes and steer into the direction of the skid until regaining traction",
+      "Shift the transmission into reverse to slow down"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the correct procedure if your vehicle’s wheels drift off the pavement onto the shoulder?",
+    "options": [
+      "Jerk the steering wheel sharply back toward the pavement to avoid the shoulder",
+      "Grip the wheel firmly, ease your foot off the gas pedal, brake gently, and steer back onto the pavement after checking traffic",
+      "Apply the emergency brake immediately and come to a complete stop on the shoulder",
+      "Accelerate quickly to climb back onto the paved roadway"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if smoke appears coming from your vehicle?",
+    "options": [
+      "Open the hood immediately and attempt to put out the fire with water",
+      "Continue driving to the nearest service station with your hazard flashers on",
+      "Pull off the road, turn off the engine, move away from your vehicle, and call 911",
+      "Rev the engine to clear out blocked exhaust fumes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If your vehicle runs off the roadway into water and begins to sink, where is an air pocket usually formed?",
+    "options": [
+      "In the glove compartment",
+      "Under the hood near the engine",
+      "In the back seat area",
+      "In the trunk space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are the most common symptoms of carbon monoxide poisoning?",
+    "options": [
+      "Sudden high fever and chills",
+      "Headache, dizziness, weakness, upset stomach, vomiting, chest pain, and confusion (flu-like symptoms)",
+      "Sharp muscle cramps and excessive sweating",
+      "Temporary loss of hearing and blurred vision"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How often does the handbook recommend having a mechanic check your vehicle exhaust system to prevent carbon monoxide poisoning?",
+    "options": [
+      "Every 6 months",
+      "Every year",
+      "Every 3 years",
+      "Only when purchasing a used vehicle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If power lines fall on your vehicle during a crash and there is no immediate danger of fire, what should you and your passengers do?",
+    "options": [
+      "Exit immediately and run as fast as possible",
+      "Remain in the vehicle until help arrives",
+      "Touch the metal body to ground the electricity before stepping out",
+      "Lower the windows to let escaping electrical current dissipate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If you must jump clear of a vehicle due to an immediate fire danger from fallen power lines, how should you land and move away?",
+    "options": [
+      "Land on one foot and run quickly for 100 feet",
+      "Land on both feet and hop or shuffle while keeping arms close to your body for a distance of 50 feet away",
+      "Roll away from the vehicle along the ground",
+      "Jump with arms and legs spread wide to maintain balance"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the recommended response if you experience a tire blowout while driving?",
+    "options": [
+      "Slam on the brakes immediately to stop as quickly as possible",
+      "Ease your foot off the gas pedal, keep a firm grasp on the steering wheel, and pull safely off the roadway without braking suddenly",
+      "Accelerate to maintain control and steer sharply toward the nearest shoulder",
+      "Shift into neutral and pull the emergency brake immediately"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What crucial warning is provided if your vehicle suffers a sudden steering failure?",
+    "options": [
+      "Turn off the ignition immediately to shut down the engine power",
+      "Do not turn off the ignition if your vehicle has power steering or a locking steering wheel, because you will lose steering ability",
+      "Pull the emergency brake as hard as possible while turning",
+      "Shift into reverse to slow the vehicle down quickly"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the first step you should take if your vehicle's brake pedal suddenly sinks to the floor?",
+    "options": [
+      "Turn off the engine immediately",
+      "Pump the brake pedal to build pressure",
+      "Jump out of the vehicle if traveling under 20 mph",
+      "Shift directly into park"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What action should you take first if your gas pedal becomes stuck?",
+    "options": [
+      "Hook your toe under it to free it",
+      "Turn off the ignition key completely",
+      "Slam on the parking brake with full force",
+      "Open the driver's side door to slow down"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following behaviors is explicitly classified as an act of aggressive driving?",
+    "options": [
+      "Driving exactly at the posted speed limit in the right lane",
+      "Using your turn signal 100 feet before a turn",
+      "Slamming on brakes in front of a tailgater",
+      "Yielding the right of way to pedestrians"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How should you respond if you encounter an angry or aggressive motorist on the roadway?",
+    "options": [
+      "Make direct eye contact and honk back to show you are paying attention",
+      "Do not retaliate, avoid eye contact, keep doors locked and windows up, and do not underestimate their potential for aggression",
+      "Speed up to put as much distance as possible between you and the other vehicle",
+      "Stop your vehicle immediately and confront the driver"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary action recommended for motorists whose vehicle becomes stranded on a high-capacity roadway or the Illinois Tollway?",
+    "options": [
+      "Exit the vehicle immediately and stand on the outer shoulder",
+      "Remain in your vehicle, keep your seatbelt on, and activate hazard lights",
+      "Walk back along the shoulder to place warning triangles 100 feet away",
+      "Attempt to push the vehicle across all lanes to the median"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the specialized phone number you can dial on your cell phone for assistance on the Illinois Tollway?",
+    "options": [
+      "*311",
+      "*555",
+      "*999",
+      "#77"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When stranded on a low-capacity roadway, under what condition should you exit your vehicle?",
+    "options": [
+      "Whenever you want to stretch your legs",
+      "Only if it is necessary and safe to do so, exiting from the side opposite oncoming traffic",
+      "Immediately upon stopping, regardless of traffic flow",
+      "Only after emergency responders arrive on the scene"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal stopping distance requirement for a vehicle's foot brake when traveling at a speed of 20 mph?",
+    "options": [
+      "Within 15 feet",
+      "Within 30 feet",
+      "Within 45 feet",
+      "Within 55 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "From what distance away must a vehicle's license plate light make the plate readable?",
+    "options": [
+      "25 feet",
+      "50 feet",
+      "100 feet",
+      "200 feet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the maximum allowed tinting strip on the top of a vehicle's front windshield under Illinois equipment laws?",
+    "options": [
+      "2 inches",
+      "4 inches",
+      "6 inches",
+      "Tinting is completely prohibited on the front windshield"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How far away must a vehicle's horn be able to be heard?",
+    "options": [
+      "100 feet",
+      "150 feet",
+      "200 feet",
+      "500 feet"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum legal limit for altering the suspension system of a vehicle weighing 9,000 pounds or less to lift the body from the chassis frame?",
+    "options": [
+      "In excess of 1 inch",
+      "In excess of 2 inches",
+      "In excess of 3 inches",
+      "In excess of 5 inches"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How must a load extending 4 feet or more to the rear of a vehicle be marked during the day?",
+    "options": [
+      "With a flashing amber strobe light",
+      "With a red flag",
+      "With reflective orange tape",
+      "With a yellow warning sign"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During what specific date range are studded pneumatic tires permitted for vehicles displaying Persons with Disabilities or Disabled Veteran plates living on unincorporated rural roads?",
+    "options": [
+      "October 1 to March 31",
+      "November 15 to April 1",
+      "December 1 to March 1",
+      "November 1 to April 30"
+    ],
+    "answer": 1
+  }
+  
+]
