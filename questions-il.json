@@ -2536,6 +2536,7 @@
   },
   {
     "question": "What does a round advance warning railroad sign (a yellow sign with a black 'X' and 'RR') indicate?",
+    "image": "images/TODO-railroad-warning.png",
     "options": [
       "A highway-railway crossing is ahead",
       "A restricted industrial zone is ahead",
